@@ -79,11 +79,11 @@
 
 
   <p>
-  <h2>Reference material</h2>
+  <h2>Libri e referenze utili</h2>
   <div style="width: 270px; height: 150px; overflow: auto">
   <ul>
-    <li>Lecture notes and examples</li>
-    <li>libro 1</li>
+    <li>Dispense di Longo e Dionisi</li>
+    <li>D. H. Perkins, Introduction to High Energy Physics, 4th ed.</li>
   </ul>
   </div>
 
