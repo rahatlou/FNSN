@@ -81,7 +81,7 @@
   <h2>Libri e referenze utili</h2>
   <div style="width: 270px; height: 150px; overflow: auto">
   <ul>
-    <li><a href="http://www.roma1.infn.it/people/longo/fnsn/testo.html">Dispense di Longo e Dionisi</a></li>
+    <li>C. Dionisi e E. Longo, <a href="http://www.roma1.infn.it/people/longo/fnsn/testo.html">Dispense di fisica nucleare e subnucleare</a></li>
     <li>D. H. Perkins, <a href="https://doi.org/10.1017/CBO9780511809040">Introduction to High Energy Physics, 4th ed.</a></li>
     <li>Cahn and Goldhaber,<a href="https://doi.org/10.1017/CBO9780511609923">The experimental foundation of Partilce Physics<a>, 2nd Ed.</li>
   </ul>
