@@ -89,9 +89,8 @@
 
   <h2 class="title">Orario Ricevimento</h2>
   <ul>
-  <li>Docente: Giovedi` 13-15, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 202-A, Piano 2, Edificio Marconi (Vecchio edificio di Fisica)</a>
-    </li>
-  <li>Francesco Pandolfi: Lunedi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 245-b, Piano 2, Edificio Marconi (Vecchio edificio di Fisica)</a>
+    <li>Docente: Giovedi` 13-15, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 202-A, Piano 2, Edificio Marconi</a>
+    <li>Francesco Pandolfi: Lunedi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 245-b, Piano 2, Edificio Marconi</a>
   </ul>
 
 
