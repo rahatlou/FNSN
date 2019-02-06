@@ -70,7 +70,7 @@
 
   <p>
   <h2>News</h2>
-  <div style="width: 270px; height: 350px; overflow: auto">
+  <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
       <li><b>5/2</b>: Le lezioni avranno inizio il giorno mercoledi` 27 Febbraio</li>
     </ul> <!-- lista avvisi-->
@@ -79,7 +79,7 @@
 
   <p>
   <h2>Libri e referenze utili</h2>
-  <div style="width: 270px; height: 150px; overflow: auto">
+  <div style="width: 270px; height: 200px; overflow: auto">
   <ul>
     <li>C. Dionisi e E. Longo, <a href="http://www.roma1.infn.it/people/longo/fnsn/testo.html">Dispense di fisica nucleare e subnucleare</a></li>
     <li>D. H. Perkins, <a href="https://doi.org/10.1017/CBO9780511809040">Introduction to High Energy Physics, 4th ed.</a></li>
