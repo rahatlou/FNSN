@@ -72,7 +72,9 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>5/2</b>: Le lezioni avranno inizio il giorno mercoledi` 27 Febbraio</li>
+      <li><b>28/2</b>: Per il <b>solo giorno lunedi` 4/3</b> le lezioni di Ottica e
+        Struttura di questo canale avranno luogo nel pomeriggio <b>dopo</b> questo corso: Ottica (Polimeni) 14-16 Aula 6, Struttura (Postorino) 16-18 Aula 6.</li>
+      <li>5/2: Le lezioni avranno inizio il giorno mercoledi` 27 Febbraio</li>
     </ul> <!-- lista avvisi-->
   </div>
 
