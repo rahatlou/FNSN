@@ -85,6 +85,7 @@
   <div style="width: 270px; height: 200px; overflow: auto">
   <ul>
     <li>C. Dionisi e E. Longo, <a href="http://www.roma1.infn.it/people/longo/fnsn/testo.html">Dispense di fisica nucleare e subnucleare</a></li>
+    <li>R. Paramatti, <a href="http://www.roma1.infn.it/cms/ric/cinematica.pdf">Dispense di cinemtaica relativistica</a></li>
     <li>D. H. Perkins, <a href="https://doi.org/10.1017/CBO9780511809040">Introduction to High Energy Physics, 4th ed.</a></li>
     <li>Cahn and Goldhaber, <a href="https://doi.org/10.1017/CBO9780511609923">The experimental foundation of Particle Physics</a>, 2nd Ed.</li>
     <li>C. Bertulani, <a href="https://press.princeton.edu/titles/8455.html">Nuclear Physics in a Nutshell</a></li>
