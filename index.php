@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 15 Mar 2019</h3>
+  <h3 class=h3sidebar>Last update: 16 Mar 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,7 +72,13 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>7/3</b>: sono disponibili gli <a href="Esercizi/esercizi-1.pdf">esercizi</a> sulla relativita`.</li>
+      <li><b>16/3</b>: Giovedi` 21/3 non ci sara` ricevimento.
+        Dal 28 marzo il ricevimento sara` dalle 14 alle 16 per evitare
+        sovrapposizioni con le lezioni di recupero degli altri corsi.
+      </li>
+      <li>15/3: sono disponibili gli <a href="Esercizi/esercizi-2.pdf">esercizi</a> sulla cinematica
+        e le <a href="Esercizi/soluzione-1.pdf">soluzioni</a></li> degli esercizi della scorsa settimana.</a>
+      <li>7/3: sono disponibili gli <a href="Esercizi/esercizi-1.pdf">esercizi</a> sulla relativita`.</li>
       <li>28/2: Per il <b>solo giorno lunedi` 4/3</b> le lezioni di Ottica e
         Struttura di questo canale avranno luogo nel pomeriggio <b>dopo</b> questo corso: Ottica (Polimeni) 14-16 Aula 6, Struttura (Postorino) 16-18 Aula 6.</li>
       <li>5/2: Le lezioni avranno inizio il giorno mercoledi` 27 Febbraio</li>
@@ -94,7 +100,7 @@
 
   <h2 class="title">Orario Ricevimento</h2>
   <ul>
-    <li>Docente: Giovedi` 13-15, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 202-A, Piano 2, Edificio Marconi</a>
+    <li>Docente: Giovedi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 202-A, Piano 2, Edificio Marconi</a>
     <li>Francesco Pandolfi: Lunedi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 245-b, Piano 2, Edificio Marconi</a>
   </ul>
 
