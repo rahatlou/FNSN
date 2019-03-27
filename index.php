@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 26 Mar 2019</h3>
+  <h3 class=h3sidebar>Last update: 27 Mar 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -92,6 +92,7 @@
   <ul>
     <li>C. Dionisi e E. Longo, <a href="http://www.roma1.infn.it/people/longo/fnsn/testo.html">Dispense di fisica nucleare e subnucleare</a></li>
     <li>R. Paramatti, <a href="http://www.roma1.infn.it/cms/ric/cinematica.pdf">Dispense di cinematica relativistica</a></li>
+    <li>A. Das and T. Ferbel, <a href="https://www.worldscientific.com/worldscibooks/10.1142/5460">Introduction to Nuclear and Particle Physics, 2nd ed.</a></li>
     <li>D. H. Perkins, <a href="https://doi.org/10.1017/CBO9780511809040">Introduction to High Energy Physics, 4th ed.</a></li>
     <li>Cahn and Goldhaber, <a href="https://doi.org/10.1017/CBO9780511609923">The experimental foundation of Particle Physics</a>, 2nd Ed.</li>
     <li>C. Bertulani, <a href="https://press.princeton.edu/titles/8455.html">Nuclear Physics in a Nutshell</a></li>
