@@ -72,7 +72,7 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>31/3</b>: testo dell'<a href="Esercizi/esercizi-massa_invariante.pdf">esercizio sulla massa invariante e la risoluzione sperimentale</a>) e` disponibile.</li>
+      <li><b>31/3</b>: testo dell'<a href="Esercizi/esercizi-massa_invariante.pdf">esercizio sulla massa invariante e la risoluzione sperimentale</a> e` disponibile.</li>
       <li>16/3: Giovedi` 21/3 non ci sara` ricevimento.
         Dal 28 marzo il ricevimento sara` dalle 14 alle 16 per evitare
         sovrapposizioni con le lezioni di recupero degli altri corsi.
