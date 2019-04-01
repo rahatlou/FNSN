@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 29 Mar 2019</h3>
+  <h3 class=h3sidebar>Last update: 1 Apr 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,7 +72,8 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>16/3</b>: Giovedi` 21/3 non ci sara` ricevimento.
+      <li><b>31/3</b>: testo dell'<a href="Esercizi/esercizi-massa_invariante.pdf">esercizio sulla massa invariante e la risoluzione sperimentale</a>) e` disponibile.</li>
+      <li>16/3: Giovedi` 21/3 non ci sara` ricevimento.
         Dal 28 marzo il ricevimento sara` dalle 14 alle 16 per evitare
         sovrapposizioni con le lezioni di recupero degli altri corsi.
       </li>
