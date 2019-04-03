@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 1 Apr 2019</h3>
+  <h3 class=h3sidebar>Last update: 3 Apr 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
