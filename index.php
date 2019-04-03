@@ -89,7 +89,7 @@
 
   <p>
   <h2>Libri e referenze utili</h2>
-  <div style="width: 270px; height: 250px; overflow: auto">
+  <div style="width: 270px; height: 300px; overflow: auto">
   <ul>
     <li>C. Dionisi e E. Longo, <a href="http://www.roma1.infn.it/people/longo/fnsn/testo.html">Dispense di fisica nucleare e subnucleare</a></li>
     <li>R. Paramatti, <a href="http://www.roma1.infn.it/cms/ric/cinematica.pdf">Dispense di cinematica relativistica</a></li>
