@@ -72,7 +72,8 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>17/4</b>: l'esercitazione extra in vista dell'esonero avra` luogo il giorno lunedi` 29/4 alle ore 10-12 in Aula 3 
+      <li><b>17/4</b>: Sono disponibili gli <a href="Esercizi/20190417_bonus.pdf">esercizi per il bonus</a> al primo esonero.</li>
+      <li><b>17/4</b>: l'esercitazione extra in vista dell'esonero avra` luogo il giorno lunedi` 29/4 alle ore 10-12 in Aula 3
         al posto della lezione di struttura della materia.</li>
       <li>31/3: testo dell'<a href="Esercizi/esercizi-massa_invariante.pdf">esercizio sulla massa invariante e la risoluzione sperimentale</a> e` disponibile.</li>
       <li>16/3: Giovedi` 21/3 non ci sara` ricevimento.
