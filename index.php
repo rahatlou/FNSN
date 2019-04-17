@@ -72,6 +72,7 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
+      <li><b>17/4</b>: Sono disponibili alcuni <a href="https://groups.google.com/forum/?hl=it&fromgroups=#!forum/notiziefnsn1">esercizi degli anni precdenti</a>.</li>
       <li><b>17/4</b>: Sono disponibili gli <a href="Esercizi/20190417_bonus.pdf">esercizi per il bonus</a> al primo esonero.</li>
       <li><b>17/4</b>: l'esercitazione extra in vista dell'esonero avra` luogo il giorno lunedi` 29/4 alle ore 10-12 in Aula 3
         al posto della lezione di struttura della materia.</li>
