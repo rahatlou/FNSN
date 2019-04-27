@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 17 Apr 2019</h3>
+  <h3 class=h3sidebar>Last update: 27 Apr 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,7 +72,7 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>27/4</b>: gli esercizi di bonus vanno consegnati entro le ore 12 di lunedi` 29 aprile a Dr. Pandolfi durante l'esercitazione in Aula. I compiti consegnati in ritardo non saranno considerati validi ai fini del bonus.</li> 
+      <li><b>27/4</b>: gli esercizi di bonus vanno consegnati entro le ore 12 di lunedi` 29 aprile a Dr. Pandolfi durante l'esercitazione in Aula. I compiti consegnati in ritardo non saranno considerati validi ai fini del bonus.</li>
       <li>17/4: Sono disponibili alcuni <a href="https://groups.google.com/forum/?hl=it&fromgroups=#!forum/notiziefnsn1">esercizi degli anni precedenti</a>.</li>
       <li>17/4: Sono disponibili gli <a href="Esercizi/20190417_bonus.pdf">esercizi per il bonus</a> al primo esonero.</li>
       <li>17/4: l'esercitazione extra in vista dell'esonero avra` luogo il giorno lunedi` 29/4 alle ore 10-12 in Aula 3
