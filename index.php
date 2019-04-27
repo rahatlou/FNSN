@@ -72,9 +72,10 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>17/4</b>: Sono disponibili alcuni <a href="https://groups.google.com/forum/?hl=it&fromgroups=#!forum/notiziefnsn1">esercizi degli anni precedenti</a>.</li>
-      <li><b>17/4</b>: Sono disponibili gli <a href="Esercizi/20190417_bonus.pdf">esercizi per il bonus</a> al primo esonero.</li>
-      <li><b>17/4</b>: l'esercitazione extra in vista dell'esonero avra` luogo il giorno lunedi` 29/4 alle ore 10-12 in Aula 3
+      <li><b>27/4</b>: gli esercizi di bonus vanno consegnati entro le ore 12 di lunedi` 29 aprile a Dr. Pandolfi durante l'esercitazione in Aula. I compiti consegnati in ritardo non saranno considerati validi ai fini del bonus.</li> 
+      <li>17/4: Sono disponibili alcuni <a href="https://groups.google.com/forum/?hl=it&fromgroups=#!forum/notiziefnsn1">esercizi degli anni precedenti</a>.</li>
+      <li>17/4: Sono disponibili gli <a href="Esercizi/20190417_bonus.pdf">esercizi per il bonus</a> al primo esonero.</li>
+      <li>17/4: l'esercitazione extra in vista dell'esonero avra` luogo il giorno lunedi` 29/4 alle ore 10-12 in Aula 3
         al posto della lezione di struttura della materia.</li>
       <li>31/3: testo dell'<a href="Esercizi/esercizi-massa_invariante.pdf">esercizio sulla massa invariante e la risoluzione sperimentale</a> e` disponibile.</li>
       <li>16/3: Giovedi` 21/3 non ci sara` ricevimento.
