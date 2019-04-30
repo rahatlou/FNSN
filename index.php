@@ -72,7 +72,7 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>27/4</b>: si possono consulatre appunti e formulari durante le prove
+      <li><b>27/4</b>: si possono consultare appunti e formulari durante le prove
         di esonero <b>ma non esercizi svolti</b>.</li>
       <li>27/4: gli esercizi di bonus vanno consegnati entro le ore 12 di lunedi` 29 aprile a Dr. Pandolfi durante l'esercitazione in Aula. I compiti consegnati in ritardo non saranno considerati validi ai fini del bonus.</li>
       <li>17/4: Sono disponibili alcuni <a href="https://groups.google.com/forum/?hl=it&fromgroups=#!forum/notiziefnsn1">esercizi degli anni precedenti</a>.</li>
