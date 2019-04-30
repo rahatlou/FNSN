@@ -72,6 +72,7 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
+      <li><b>30/4</b>: Si prega di <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRJq-BLndhFqBupZokMgdZL54Z0Tpjwnb28DGmdhG0Pq1N3Q/viewform?usp=sf_link">prenorasi per la prova d'esonero riempendo questo form</a>. Entro le ore 14 di 2 giovedi` 2 maggio.</li>
       <li><b>30/4</b>: si possono consultare appunti e formulari durante le prove
         di esonero <b>ma non esercizi svolti</b>.</li>
       <li><b>30/4</b>: sono disponibili le <a href="Esercizi/20190417_bonus_sol.pdf">soluzioni</a> degli esercizi bonus.</li>
