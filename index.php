@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 30 Apr 2019</h3>
+  <h3 class=h3sidebar>Last update: 2/5 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,8 +72,12 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>30/4</b>: Si prega di <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRJq-BLndhFqBupZokMgdZL54Z0Tpjwnb28DGmdhG0Pq1N3Q/viewform?usp=sf_link">prenorasi per la prova d'esonero riempendo questo form</a>. Entro le ore 14 di 2 giovedi` 2 maggio.</li>
-      <li><b>30/4</b>: si possono consultare appunti e formulari durante le prove
+      <li><b>2/5</b>: L'esonero per gli studenti di questo canale avra` luogo il giorno venerdi`
+           3 maggio alle ore 16:00-18:00 in Aula Amaldi. Si possono consultare appunti e formulari durante la prova
+           <b>ma non esercizi svolti</b>. <b>Non</b> ci sara` lezione la mattina alle 12:00.
+         </li>
+      <li>30/4: Si prega di <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRJq-BLndhFqBupZokMgdZL54Z0Tpjwnb28DGmdhG0Pq1N3Q/viewform?usp=sf_link">prenorasi per la prova d'esonero riempendo questo form</a>. Entro le ore 14 di 2 giovedi` 2 maggio.</li>
+      <li>30/4: si possono consultare appunti e formulari durante le prove
         di esonero <b>ma non esercizi svolti</b>.</li>
       <li><b>30/4</b>: sono disponibili le <a href="Esercizi/20190417_bonus_sol.pdf">soluzioni</a> degli esercizi bonus.</li>
       <li>27/4: gli esercizi di bonus vanno consegnati entro le ore 12 di lunedi` 29 aprile a Dr. Pandolfi durante l'esercitazione in Aula. I compiti consegnati in ritardo non saranno considerati validi ai fini del bonus.</li>
