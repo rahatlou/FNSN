@@ -76,7 +76,7 @@
            3 maggio alle ore 16:00-18:00 in Aula Amaldi. Si possono consultare appunti e formulari durante la prova
            <b>ma non esercizi svolti</b>. <b>Non</b> ci sara` lezione la mattina alle 12:00.
          </li>
-      <li>30/4: Si prega di <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRJq-BLndhFqBupZokMgdZL54Z0Tpjwnb28DGmdhG0Pq1N3Q/viewform?usp=sf_link">prenorasi per la prova d'esonero riempendo questo form</a>. Entro le ore 14 di 2 giovedi` 2 maggio.</li>
+      <li>30/4: Si prega di <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRJq-BLndhFqBupZokMgdZL54Z0Tpjwnb28DGmdhG0Pq1N3Q/viewform?usp=sf_link">prenotarsi per la prova d'esonero riempendo questo form</a>. Entro le ore 14 di 2 giovedi` 2 maggio.</li>
       <li>30/4: si possono consultare appunti e formulari durante le prove
         di esonero <b>ma non esercizi svolti</b>.</li>
       <li><b>30/4</b>: sono disponibili le <a href="Esercizi/20190417_bonus_sol.pdf">soluzioni</a> degli esercizi bonus.</li>
