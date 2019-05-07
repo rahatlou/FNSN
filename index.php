@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 2/5 2019</h3>
+  <h3 class=h3sidebar>Last update: 6/5 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,7 +72,8 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>2/5</b>: L'esonero per gli studenti di questo canale avra` luogo il giorno venerdi`
+      <li><b>6/5</b>: Correzione dell'esonero, martedi` 7/5 ore 13:30-14:00 in Aula Amaldi </li>
+      <li>2/5: L'esonero per gli studenti di questo canale avra` luogo il giorno venerdi`
            3 maggio alle ore 16:00-18:00 in Aula Amaldi. Si possono consultare appunti e formulari durante la prova
            <b>ma non esercizi svolti</b>. <b>Non</b> ci sara` lezione la mattina alle 12:00.
          </li>
