@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 7/5 2019</h3>
+  <h3 class=h3sidebar>Last update: 8/5 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,8 +72,9 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>7/5</b>: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=0&single=true">Valutazione degli esercizi bonus</a> e` disponibile</li>
-      <li><b>6/5</b>: Correzione dell'esonero, martedi` 7/5 ore 13:30-14:00 in Aula Amaldi </li>
+      <li><b>8/5</b>: Presentazione attivta` di fisica di particelle nel dipartimento. Venerdi` 10/5 ore 13:15-14:00 in Aula Amaldi </li>
+      <li>7/5: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=0&single=true">Valutazione degli esercizi bonus</a> e` disponibile</li>
+      <li>6/5: Correzione dell'esonero, martedi` 7/5 ore 13:30-14:00 in Aula Amaldi </li>
       <li>2/5: L'esonero per gli studenti di questo canale avra` luogo il giorno venerdi`
            3 maggio alle ore 16:00-18:00 in Aula Amaldi. Si possono consultare appunti e formulari durante la prova
            <b>ma non esercizi svolti</b>. <b>Non</b> ci sara` lezione la mattina alle 12:00.
