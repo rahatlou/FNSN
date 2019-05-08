@@ -72,7 +72,7 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>8/5</b>: Presentazione attivta` di fisica di particelle nel dipartimento. Venerdi` 10/5 ore 13:15-14:00 in Aula Amaldi </li>
+      <li><b>8/5</b>: Presentazione attivta` di fisica delle particelle nel dipartimento. Venerdi` 10/5 ore 13:15-14:00 in Aula Amaldi </li>
       <li>7/5: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=0&single=true">Valutazione degli esercizi bonus</a> e` disponibile</li>
       <li>6/5: Correzione dell'esonero, martedi` 7/5 ore 13:30-14:00 in Aula Amaldi </li>
       <li>2/5: L'esonero per gli studenti di questo canale avra` luogo il giorno venerdi`
