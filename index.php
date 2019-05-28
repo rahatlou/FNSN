@@ -72,7 +72,7 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>27/5</b>: Esercitazione extra, Lunedi` 3/6 ore 14-16 in Aula 3.</li>
+      <li><b>27/5</b>: Esercitazione extra, Lunedi` 3/6 ore 14-16 in Aula 3</li>
       <li>10/5: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=2132548607&single=true">Risultati del I esonero</a></li>
       <li>8/5: Presentazione attivta` di fisica delle particelle nel dipartimento. Venerdi` 10/5 ore 13:15-14:00 in Aula Amaldi </li>
       <li>7/5: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=0&single=true">Valutazione degli esercizi bonus</a> e` disponibile</li>
