@@ -72,10 +72,11 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
+      <li><b>30/5</b>: il testo del secondo bonus sara` distribuito venerdi` a lezione e poi pubblictao sul sito</li>
       <li><b>29/5</b>: siete invitati ad indicare la vostra preferenza per l'orario delle
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMTIf-zuRHLTvpY-flrwV34qBt_IEe-_lKTJ2gwp0EmTTGQ/viewform?usp=sf_link">lezioni di recupero</a>
         in vista deli esoneri di FNSN e Struttura <b>entro sabato 1 giugno</b></li>
-      <li><b>27/5</b>: Esercitazione extra, Lunedi` 3/6 ore 14-16 in Aula 3</li>
+      <li>27/5: Esercitazione extra, Lunedi` 3/6 ore 14-16 in Aula 3</li>
       <li>10/5: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=2132548607&single=true">Risultati del I esonero</a></li>
       <li>8/5: Presentazione attivta` di fisica delle particelle nel dipartimento. Venerdi` 10/5 ore 13:15-14:00 in Aula Amaldi </li>
       <li>7/5: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=0&single=true">Valutazione degli esercizi bonus</a> e` disponibile</li>
