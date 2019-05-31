@@ -72,8 +72,9 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>30/5</b>: il testo del secondo bonus sara` distribuito venerdi` a lezione e poi pubblictao sul sito</li>
-      <li><b>29/5</b>: siete invitati ad indicare la vostra preferenza per l'orario delle
+      <li><b>31/5</b>: E` disponibile il <a href="Esercizi/20190531_bonus.pdf">testo del secondo bonus (pdf)</a></li>
+      <li>30/5: il testo del secondo bonus sara` distribuito venerdi` a lezione e poi pubblictao sul sito</li>
+      <li>29/5: siete invitati ad indicare la vostra preferenza per l'orario delle
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMTIf-zuRHLTvpY-flrwV34qBt_IEe-_lKTJ2gwp0EmTTGQ/viewform?usp=sf_link">lezioni di recupero</a>
         in vista deli esoneri di FNSN e Struttura <b>entro sabato 1 giugno</b></li>
       <li>27/5: Esercitazione extra, Lunedi` 3/6 ore 14-16 in Aula 3</li>
