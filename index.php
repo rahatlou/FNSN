@@ -72,7 +72,9 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>31/5</b>: E` disponibile il <a href="Esercizi/20190531_bonus.pdf">testo del secondo bonus (pdf)</a></li>
+      <li><b>3/6</b>:il testo dell’esercizio 1 è stato aggiornato aggiungendo la distanza fra una stazione spettrometrica
+      e la successiva (1 metro). (<a href="Esercizi/20190531_bonus-v2.pdf">pdf versione corretta</a>)</li>
+      <li>31/5: E` disponibile il <a href="Esercizi/20190531_bonus-v1.pdf">testo del secondo bonus (pdf versione errata)</a></li>
       <li>30/5: il testo del secondo bonus sara` distribuito venerdi` a lezione e poi pubblictao sul sito</li>
       <li>29/5: siete invitati ad indicare la vostra preferenza per l'orario delle
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMTIf-zuRHLTvpY-flrwV34qBt_IEe-_lKTJ2gwp0EmTTGQ/viewform?usp=sf_link">lezioni di recupero</a>
