@@ -72,6 +72,7 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
+      <li><b>11/6</b>: sono disponibili i <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1233151116&single=true">risultati del secondo bonus</a></li>
       <li><b>11/6</b>: sara` possibile visionare la prova di esonero giovedi` 16-17 e venerdi` 12-14</li>
       <li><b>11/6</b>:Gli studenti che intendono partecipare al I appello sono pregati di
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYyL0Muk6MIGyL0m9gyx9j3s8Ch8ArwX61Jt6lkDrDgxL7zA/viewform?usp=sf_link">riempire questo questionario</a>
