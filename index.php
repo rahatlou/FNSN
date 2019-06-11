@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 7 Jun 2019</h3>
+  <h3 class=h3sidebar>Last update: 11 Jun 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,8 +72,9 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>4/6</b>: Le lezioni termineranno il giorno 13 giugno. </li>
-      <li><b>4/6</b>: La seconda prova di esonero per questo canale avra` inizio alle <b>ore 15:30 venerdi` 7 giugno</b> in <b>Aula Amaldi</b>.</li>
+      <li><b>11/6</b>: sono disponibili i <a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=929776904&single=true">risultati</a> della seconda prova di esonero.</li>
+      <li>4/6: Le lezioni termineranno il giorno 13 giugno. </li>
+      <li>4/6: La seconda prova di esonero per questo canale avra` inizio alle <b>ore 15:30 venerdi` 7 giugno</b> in <b>Aula Amaldi</b>.</li>
       <li>3/6: il testo dell’esercizio 1 è stato aggiornato aggiungendo la distanza fra una stazione spettrometrica
       e la successiva (1 metro). (<a href="Esercizi/20190531_bonus-v2.pdf">pdf versione corretta</a>)</li>
       <li>31/5: E` disponibile il <a href="Esercizi/20190531_bonus-v1.pdf">testo del secondo bonus (pdf versione errata)</a></li>
