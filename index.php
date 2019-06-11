@@ -72,6 +72,10 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
+      <li><b>11/6</b>:Gli studenti che intendono partecipare al I appello sono pregati di 
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYyL0Muk6MIGyL0m9gyx9j3s8Ch8ArwX61Jt6lkDrDgxL7zA/viewform?usp=sf_link">riempire questo questionario</a>
+      enreo le ore 12 di giovedi` 13 giugno, per poter organizzare la sessione
+        dato il numero limitato di posti per la prova scritta</li>
       <li><b>11/6</b>: sono disponibili i <a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=929776904&single=true">risultati</a> della seconda prova di esonero.</li>
       <li>4/6: Le lezioni termineranno il giorno 13 giugno. </li>
       <li>4/6: La seconda prova di esonero per questo canale avra` inizio alle <b>ore 15:30 venerdi` 7 giugno</b> in <b>Aula Amaldi</b>.</li>
