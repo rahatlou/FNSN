@@ -72,6 +72,7 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
+      <li><b>11/6</b>: sara` possibile visionare la prova di esonero giovedi` 16-17 e venerdi` 12-14</li>
       <li><b>11/6</b>:Gli studenti che intendono partecipare al I appello sono pregati di
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYyL0Muk6MIGyL0m9gyx9j3s8Ch8ArwX61Jt6lkDrDgxL7zA/viewform?usp=sf_link">riempire questo questionario</a>
       entro le <b>ore 12 di giovedi` 13 giugno</b>, per poter organizzare la sessione
