@@ -72,12 +72,14 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>11/6</b>: sono disponibili i <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1233151116&single=true">risultati del secondo bonus</a></li>
-      <li><b>11/6</b>: sara` possibile visionare la prova di esonero giovedi` 16-17 e venerdi` 12-14</li>
+      <li><b>12/6</b>: L'ultima lezione del corso sara <b>giovedi` 13/6 ore 12</b> anziche` alle 14 per consentire
+        la partecipazione all'appello di esame di inglese.</li>
       <li><b>11/6</b>: Gli studenti che intendono partecipare al I appello sono pregati di
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYyL0Muk6MIGyL0m9gyx9j3s8Ch8ArwX61Jt6lkDrDgxL7zA/viewform?usp=sf_link">riempire questo questionario</a>
       entro le <b>ore 12 di giovedi` 13 giugno</b>, per poter organizzare la sessione
         dato il numero limitato di posti per la prova scritta</li>
+      <li><b>11/6</b>: sono disponibili i <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1233151116&single=true">risultati del secondo bonus</a></li>
+      <li><b>11/6</b>: sara` possibile visionare la prova di esonero giovedi` 16-17 e venerdi` 12-14</li>
       <li><b>11/6</b>: sono disponibili i <a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=929776904&single=true">risultati</a> della seconda prova di esonero.</li>
       <li>4/6: Le lezioni termineranno il giorno 13 giugno. </li>
       <li>4/6: La seconda prova di esonero per questo canale avra` inizio alle <b>ore 15:30 venerdi` 7 giugno</b> in <b>Aula Amaldi</b>.</li>
