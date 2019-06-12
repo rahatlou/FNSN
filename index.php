@@ -72,7 +72,7 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>12/6</b>: L'ultima lezione del corso sara <b>giovedi` 13/6 ore 12</b> anziche` alle 14 per consentire
+      <li><b>12/6</b>: L'ultima lezione del corso sara <b>giovedi` 13/6 ore 12</b> anziche` alle 14, come richiesto,  per consentire
         la partecipazione all'appello di esame di inglese.</li>
       <li><b>11/6</b>: Gli studenti che intendono partecipare al I appello sono pregati di
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYyL0Muk6MIGyL0m9gyx9j3s8Ch8ArwX61Jt6lkDrDgxL7zA/viewform?usp=sf_link">riempire questo questionario</a>
