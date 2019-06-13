@@ -27,7 +27,7 @@
 <div id="header">
 
 <div id="logo">
-	<h1>Fisica Nucleare e Subnucleare</h1>
+	<h1>Fisica Nucleare e Subnucleare, Prof. Rahatlou, A.A. 2018-19</h1>
 </div>
 <!-- end #logo -->
 
