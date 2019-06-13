@@ -74,7 +74,7 @@
     <ul>  <!-- lista avvisi-->
       <li><b>13/6</b>: E` aperto il bando per il viaggio premio al CERN per gli studenti del corso. Tutti i dettagli nella
         <a href="http://www.roma1.infn.it/comunicazioni/2019/locandina-premio-2019.pdf">locandina</a> e sul sito
-        dell'<a href="http://www.roma1.infn.it/INFN">INFN</a>.
+        dell'<a href="http://www.roma1.infn.it/">INFN</a>.
       <li>12/6: L'ultima lezione del corso sara <b>giovedi` 13/6 ore 12</b> anziche` alle 14, come richiesto,  per consentire
         la partecipazione all'appello di esame di inglese.</li>
       <li><b>11/6</b>: Gli studenti che intendono partecipare al I appello sono pregati di
