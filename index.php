@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 13 Jun 2019</h3>
+  <h3 class=h3sidebar>Last update: 14 Jun 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,12 +72,14 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
+      <li><b>14/6</b>: La prova scritta del I appello per gli studenti di questo canale avra` luogo in <b>Aula Amaldi</b>
+      lunedi` <b>17/6</b> alle <b>ore 9</b>.</li>
       <li><b>13/6</b>: E` aperto il bando per il viaggio premio al CERN per gli studenti del corso. Tutti i dettagli nella
         <a href="http://www.roma1.infn.it/comunicazioni/2019/locandina-premio-2019.pdf">locandina</a> e sul sito
         dell'<a href="http://www.roma1.infn.it/">INFN</a>.
       <li>12/6: L'ultima lezione del corso sara <b>giovedi` 13/6 ore 12</b> anziche` alle 14, come richiesto,  per consentire
         la partecipazione all'appello di esame di inglese.</li>
-      <li><b>11/6</b>: Gli studenti che intendono partecipare al I appello sono pregati di
+      <li>11/6: Gli studenti che intendono partecipare al I appello sono pregati di
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYyL0Muk6MIGyL0m9gyx9j3s8Ch8ArwX61Jt6lkDrDgxL7zA/viewform?usp=sf_link">riempire questo questionario</a>
       entro le <b>ore 12 di giovedi` 13 giugno</b>, per poter organizzare la sessione
         dato il numero limitato di posti per la prova scritta</li>
