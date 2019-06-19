@@ -72,6 +72,8 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
+      <li>Sono disponibili i <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1187315539&single=true">risultati del recupero di esoneri</a> alla prova scritta del 17 giugno.
+        Nella stessa tabella trovate il riassunto di tutte le prove di esonero e di bonus.</li>
       <li><b>19/6</b>: e` disponibile il
         <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTVnmcirSADVOwGFc0TFZoQAQbqxC_9ViWdG2UWf8xtlX5OElR0pfnzoZyv7E_0uDx3Gv6QsVQ_APIW/pubhtml?gid=324161520&single=true">calendario prove orali</a>
         come dalle indicazioni degli studenti.</li>
