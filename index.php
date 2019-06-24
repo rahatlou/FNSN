@@ -72,14 +72,13 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-<<<<<<< HEAD
       <li><b>24/6</b>: Gli studenti che intendono sostenere l'esame all'appello di Luglio sono pregati di
      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpGyeVdfZU7Dagt7ZXuu-oxMMpHPuorUO2l7V8TJrE7QZ1fA/viewform?usp=sf_link">riempire questo questionario</a>
      entro le <b>ore 12 di lunedi` 1 luglio</b> per permettere l'organizzazione ottimale della prova scritta. </li>
 
-      <li>19/6:<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=880586222&single=true">Risultati della prova scritta</a>. E` possibile visionare il compito
+      <li>19/6: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=880586222&single=true">Risultati della prova scritta</a>. E` possibile visionare il compito
         durante le prove orali da lunedi` 24 giugno ore 9:30.</li>
-      <li>19/6:<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1187315539&single=true">Risultati del recupero di esoneri</a> alla prova scritta del 17 giugno.</li>
+      <li>19/6: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1187315539&single=true">Risultati del recupero di esoneri</a> alla prova scritta del 17 giugno.</li>
         Nella stessa tabella trovate il riassunto di tutte le prove di esonero e di bonus.</li>
       <li>19/6: e` disponibile il
         <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTVnmcirSADVOwGFc0TFZoQAQbqxC_9ViWdG2UWf8xtlX5OElR0pfnzoZyv7E_0uDx3Gv6QsVQ_APIW/pubhtml?gid=324161520&single=true">calendario prove orali</a>
