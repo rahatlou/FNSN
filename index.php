@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 17 Jun 2019</h3>
+  <h3 class=h3sidebar>Last update: 24 Jun 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,11 +72,15 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>17/6</b>: I risultati della prova scritta e del recupero degli esoneri saranno pubblicati su questo sito
+      <li><b>24/6</b>: Gli studenti che intendono sostenere l'esame all'appello di Luglio sono pregati di
+     <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpGyeVdfZU7Dagt7ZXuu-oxMMpHPuorUO2l7V8TJrE7QZ1fA/viewform?usp=sf_link">riempire questo questionario</a>
+     entro le <b>ore 12 di lunedi` 1 luglio</b> per permettere l'organizzazione ottimale della prova scritta. </li>
+
+      <li>17/6: I risultati della prova scritta e del recupero degli esoneri saranno pubblicati su questo sito
       entro mercoledi` (19/6) sera. E` possibile <a href="https://docs.google.com/forms/d/e/1FAIpQLSep55R8F28TVkFB905ODfpriP8hNXOmQVzMlHYuHjSnzhcQQg/viewform?usp=sf_link">indicare la data preferita per la prova orale.</a></li>
       <li>14/6: La prova scritta del I appello per gli studenti di questo canale avra` luogo in <b>Aula Amaldi</b>
       lunedi` <b>17/6</b> alle <b>ore 9</b>.</li>
-      <li><b>13/6</b>: E` aperto il bando per il viaggio premio al CERN per gli studenti del corso. Tutti i dettagli nella
+      <li>13/6: E` aperto il bando per il viaggio premio al CERN per gli studenti del corso. Tutti i dettagli nella
         <a href="http://www.roma1.infn.it/comunicazioni/2019/locandina-premio-2019.pdf">locandina</a> e sul sito
         dell'<a href="http://www.roma1.infn.it/">INFN</a>.
       <li>12/6: L'ultima lezione del corso sara <b>giovedi` 13/6 ore 12</b> anziche` alle 14, come richiesto,  per consentire
