@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 19 Jun 2019</h3>
+  <h3 class=h3sidebar>Last update: 3 Jul 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,14 +72,17 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>19/6</b>:<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=880586222&single=true">Risultati della prova scritta</a>. E` possibile visionare il compito
+
+      <li><b>3/7</b>: La prova scritta del II appello per gli studenti di questo canale avra` luogo in <b>Aula Amaldi</b>
+      venerdi` <b>5/7</b> alle <b>ore 9</b>. E` possibile <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwdvGoewwCKnvfPA1_RQdM3iWlu_6eml_Kfy3hB8KYDm6jFg/viewform?usp=sf_link">indicare la data preferita per la prova orale.</a></li>
+      <li>19/6:<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=880586222&single=true">Risultati della prova scritta</a>. E` possibile visionare il compito
         durante le prove orali da lunedi` 24 giugno ore 9:30.</li>
-      <li><b>19/6</b>:<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1187315539&single=true">Risultati del recupero di esoneri</a> alla prova scritta del 17 giugno.</li>
+      <li>19/6:<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1187315539&single=true">Risultati del recupero di esoneri</a> alla prova scritta del 17 giugno.</li>
         Nella stessa tabella trovate il riassunto di tutte le prove di esonero e di bonus.</li>
-      <li><b>19/6</b>: e` disponibile il
+      <li>19/6: e` disponibile il
         <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTVnmcirSADVOwGFc0TFZoQAQbqxC_9ViWdG2UWf8xtlX5OElR0pfnzoZyv7E_0uDx3Gv6QsVQ_APIW/pubhtml?gid=324161520&single=true">calendario prove orali</a>
         come dalle indicazioni degli studenti.</li>
-      <li><b>17/6</b>: I risultati della prova scritta e del recupero degli esoneri saranno pubblicati su questo sito
+      <li>17/6: I risultati della prova scritta e del recupero degli esoneri saranno pubblicati su questo sito
       entro mercoledi` (19/6) sera. E` possibile <a href="https://docs.google.com/forms/d/e/1FAIpQLSep55R8F28TVkFB905ODfpriP8hNXOmQVzMlHYuHjSnzhcQQg/viewform?usp=sf_link">indicare la data preferita per la prova orale.</a></li>
       <li>14/6: La prova scritta del I appello per gli studenti di questo canale avra` luogo in <b>Aula Amaldi</b>
       lunedi` <b>17/6</b> alle <b>ore 9</b>.</li>
