@@ -72,7 +72,9 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>5/7</b>: I risultati della prova scritta verrano pubblicati entro martedi` (9/7) sera.</li>
+      <li><b>5/7</b>: I risultati della prova scritta verrano pubblicati entro martedi` (9/7) sera. E` disponibile
+        il <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ94HzV6vYZeFGL_qRLGeeqPRzCSQ9pMLnrTqjipPjvRykeM_Vh-q0vG6mQwjLbF-NN6iXhk0HbYBhX/pubhtml?gid=1364362029&single=true">calendario delle prove orali</a>.
+      </li>
       <li>3/7: La prova scritta del II appello per gli studenti di questo canale avra` luogo in <b>Aula Amaldi</b>
       venerdi` <b>5/7</b> alle <b>ore 9</b>. E` possibile <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwdvGoewwCKnvfPA1_RQdM3iWlu_6eml_Kfy3hB8KYDm6jFg/viewform?usp=sf_link">indicare la data preferita per la prova orale.</a></li>
       <li>24/6: Gli studenti che intendono sostenere l'esame all'appello di Luglio sono pregati di
