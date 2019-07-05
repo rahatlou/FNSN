@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 3 Jul 2019</h3>
+  <h3 class=h3sidebar>Last update: 5 Jul 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,8 +72,8 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-
-      <li><b>3/7</b>: La prova scritta del II appello per gli studenti di questo canale avra` luogo in <b>Aula Amaldi</b>
+      <li><b>5/7</b>: I risultati della prova scritta verrano pubblicati entro martedi` (9/7) sera.</li>
+      <li>3/7: La prova scritta del II appello per gli studenti di questo canale avra` luogo in <b>Aula Amaldi</b>
       venerdi` <b>5/7</b> alle <b>ore 9</b>. E` possibile <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwdvGoewwCKnvfPA1_RQdM3iWlu_6eml_Kfy3hB8KYDm6jFg/viewform?usp=sf_link">indicare la data preferita per la prova orale.</a></li>
       <li>24/6: Gli studenti che intendono sostenere l'esame all'appello di Luglio sono pregati di
      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpGyeVdfZU7Dagt7ZXuu-oxMMpHPuorUO2l7V8TJrE7QZ1fA/viewform?usp=sf_link">riempire questo questionario</a>
