@@ -62,7 +62,7 @@
 <div id="sidebar-bgtop"></div>
 
 <div id="sidebar-content">
-  <h3 class=h3sidebar>Last update: 9 Jul 2019</h3>
+  <h3 class=h3sidebar>Last update: 3 Sep 2019</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -72,7 +72,9 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
-      <li><b>8/7</b>: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=685896648&single=true">Risultati</a> della prova scritta del 5 luglio.</a>
+      <li><b>3/9</b>: La prova scritta dell'appello di 6 settembre
+  avra` inizio alle <b>ore 9:00</b> in <b>Aula 3 (NEF)</b>. </li> 
+      <li>8/7: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=685896648&single=true">Risultati</a> della prova scritta del 5 luglio.</a>
       <li>5/7: I risultati della prova scritta verrano pubblicati entro martedi` (9/7) sera. E` disponibile
         il <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ94HzV6vYZeFGL_qRLGeeqPRzCSQ9pMLnrTqjipPjvRykeM_Vh-q0vG6mQwjLbF-NN6iXhk0HbYBhX/pubhtml?gid=1364362029&single=true">calendario delle prove orali</a>.
       </li>
