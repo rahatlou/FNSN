@@ -72,6 +72,12 @@
   <h2>News</h2>
   <div style="width: 270px; height: 300px; overflow: auto">
     <ul>  <!-- lista avvisi-->
+      <li><b>9/9</b>: sono disponibili i <a
+  href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1315018563&single=true">risultati</a>
+  della prova scritta del 6 settembre.</a> E` possibile <a
+     href="https://docs.google.com/forms/d/e/1FAIpQLSeL40aMM-knUfgev7FlCjMOW26mZSmnaGfIqV5S2sf39EPNjA/viewform?usp=sf_link">indicare
+  la preferenza per la
+     prova orale</a>.</li>
       <li>3/9: La prova scritta dell'appello di 6 settembre
   avra` inizio alle <b>ore 9:00</b> in <b>Aula 3 (NEF)</b>. </li> 
       <li>8/7: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=685896648&single=true">Risultati</a> della prova scritta del 5 luglio.</a>
