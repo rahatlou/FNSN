@@ -1,0 +1,416 @@
+<div id="content">
+	<h1>Fisica Nucleare e Subnucleare I</h1>
+
+	<div class="post">
+
+	<h2 class="title">Orario Lezioni</h2>
+	<div class="entry">
+		<p><b>Il corso dell'anno accademico 2018/19 inizia il giorno mercoledi` 27 Febbraio 2019</b>
+			<ul>
+	  	<li> Mercoledi` 10-12, Aula 3 , Nuovo Edificio di Fisica</li>
+	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
+	  	<li> <b>Dal 28/2 al 28/3 (inclusi)</b>: Giovedi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
+		</ul>
+	</div>
+
+
+	<h2 class="title">Rilevazione Opinioni Studenti 2018-2019 (OPIS)</h2>
+	<div class="entry">
+	Gli studenti sono caldamente invitati a valutare il corso riempendo le schede
+	di valutazione (OPIS) usando uno dei seguenti codici <br>
+	<img src="Didattica/FNSN/CodiceOPIS.png" width=500>
+	<br>
+	E` disponibile una <a href="https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_opis-2018-19-studenti_con_token-rev-4-2018-11-21_modalita_compatibilita.pdf">guida</a>
+	per l'accesso al servizio e il riempimento dei moduli.
+	</div> <!--- end of entry -->
+
+	<h2 class="title">Esoneri</h2>
+
+	<div class="entry">
+	  <p>
+	    Sara` possibile consultare dispense, appunti, e formulari durante le prove
+	    di esonero ma
+	    <b>non si possono portare o/e consultare esercizi svolti</b>.
+	    </p>
+
+	    <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1187315539&single=true">Risultati delle prove di esonero e bonus</a><br>
+	      Voti validi per tutte le sessioni di esame fino a Febbraio 2020. Non validi dopo rifiuto voto orale.</p>
+
+	  <ul>
+	    <li> Primo bonus 2019-04-17: <a href="Didattica/FNSN/Esercizi/20190417_bonus_sol.pdf">testo e soluzioni</a></li>
+	    <li> Primo esonero: venerdi` 3 maggio 2019 <b>ore 16:00</b>:
+	      <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRJq-BLndhFqBupZokMgdZL54Z0Tpjwnb28DGmdhG0Pq1N3Q/viewform?usp=sf_link">Modulo prenotazione entro ore 14:00 di Giovedi` 2 maggio</a>. E` richiesta l'autenticazione tramite il vostro indirizzo email Sapienza.
+	      Potrebbe essere necessario, prima sconnettere il vostro account gmail privato nel browser. -->
+	        Per gli studenti di questo canale la prova avra` inizio alle <b>ore 16:00</b>
+	        in <b>Aula Amaldi</b>. La durata della prova sara` di 2 ore.
+	         (<a href="Didattica/FNSN/Esercizi/20190503-esonero.pdf">testo e soluzioni</a>)
+	         (<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=2132548607&single=true">Risultati</a>)
+
+	    </li>
+	    <li> Secondo bonus 2019-05-31: consegna dell soluzione individuale e cartacea il giorno 7/6 a lezione oppure all'esonero.
+	      (<a href="Didattica/FNSN/Esercizi/20190531_bonus-v2.pdf">pdf</a>) (<a href="Didattica/FNSN/Esercizi/20190531_bonus_sol.pdf">pdf con soluzioni</a>)<br>
+	       <b>Errata corrige (03/06)</b>: il testo dell’esercizio 1 è stato aggiornato aggiungendo la distanza fra una stazione spettrometrica
+	       e la successiva (1 metro). (<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1233151116&single=true">risultati </a>)
+	    </li>
+	    <li> Secondo esonero: venerdi` 7 giugno 2019, inizio ore 15:30 in Aula Amaldi (solo per questo canale) (<a href="Didattica/FNSN/Esercizi/20190607-esonero.pdf">pdf con soluzioni</a>)
+	    (<a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=929776904&single=true">risultati</a>)</li>
+	  </ul>
+	</div>
+
+	<h2 class="title">Esami</h2>
+	<div class="entry">
+	<p>Tutte le date sono state inserite su <a href="https://www.uniroma1.it/it/pagina-strutturale/studenti">infostud</a>.
+	</p>
+
+	<p>
+	E` disponibile una <a href="http://www.roma1.infn.it/~ippolitv/fns1_compiti/">raccolta di esercizi d'esame</a>
+	degli anni passati.</p>
+
+
+	<p> <a href="https://docs.google.com/document/d/1H-NFc5shVc6bVdUwWP-WaGsehikJHadOtNB4scLzmoE/edit?usp=sharing">Regolamento per l'esame</a>
+	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
+
+	  <ul>
+	     <li><b>Appello 6 Settembre 2019</b>: La prova si svolgera` in
+	    <b>Aula 3</b> alle ore <b>9:00</b>.
+
+	    <p>I risultati saranno disponibili entro lunedi` 9 in serata.  (<a
+	    href="Didattica/FNSN/Esercizi/20190906-esame_sol.pdf">testo e soluzioni</a>)(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1315018563&single=true">risultati</a>)</p>
+
+	    <p>
+	     Le prove orali si svolgeranno nei giorni 10/9 ore 9-15, 12/9 ore
+	     10-16, 16/9 ore 9-14. Sara` come sempre possibile indicare la
+	     vostra preferenza nel modulo che sara` disponibile prima di
+	    martedi`. (<a
+	     href="https://docs.google.com/forms/d/e/1FAIpQLSeL40aMM-knUfgev7FlCjMOW26mZSmnaGfIqV5S2sf39EPNjA/viewform?usp=sf_link">prenotazione
+	     prova orale</a>)
+	    </p>
+
+	     </li> <!-- Fine 6 Sep -->
+
+
+
+	    <li><b>Appello 5 Luglio 2019</b>: La prova si svolgera` in <b>Aula Amaldi</b> alle ore <b>9:00</b>.
+	      (<a href="Didattica/FNSN/Esercizi/20190705-esame_sol.pdf">testo con le soluzioni</a>)
+
+	      <p>
+	        E` disponibile il
+	        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ94HzV6vYZeFGL_qRLGeeqPRzCSQ9pMLnrTqjipPjvRykeM_Vh-q0vG6mQwjLbF-NN6iXhk0HbYBhX/pubhtml?gid=1364362029&single=true">calendario delle prove orali</a>.
+	      </p>
+
+	      <p>I risultati della prova scritta verrano pubblicati entro martedi` (9/7) sera.
+	        (<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=685896648&single=true">Risultati</a>)</p>
+
+	      <p>
+	      Gli studenti sono invitati ad <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwdvGoewwCKnvfPA1_RQdM3iWlu_6eml_Kfy3hB8KYDm6jFg/viewform?usp=sf_link">indicare la la preferenza per la prova orale</a>.
+	      </p>
+
+	      <p>Gli studenti che intendono sostenere l'esame sono pregati di
+	       <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpGyeVdfZU7Dagt7ZXuu-oxMMpHPuorUO2l7V8TJrE7QZ1fA/viewform?usp=sf_link">riempire questo questionario</a>
+	       entro le <b>ore 12 di lunedi` 1 luglio</b>, per poter organizzare la sessione
+	       dato il numero limitato di posti per la prova scritta.</p>
+	     </li> <!-- 5 Luglio -->
+
+	     <li><b>Appello 17 giugno 2019</b>: Gli studenti che intendono sostenere l'esame sono pregati di
+	     <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYyL0Muk6MIGyL0m9gyx9j3s8Ch8ArwX61Jt6lkDrDgxL7zA/viewform?usp=sf_link">riempire questo questionario</a>
+	     entro le <b>ore 12 di giovedi` 13 giugno</b>, per poter organizzare la sessione
+	       dato il numero limitato di posti per la prova scritta.
+	       <br>
+	       La prova scritta per gli studenti di questo canale avra` luogo in <b>Aula Amaldi</b>
+	       lunedi` <b>17/6</b> alle <b>ore 9</b>.
+	       <br>
+	       <b>Sara` possibile sostenere la prova scritta solo se fatta la prenotazione  su infostud per l'appello.</b>
+	       <p>
+	         I risultati della prova scritta e del recupero degli esoneri saranno pubblicati su questo sito
+	         entro mercoledi` (19/6) sera.
+	         (<a href="Didattica/FNSN/Esercizi/20190617-esame.pdf">testo prova scritta</a>)(<a href="Didattica/FNSN/Esercizi/20190617-esame_sol.pdf">soluzioni</a>)
+	       </p>
+
+	       <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=880586222&single=true">Risultati della prova scritta</a><br>
+	       Sara` possibile visionare il compito a partire da lunedi` 24 giugno ore 9:30 durante le prove orali.
+	       </p>
+
+
+	       <p>
+	         Le prove orali cominceranno a partire da lunedi` 24 giugno nell'ufficio del docente (Edficio Marconi, Stanza 202-A).
+	         (<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTVnmcirSADVOwGFc0TFZoQAQbqxC_9ViWdG2UWf8xtlX5OElR0pfnzoZyv7E_0uDx3Gv6QsVQ_APIW/pubhtml?gid=324161520&single=true">calendario prove orali</a>)
+
+	         <p>
+	         Gli studenti sono invitati ad <a href="https://docs.google.com/forms/d/e/1FAIpQLSep55R8F28TVkFB905ODfpriP8hNXOmQVzMlHYuHjSnzhcQQg/viewform?usp=sf_link">indicare la la preferenza per la data e il giorno</a>.
+	       </p>
+	         <ol>
+	           <li> il numero di posti e` limitato per ciascuna sessione e sono ad esaurimento</li>
+	           <li> e` possibile indicare una sola data</li>
+	           <li> selezionare una data solo se certi di voler sostenere l'esame</li>
+	           <li>comunicare al docente le cancellazioni per permettere ad altri a sostenere l'esame </li>
+	           <li> se non si trova alcuna sessione libera contattare il docente via email</li>
+	           <li>La precedenza va a coloro che si sono regolarmente prenotati su infostud. Chi non si e` prenotato
+	              potra` sostenere la prova <b>solo</b> se ci saranno posti disponibili. Altrimenti dovranno prenotarsi in tempo
+	              per il secondo appello.</li>
+	           <li>Per modifiche o variazioni contattare il docente via email.</li>
+	        </ol>
+
+
+	       </li> <!-- fine appello 17 giugno -->
+	     <li>Appello straordinario del 27 maggio:
+	A causa del blocco delle attivita` didattiche il giorno 27 maggio,
+	la prova scritta dell'appello straordinario avra` luogo il giorno
+	30 maggio alle ore 14 in Aula 6.</li>
+	  </ul>
+
+	</div>
+
+	<h2 class="title">Lezioni</h2>
+	<div class="entry">
+
+	<!-- begin lectures -->
+	<ul>
+
+	<li>
+	Lec 01, 27/2: Introduzione.  Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
+	</li>
+
+	<li>
+	Lec 02, 28/2: Modello Standard. Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
+	</li>
+
+	<li>
+	Lec 03, 1/3: Esperimento di Michelson-Morley. Trasformazioni di Lorentz.
+	Dilatazione temporale e contrazione delle lunghezze. Decadimento del muone.
+	Vita media delle particelle instabili. (Dispense relativita`)
+	</li>
+
+
+	<li>
+	Lec 04, 6/3: Vita media propria. Esperimenti di Thompson e Millikan.
+	La scoperta dell'elettrone. Trasformazione delle velocita`. Quadrivelocita` e Quadrimpulso.
+	Massa a riposo. Relazione tra energia e massa. (dispense Cap 2 e Cap 5.8. Dispense relativita`)
+	</li>
+	<li>
+	Lec 05, 7/3: Quadrimpulso. beta e gamma per particelle relativistiche.
+	Esercizi di cinematica.  (dispense relativita`)
+	(<a href="Didattica/FNSN/Esercizi/esercizi-1.pdf">esercizi</a>, <a href="Didattica/FNSN/Esercizi/soluzione-1.pdf">soluzione</a>)
+	</li>
+	<li>
+	Lec 06, 8/3: Esperimenti di diffusione. Sezione d'urto e luminosita`.
+	Sistemi di riferimento. Massa invariante. (dispense Cap 3, dispense relativita`)
+	</li>
+
+	<li>
+	Lec 07, 13/3: Decadimenti radioattivi: raggi alfa, beta, gamma.
+	Diffusione di Rutherford e calcolo di sezione d'urto classica.
+	Scoperta del protone e del neutrone. (dispense Cap 3,Cap 1)
+	</li>
+
+	<li>
+	Lec 08, 14/3:
+	Urti elastici: energia trasferita, scattering Compton.
+	Urti anelastici. Energia di Soglia di reazione: produzione di anti-protone. Urto di raggi cosmici e
+	radiazione di fondo cosmico (effetto GZK). Decadimento in due corpi. (dispense relativita`)
+	</li>
+
+
+	<li>
+	Lec 09, 15/3: Decadimento in due corpi. Momento trasverso. Trasformazioni angolari relativisitiche.
+	Decadimento del bosone di Higgs e del pione neutro. Massa invariante e la risoluzione sperimentale.
+	(dispense relativita`) (<a href="Didattica/FNSN/Esercizi/esercizi-2.pdf">esercizi</a>)
+	</li>
+
+	<li>
+	Lec 10, 20/3: Esercizi di cinematica e sezione d'urto.
+	Trasformazioni relativistiche degli angoli.
+
+	</li>
+
+	<li>
+	Lec 11, 21/3:
+	Esercizi e prove di esonero. (dispense Cap 4)
+	</li>
+
+	<li>
+	Lec 12, 22/3:
+	Passaggio di particelle nella materia. (dispense Cap 4)
+	Perdita di energia per ionizzazione.
+	Formula di Bohr e Bethe-Bloch (dispense Cap 4, Ferbel Cap 6)
+	</li>
+
+	<li>
+	Lec 13, 27/3:
+	Percorso residuo: range. La diffusione coulombiana multipla.
+	Perdita di energia per gli elettroni. Bremsstrahlung. Energia critica. Lunghezza di radiazione. (dispense Cap 4, Ferbel Cap 6)
+	(<a href="http://pdg.lbl.gov/2018/reviews/rpp2018-rev-passage-particles-matter.pdf">Interazione con la materia nel PDG</a>)
+	</li>
+
+	<li>
+	Lec 14, 28/3:
+	La diffusione coulombiana multipla. Relazione tra lunghezza di radiazione e sezione d'urto.
+	Interazione di fotoni con la materia: effetto fotoelettrico, effetto compton, produzione di coppia.
+	Interazione di positroni.
+	Sciami elettromagnetici.
+	Effetto Cherenkov.
+	(dispense Cap 4, Ferbel Cap 6)
+	</li>
+
+	<li>
+	Lec 15, 29/3:
+	Identificazione di particelle con luce Cherenkov.
+	Interazione di neutroni. Sciami adronici e lunghezza d'interazione.
+	Calorimetri omogenei ed a campionamento: risoluzione energetica.
+	Scintillatori e fotomoltiplicatori. Spettrometri magnetici e misura dell'impulso.
+	(dispense Cap 4, Ferbel Cap 6, Cap7) (<a href="Didattica/FNSN/Esercizi/esercizi-massa_invariante.pdf">esercizio sulla massa invariante e la risoluzione sperimentale</a>)
+	</li>
+
+	<li>
+	Lec 16,3/4:
+	Risoluzione d'impulso per le particelle cariche.
+	Tracciatori e tecniche di rivelazione.
+	Rivelatori a ionizzazione.
+	Spettro e composizione di raggi cosmici.
+	Scoperta del positrone.
+	(dispense Cap 4 e Cap 6, Ferbel Cap 7) (<a href="http://pdg.lbl.gov/2018/reviews/rpp2018-rev-cosmic-rays.pdf">raggi cosmici sul PDG</a>)
+	</li>
+
+	<li>
+	Lec 17,5/4:
+	Interazioni tra campi di materia e campi di forza. La seconda regola d'oro di Fermi.
+	Calcolo dell'elemento di matrice al II ordine. Diffusione tramite il mediatore di forza.
+	Diagrammi di Feynman e ordinamento temporale. Propagatore del mediatore di forza.
+	(dispense Cap 5)
+	</li>
+
+	<li>
+	Lec 18,10/4: esercizi.
+	</li>
+
+	<li>
+	Lec 19,12/4: Calcolo sezione d'urto Rutherford con la regola d'oro di Fermi.
+	Propagatore del fotone. Regole dei diagrammi di Feynman.
+	(dispense Cap 5, Perkins Cap 2)
+	</li>
+
+	<li>
+	Lec 20,17/4: esercizi (<a href="Didattica/FNSN/Esercizi/20190417-es.pdf">pdf</a>). Esercizi di bonus per l'esonero (<a href="Didattica/FNSN/Esercizi/20190417_bonus.pdf">pdf</a>, <a href="Esercizi/20190417_bonus_sol.pdf">soluzioni</a>, <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=0&single=true">voti</a>).
+	</li>
+
+
+	<!--  -->
+
+	<li>
+	Esercitazione extra, 29/4 ore 10-12, Aula 3 (al posto di Struttura della Materia): esercizi per l'esonero.
+	</li>
+
+
+	<li>
+	Esonero, 3/5 ore 16:00-18:00 in Aula Amaldi (<a href="Didattica/FNSN/Esercizi/20190503-esonero.pdf">pdf con le soluzioni</a>)
+	</li>
+
+	<li>
+	Correzione Esonero, 7/5 ore 13:30-14:00 in Aula Amaldi
+	</li>
+
+
+	<li>
+	Lec 21, 8/5: Interazioni forti e potenziale di Yukawa. Interazioni con mediatore massivo. Interazione debole.
+	Larghezza di decadimento e vita media. (dispense Cap 5, Perkins Cap 2)
+	</li>
+
+	<li>
+	Lec 22,10/5 (12:00-13:00): Larghezza di decadimento e branching fraction. Larghezza di decadimento in 2 corpi.
+	Decadimenti del pione. Distribuzione di Breit-Wigner per le particelle instabili. (dispense Cap 5, Perkins Cap 2)
+	</li>
+
+	<li>
+	10/5 ore 13:15-14:00 in Aula Amaldi: Presentazione attivta` di fisica delle particelle nel dipartimento
+	</li>
+
+	<li>
+	Lec 23, 15/5:
+	Esercizi secondo esonero
+	</li>
+
+	<li>
+	Lec 24, 17/5:  Interazione debole. Decadimento Beta: calcolo larghezza decadimento.
+	Teoria di Fermi. La scoperta del neutrino. Massa del neutrino e grafico di Kurie.
+	Costante di Fermi e la massa del bosone W. Scoperta del W. (dispense Cap 6, Cap5. Perkins Cap 7)
+	</li>
+
+	<li>
+	Lec 25, 22/5:
+	Numeri quantici e leggi di conservazione: numero leptonico, barionico e la stranezza.
+	Adroni: mesoni e barioni. (dispense Cap 6). Esercizi secondo esonero.
+	</li>
+
+	<li>
+	Lec 26, 24/5:
+	Esercizi secondo esonero. (<a href="Didattica/FNSN/Esercizi/20190524-es.pdf">pdf</a>)
+	</li>
+
+	<li>
+	Lec 27, 29/5: Simmetrie, invarianze, e leggi di conservazione.
+	Parita`. Isospin. (dispense Cap 7, Perkins Cap 3)
+	  (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMTIf-zuRHLTvpY-flrwV34qBt_IEe-_lKTJ2gwp0EmTTGQ/viewform?usp=sf_link">scelta lezioni di recupero</a>
+	  <b>entro sabato 1 giugno</b>)
+	</li>
+
+	<li>
+	Lec 28, 31/5:
+	Ipercarica e numeri quantici di sapore. Classificazione di mesoni e barioni. formula di Gell-Mann-Nishijima.
+	Isospin e sezioni d'urto pione-nucleone. (dispense Cap 7, Perkins Cap 3) (<a href="Didattica/FNSN/Esercizi/20190531_bonus-v2.pdf">pdf secondo bonus</a>)
+	(<a href="Didattica/FNSN/adroni.pdf">Multipletti di mesoni e barioni</a>)(<a href="http://pdg.lbl.gov/2019/tables/contents_tables_mesons.html">mesoni</a> e <a href="http://pdg.lbl.gov/2019/tables/contents_tables_baryons.html">barioni</a>)
+	</li>
+
+
+	<li>
+	<b>Esercitazione extra, Lunedi` 3/6 ore 14-16 in Aula 3</b>: esercitazione extra
+	per il secondo esonero.
+	</li>
+
+	<li>
+	Lec 29, 5/6:
+	Risonanze adroniche: sezione d'urto di produzione e la formula di Breit-Wigner. Violazione di parita` e l'eseprimento di Wu.
+	Proprieta` dei nuclei: carica, massa, e raggio. (dispense Cap 7, Cap 8. Bertulani Cap 4.1 )</li>
+
+	<li>
+	Lec 30, 7/6 12-13:
+	Elicita` del neutrino e l'esperimento di Goldhaber. (Goldhaber Cap 6, Perkins Cap 7)
+	</li>
+
+	<li>
+	Esonero, venerdi` 7/6 ore 15:30-17:30 in Aula Amaldi. La prova avra` inizio alle ore 15:30.
+	(<a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=929776904&single=true">risultati</a>)
+	</li>
+
+
+	<li>
+	Lec 31, 12/6:
+	Energia di legame. Modelli nucleari: modello a goccia e modello a gas di Fermi.
+	Calcolo energia cinetica dei nucleoni. Stima correzioni di energia di legame.
+	Formula di Bethe-Weizsäcker. Valle di stabilita`.
+	 (Bertulani Cap 4.2, 5.1-5.3, dispense Cap 8)
+	(<a href="Didattica/FNSN/NuclideMap.PNG">valle di stabilita`</a>, credits: <a href="https://www.nndc.bnl.gov/nudat2/">National Nuclear Data Center</a>)
+	(<a href="Didattica/FNSN/Binding-energy-per-nucleon-versus-atomic-mass-number-showing-the-maximum-in-the-curve.png">energia di legame media per nucleone</a>, from <a href="https://doi.org/10.1051/epjconf/201818900015">https://doi.org/10.1051/epjconf/201818900015</a>)
+	</li>
+
+	<li>
+	Lec 32, 13/6, 12-14, Aula 3:
+	Decadimento alfa: modello di Gamow.
+	Spettro alfa e la dipendenza della vita media dall'energia. Legge di Geiger-Nuttal.
+	Reazioni nucleari: Fissione spontanea e indotta, e fusione.
+	Fusione nelle stelle e nucleosintesi. (Bertulani Cap 6, Cap 7.1-7.2, Cap 11(cenni), Cap 12.5-12.6)
+	(<a href="https://www.ptable.com">Tavola periodica interattiva</a>)
+	(Articoli da <a href="https://www.asimmetrie.it">asimmetrie.it</a>:
+	<a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
+	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-02.pdf">elementi leggeri</a>,
+	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-03.pdf">elementi pesanti</a>,
+	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf">reazioni nucleari nel sole</a>,
+	<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf">nascita delle stelle</a>
+	)
+	</li>
+
+	</ul> <!-- end of lectures -->
+	</div> <!--- end of entry -->
+
+
+
+</div> <!--- end of post -->
+</div> <!-- end content -->
