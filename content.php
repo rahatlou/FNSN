@@ -3,7 +3,7 @@
 
 	<div class="post">
 
-	<h3 class="title">Orario Lezioni</h3>
+	<h2 class="title">Orario Lezioni</h2>
 	<div class="entry">
 		<p><b>Il corso dell'anno accademico 2018/19 inizia il giorno mercoledi` 27 Febbraio 2019</b>
 			<ul>

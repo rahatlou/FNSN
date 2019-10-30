@@ -52,6 +52,13 @@
 	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
 
 	  <ul>
+			<li><b>Appello 18 Novembre 2019</b>: La prova e` riservata agli studenti fuori corso.
+				<p>La prova avra` luogo il giorno lunedi` 18 novembre alle ore 14:30 in Aula 6, Nuovo Edificio di Fisica.</p>
+
+				<p>Il calendario delle prove orali sara` concordato con gli studenti per i giorni 20 e 21 Novembre.</p>
+			</li>
+
+
 	     <li><b>Appello 6 Settembre 2019</b>: La prova si svolgera` in
 	    <b>Aula 3</b> alle ore <b>9:00</b>.
 
