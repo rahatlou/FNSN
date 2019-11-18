@@ -56,6 +56,11 @@
 				<p>La prova avra` luogo il giorno lunedi` 18 novembre alle ore 14:30 in Aula 6, Nuovo Edificio di Fisica.</p>
 
 				<p>Il calendario delle prove orali sara` concordato con gli studenti per i giorni 20 e 21 Novembre.</p>
+
+				<p>Gli studenti possono indicare la loro peferenza per la <a href="https://docs.google.com/forms/d/e/1FAIpQLSceOAc10h20x4gtAH5J145qKzL-EcMMbHQP73O2P6Bq6Ij2lg/viewform?usp=sf_link">prova orale</a>.
+					Si prega di aspettare l'esito della prova scritta prima di indicare una data.</p>
+
+					<p>I risultati della prova scritta saranno disponibili entro martedi` 19 novembre.</p>
 			</li>
 
 
