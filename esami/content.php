@@ -53,6 +53,8 @@
 
 	  <ul>
 			<li><b>Appello 18 Novembre 2019</b>: La prova e` riservata agli studenti fuori corso.
+				(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=231072276&single=true">risultati</a>)
+				(<a href="Didattica/FNSN/Esercizi/20191118-esame_sol.pdf">testo e soluzioni</a>)
 				<p>La prova avra` luogo il giorno lunedi` 18 novembre alle ore 14:30 in Aula 6, Nuovo Edificio di Fisica.</p>
 
 				<p>Il calendario delle prove orali sara` concordato con gli studenti per i giorni 20 e 21 Novembre.</p>
