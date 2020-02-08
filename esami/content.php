@@ -52,9 +52,16 @@
 	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
 
 	  <ul>
+			<li><b>Appello 10 Febbraio 2020</b>:
+				<p>La prova avra` inizio il giorno lunedi` 10 Febbraio alle ore 15:00 in Aula 3, Nuovo Edificio di Fisica.</p>
+				<p>Le prove orali si svolgeranno il giorno 12 Febbraio.</p>
+
+			</li>
+
 			<li><b>Appello 18 Novembre 2019</b>: La prova e` riservata agli studenti fuori corso.
 				(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=231072276&single=true">risultati</a>)
 				(<a href="Didattica/FNSN/Esercizi/20191118-esame_sol.pdf">testo e soluzioni</a>)
+				(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRW-on2u70HtiVu9K6jl-evpgQmpyQL_CftSFXtR8hiushEMZC8rsJAao2N3Zy9hUgRYmk_odp4Q6CS/pubhtml?gid=1509994242&single=true">calendario prove orali</a>)
 				<p>La prova avra` luogo il giorno lunedi` 18 novembre alle ore 14:30 in Aula 6, Nuovo Edificio di Fisica.</p>
 
 				<p>Il calendario delle prove orali sara` concordato con gli studenti per i giorni 20 e 21 Novembre.</p>
