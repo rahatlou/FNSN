@@ -54,7 +54,7 @@
 	  <ul>
 			<li><b>Appello 10 Febbraio 2020</b>:
 				<p>La prova avra` inizio il giorno lunedi` 10 Febbraio alle ore 15:00 in Aula 3, Nuovo Edificio di Fisica.</p>
-				<p>Le prove orali si svolgeranno il giorno 12 Febbraio.</p>
+				<p>Le prove orali si svolgeranno il giorno 13 Febbraio.</p>
 
 			</li>
 
