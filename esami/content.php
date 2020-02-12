@@ -53,8 +53,10 @@
 
 	  <ul>
 			<li><b>Appello 10 Febbraio 2020</b>:
-				<p>La prova avra` inizio il giorno lunedi` 10 Febbraio alle ore 15:00 in Aula 3, Nuovo Edificio di Fisica.</p>
-				<p>Le prove orali si svolgeranno il giorno 13 Febbraio.</p>
+				<p>La prova avra` inizio il giorno lunedi` 10 Febbraio alle ore 15:00 in Aula 3, Nuovo Edificio di Fisica.
+  			(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=2032626451&single=true">risultati</a>)
+				(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2019/Esercizi/20200210-esame_sol.pdf">testo e soluzioni</a>)</p>
+				<p>Le prove orali si svolgeranno il giorno 13 Febbraio alle ore 11 nell'ufficio del docente.</p>
 
 			</li>
 
