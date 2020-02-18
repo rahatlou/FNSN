@@ -1,19 +1,19 @@
 <div id="content">
-	<h1>Fisica Nucleare e Subnucleare (2018/19)</h1>
+	<h1>Fisica Nucleare e Subnucleare (2019/20)</h1>
 
 	<div class="post">
 
 	<h2 class="title">Orario Lezioni</h2>
 	<div class="entry">
-		<p><b>Il corso dell'anno accademico 2018/19 inizia il giorno mercoledi` 27 Febbraio 2019</b>
+		<p><b>Il corso dell'anno accademico 2019/20 inizia il giorno mercoledi` 26 Febbraio 2020</b>
 			<ul>
-	  	<li> Mercoledi` 10-12, Aula 3 , Nuovo Edificio di Fisica</li>
+	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica</li>
 	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
-	  	<li> <b>Dal 28/2 al 28/3 (inclusi)</b>: Giovedi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
+	  	<li> <b>Dal 16/4 al 14/5 (inclusi)</b>: Giovedi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
 		</ul>
 	</div>
 
-
+<?php /*
 	<h2 class="title">Rilevazione Opinioni Studenti 2018-2019 (OPIS)</h2>
 	<div class="entry">
 	Gli studenti sono caldamente invitati a valutare il corso riempendo le schede
@@ -24,7 +24,7 @@
 	per l'accesso al servizio e il riempimento dei moduli.
 	</div> <!--- end of entry -->
 
-
+*/ ?>
 
 	<h2 class="title">Lezioni</h2>
 	<div class="entry">
@@ -33,9 +33,11 @@
 	<ul>
 
 	<li>
-	Lec 01, 27/2: Introduzione.  Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
+	Lec 01, 26/2: Introduzione.  Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
+	Modello Standard. Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
 	</li>
 
+<?php /*
 	<li>
 	Lec 02, 28/2: Modello Standard. Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
 	</li>
@@ -272,6 +274,7 @@
 	<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf">nascita delle stelle</a>
 	)
 	</li>
+*/ ?>
 
 	</ul> <!-- end of lectures -->
 	</div> <!--- end of entry -->

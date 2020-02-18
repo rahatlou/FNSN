@@ -5,7 +5,12 @@
 
 		<div class="entry">
 			<h2 class="title">Esoneri</h2>
+			<p>Ci sara` 1 esonero dopo Pasqua prima di fine Aprile.<p>
 
+			<p>nel caso di esito positivo al primo esonero, sara` possibile usare
+				la prima prova scritta di Giugno come un secondo esonero.</p>
+
+<?php /*
 		  <p>
 		    Sara` possibile consultare dispense, appunti, e formulari durante le prove
 		    di esonero ma
@@ -34,6 +39,7 @@
 		    <li> Secondo esonero: venerdi` 7 giugno 2019, inizio ore 15:30 in Aula Amaldi (solo per questo canale) (<a href="Didattica/FNSN/Esercizi/20190607-esonero.pdf">pdf con soluzioni</a>)
 		    (<a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=929776904&single=true">risultati</a>)</li>
 		  </ul>
+ */ ?>
 		</div>
 
 
@@ -48,9 +54,10 @@
 	degli anni passati.</p>
 
 
+<?php /*
 	<p> <a href="https://docs.google.com/document/d/1H-NFc5shVc6bVdUwWP-WaGsehikJHadOtNB4scLzmoE/edit?usp=sharing">Regolamento per l'esame</a>
 	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
-
+*/ ?>
 	  <ul>
 			<li><b>Appello 10 Febbraio 2020</b>:
 				<p>La prova avra` inizio il giorno lunedi` 10 Febbraio alle ore 15:00 in Aula 3, Nuovo Edificio di Fisica.
