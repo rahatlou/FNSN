@@ -49,9 +49,17 @@
 
 
 	<div class="entry">
-		<h2 class="title">Appelli di Esame FNSN (2018/19)</h2>
+		<h2 class="title">Appelli di Esame FNSN</h2>
 
 	<p>Tutte le date sono state inserite su <a href="https://www.uniroma1.it/it/pagina-strutturale/studenti">infostud</a>.
+	</p>
+	<p>Prove scritte:
+		<ul>
+			<li> 15/6/2020</li>
+			<li> 3/7/2020 </li>
+			<li> 4/9/2020 </li>
+		</ul>
+		Le prove orali di solito si svolgono a partire da 48 ore dopo la prova scritta.
 	</p>
 
 	<p>
