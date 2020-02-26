@@ -33,11 +33,12 @@
 	<ul>
 
 	<li>
-	Lec 01, 26/2: Introduzione.  Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
-	Modello Standard. Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
+	Lec 01, 26/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
 	</li>
 
 <?php /*
+Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
+Modello Standard.
 	<li>
 	Lec 02, 28/2: Modello Standard. Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
 	</li>

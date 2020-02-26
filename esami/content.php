@@ -5,8 +5,13 @@
 
 		<div class="entry">
 			<h2 class="title">Esoneri</h2>
-			<p>Ci sara` 1 esonero dopo Pasqua prima di fine Aprile.<p>
-
+			<ol>
+			  <li>I esonero: 24/4 pomeriggio</li>
+				<li>II esonero: data durante il corso (29/5-5/6) in base alla disponibilita`
+					 dell'aula oppure durante la prima prova scritta del 15/6.
+					 (<a href="https://docs.google.com/forms/d/e/1FAIpQLSc_DCHHnZTtHnKgoQg0rzZG4dVVuNzsmBeWx2bF_tcBAXgSUw/viewform">indicare la propria preferenza entro il 28/2</a>)
+				 </li>
+			</ol>
 			<p>nel caso di esito positivo al primo esonero, sara` possibile usare
 				la prima prova scritta di Giugno come un secondo esonero.</p>
 
