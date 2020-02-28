@@ -36,25 +36,30 @@
 	Lec 01, 26/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
 	</li>
 
+	<li>
+	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
+	Interazioni fondamentali. Esperimento di Michelson-Morley. Il tempo proprio.
+	Dilatazione temporale e contrazione delle lunghezze. (Dispense relativita`)
+	</li>
+
+	<li>
+	Lec 03, 4/3: Energia delle particelle relativistiche libere. Massa a riposo.
+	Quadrivelocita` e Quadrimpulso. Trasformazioni di Lorentz. Esperimenti di Thompson e Millikan.
+	Decadimenti. Vita media propria delle particelle instabili. (Dispense relativita`)
+  </li>
+
+	<li>
+	Lec 04, 6/3: Quadrimpulso. beta e gamma per particelle relativistiche.
+	Esercizi di cinematica.  (dispense relativita`)
+  </li>
+
 <?php /*
-Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
-Modello Standard.
-	<li>
-	Lec 02, 28/2: Modello Standard. Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
-	</li>
 
 	<li>
-	Lec 03, 1/3: Esperimento di Michelson-Morley. Trasformazioni di Lorentz.
-	Dilatazione temporale e contrazione delle lunghezze. Decadimento del muone.
-	Vita media delle particelle instabili. (Dispense relativita`)
+	Lec 04, 6/3:
+	La scoperta dell'elettrone. Trasformazione delle velocita`.  (dispense Cap 2 e Cap 5.8. Dispense relativita`)
 	</li>
 
-
-	<li>
-	Lec 04, 6/3: Vita media propria. Esperimenti di Thompson e Millikan.
-	La scoperta dell'elettrone. Trasformazione delle velocita`. Quadrivelocita` e Quadrimpulso.
-	Massa a riposo. Relazione tra energia e massa. (dispense Cap 2 e Cap 5.8. Dispense relativita`)
-	</li>
 	<li>
 	Lec 05, 7/3: Quadrimpulso. beta e gamma per particelle relativistiche.
 	Esercizi di cinematica.  (dispense relativita`)
