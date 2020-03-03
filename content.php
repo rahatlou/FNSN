@@ -7,7 +7,7 @@
 	<div class="entry">
 		<p><b>Il corso dell'anno accademico 2019/20 inizia il giorno mercoledi` 26 Febbraio 2020</b>
 			<ul>
-	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica</li>
+	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa.</li>
 	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
 	  	<li> <b>Dal 16/4 al 14/5 (inclusi)</b>: Giovedi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
 		</ul>
