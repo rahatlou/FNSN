@@ -39,18 +39,17 @@
 	<li>
 	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
 	Interazioni fondamentali. Esperimento di Michelson-Morley. Il tempo proprio.
-	Dilatazione temporale e contrazione delle lunghezze. (Dispense relativita`)
+	Dilatazione temporale e contrazione delle lunghezze. (Dispense relativita`, Griffiths Cap 1)
 	</li>
 
 	<li>
-	Lec 03, 4/3: Energia delle particelle relativistiche libere. Massa a riposo.
-	Quadrivelocita` e Quadrimpulso. Trasformazioni di Lorentz. Esperimenti di Thompson e Millikan.
-	Decadimenti. Vita media propria delle particelle instabili. (Dispense relativita`)
+	Lec 03, 4/3: Energia e impulso delle particelle relativistiche libere. Massa a riposo.
+	Quadrivelocita` e Quadrimpulso. Calcolo di beta e gamm. Trasformazioni di Lorentz. Leggi di conservazione nelle reazioni relativistiche.
+	Decadimenti. Vita media propria delle particelle instabili. Esperimenti di Thompson e Millikan. (Dispense relativita`, Griffiths Cap 3)
   </li>
 
 	<li>
-	Lec 04, 6/3: Quadrimpulso. beta e gamma per particelle relativistiche.
-	Esercizi di cinematica.  (dispense relativita`)
+	Lec 04, 6/3: Esercizi di cinematica e di relativita`.  (dispense relativita`)
   </li>
 
 <?php /*
