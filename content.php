@@ -43,14 +43,26 @@
 	</li>
 
 	<li>
-	Lec 03, 4/3: Energia e impulso delle particelle relativistiche libere. Massa a riposo.
-	Quadrivelocita` e Quadrimpulso. Calcolo di beta e gamm. Trasformazioni di Lorentz. Leggi di conservazione nelle reazioni relativistiche.
-	Decadimenti. Vita media propria delle particelle instabili. Esperimenti di Thompson e Millikan. (Dispense relativita`, Griffiths Cap 3)
+	Lec 03, 4/3: Definizione di energia e impulso delle particelle relativistiche libere. Massa a riposo. Particelle senza massa.
+	Quadrimpulso e Quadrivelocita`. Calcolo di &beta; e &gamma;. Trasformazioni di Lorentz.
+	Leggi di conservazione nelle reazioni relativistiche. Urti elastici ed anelastici.
+	Decadimenti. Vita media propria delle particelle instabili.  (Dispense relativita`, Griffiths Cap 3)
   </li>
 
 	<li>
-	Lec 04, 6/3: Esercizi di cinematica e di relativita`.  (dispense relativita`)
+	Lec 04, 6/3: Esercizi di cinematica e di relativita`:
+	trasformazioni di velocita`, angolo di apertura nei decadimenti, sistemi di riferimento.   (dispense relativita`)
   </li>
+
+	<li>
+	Lec 05, 11/3: Larghezza di decadimento. Branching ratio. Esperimenti di Thompson e Millikan.
+	Esperimenti di diffusione. Sezione d'urto e luminosita`. (dispense relativita`, Griffiths: cap 3 e 6)
+  </li>
+
+	<li>
+	Lec 06, 13/3: Esercizi di cinematica e di relativita`.  (dispense relativita`)
+	</li>
+
 
 <?php /*
 
