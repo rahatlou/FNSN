@@ -6,6 +6,8 @@
 	<h2 class="title">Orario Lezioni</h2>
 	<div class="entry">
 		<p><b>Il corso dell'anno accademico 2019/20 inizia il giorno mercoledi` 26 Febbraio 2020</b>
+			<p><b>Le lezioni sono sospese fino al 15 marzo come dalla
+        <a href="https://www.uniroma1.it/it/notizia/lezioni-sospese-fino-al-15-marzo">disposizione rettorale</a>.</b></p>
 			<ul>
 	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa.</li>
 	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
