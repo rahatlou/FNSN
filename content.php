@@ -6,8 +6,13 @@
 	<h2 class="title">Orario Lezioni</h2>
 	<div class="entry">
 		<p><b>Il corso dell'anno accademico 2019/20 inizia il giorno mercoledi` 26 Febbraio 2020</b>
-			<p><b>Le lezioni sono sospese fino al 15 marzo come dalla
-        <a href="https://www.uniroma1.it/it/notizia/lezioni-sospese-fino-al-15-marzo">disposizione rettorale</a>.</b></p>
+			<p>Le lezioni  <b>in aula</b>  sono sospese fino al 15 marzo come dalla
+        <a href="https://www.uniroma1.it/it/notizia/lezioni-sospese-fino-al-15-marzo">disposizione rettorale</a>.</p>
+      <p>Da mercoledi` 11 marzo le lezioni proseguiranno per <a href="https://www.uniroma1.it/it/pagina/tecnologie-di-facile-utilizzo-supporto-della-didattica-distanza"  target="_blank">via telematica</a>.</p>
+				<p>Tutti gli studenti di questo canale devono registrarsi su
+					<a href="https://classroom.google.com/u/1/c/NjI1NTgxNjE3Nzha"  target="_blank">google classroom</a> per la classe con il codice
+					<b>jgm5zmf</b>. La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1 e non con l'account personale.</p>
+
 			<ul>
 	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa.</li>
 	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
