@@ -58,10 +58,11 @@
 
 
 	<li>
-	Lec 04, 11/3: Larghezza di decadimento. Branching ratio. Signnificato della vita media.
-	Esperimenti di diffusione. Sezione d'urto e luminosita`. Esperimenti di Thompson e Millikan.
+	Lec 04, 11/3: Larghezza di decadimento. Branching ratio. Significato della vita media.
+	Esperimenti di diffusione. Definizione operativa di Sezione d'urto.
 	(dispense relativita`, Griffiths: cap 3 e 6)
 	(<a href="https://meet.google.com/hkx-nuek-ces?authuser=1&hs=122">codice Google Meet: hkx-nuek-ces</a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-11.pdf">lavagna</a>)
   </li>
 
 	<li>
@@ -70,6 +71,8 @@
 	</li>
 
 <?php /*
+
+ Esperimenti di Thompson e Millikan.
 
 <li>
 Lec 05, 13/3: Esercizi di cinematica e di relativita`.  (dispense relativita`)
