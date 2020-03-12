@@ -17,7 +17,7 @@
 
 				<p>Le videolezioni si faranno tramite <a href="">Google Meet</a>. E` disponibile
 					il <a href="https://calendar.google.com/calendar/b/1?cid=dW5pcm9tYTEuaXRfY2xhc3Nyb29tODY2ZjBmNjlAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendario google del corso</a>
-					dove trovate tutti il link per tutte le lezioni. (visibile solo con le credenziali uniroma1)</p>
+					dove trovate tutti il link per tutte le lezioni.</p>
 
 			<ul>
 	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa. (<a href="https://meet.google.com/hkx-nuek-ces?authuser=1&hs=122">Google Meet con codice hkx-nuek-ces</a>)</li>
