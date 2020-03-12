@@ -8,14 +8,20 @@
 		<p><b>Il corso dell'anno accademico 2019/20 inizia il giorno mercoledi` 26 Febbraio 2020</b>
 			<p>Le lezioni  <b>in aula</b>  sono sospese fino al 15 marzo come dalla
         <a href="https://www.uniroma1.it/it/notizia/lezioni-sospese-fino-al-15-marzo">disposizione rettorale</a>.</p>
-      <p>Da mercoledi` 11 marzo le lezioni proseguiranno per <a href="https://www.uniroma1.it/it/pagina/tecnologie-di-facile-utilizzo-supporto-della-didattica-distanza"  target="_blank">via telematica</a>.</p>
+      <p>Da mercoledi` 11 marzo le lezioni proseguiranno per <a href="https://www.uniroma1.it/it/pagina/tecnologie-di-facile-utilizzo-supporto-della-didattica-distanza"  target="_blank">via telematica</a>
+				nello stesso orario del corso.</p>
 				<p>Tutti gli studenti di questo canale devono registrarsi su
 					<a href="https://classroom.google.com/u/1/c/NjI1NTgxNjE3Nzha"  target="_blank">google classroom</a> per la classe con il codice
-					<b>jgm5zmf</b>. La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1 e non con l'account personale.</p>
+					<b>jgm5zmf</b>. La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1 e non con l'account personale.
+				Tutte le informazioni ed avvisi relativi alle videolezioni verranno comunicati tramite Google Classroom.</p>
+
+				<p>Le videolezioni si faranno tramite <a href="">Google Meet</a>. E` disponibile
+					il <a href="https://calendar.google.com/calendar/b/1?cid=dW5pcm9tYTEuaXRfY2xhc3Nyb29tODY2ZjBmNjlAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendario google del corso</a>
+					dove trovate tutti il link per tutte le lezioni. (visibile solo con le credenziali uniroma1)</p>
 
 			<ul>
-	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa.</li>
-	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
+	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa. (<a href="https://meet.google.com/hkx-nuek-ces?authuser=1&hs=122">Google Meet con codice hkx-nuek-ces</a>)</li>
+	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica (<a href="https://meet.google.com/hsn-mqbz-dcn?authuser=1&hs=122">Google Meet con codice  hsn-mqbz-dcn</a>)</li>
 	  	<li> <b>Dal 16/4 al 14/5 (inclusi)</b>: Giovedi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
 		</ul>
 	</div>
@@ -68,6 +74,7 @@
 	<li>
 	Lec 05, 6/3: Esercizi di cinematica e di relativita`:
 	trasformazioni di velocita`, angolo di apertura nei decadimenti, sistemi di riferimento.   (dispense relativita`)
+	(<a href="https://meet.google.com/hsn-mqbz-dcn?authuser=1&hs=122">codice Google Meet: hsn-mqbz-dcn</a>)
 	</li>
 
 <?php /*
