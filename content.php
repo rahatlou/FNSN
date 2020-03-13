@@ -67,39 +67,50 @@
 	Lec 04, 11/3: Larghezza di decadimento. Branching ratio. Significato della vita media.
 	Esperimenti di diffusione. Definizione operativa di Sezione d'urto.
 	(dispense relativita`, Griffiths: cap 3 e 6)
-	(<a href="https://meet.google.com/hkx-nuek-ces?authuser=1&hs=122">codice Google Meet: hkx-nuek-ces</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-11.pdf">lavagna</a>)
+	(<a href="https://meet.google.com/hkx-nuek-ces?authuser=1&hs=122">codice Google Meet: hkx-nuek-ces</a>)
   </li>
 
 	<li>
-	Lec 05, 6/3: Esercizi di cinematica e di relativita`:
+	Lec 05, 13/3: Esercizi di cinematica e di relativita`:
 	trasformazioni di velocita`, angolo di apertura nei decadimenti, sistemi di riferimento.   (dispense relativita`)
+  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-13.pdf">lavagna</a>)
 	(<a href="https://meet.google.com/hsn-mqbz-dcn?authuser=1&hs=122">codice Google Meet: hsn-mqbz-dcn</a>)
 	</li>
 
+	<li>
+	Lec 06, 17/3: Esercizi di cinematica: Sistemi di riferimento e massa invariante.
+	(dispense relativita`)
+	</li>
+
+
+	<li>
+	Lec 07, 18/3: Sezione d'urto. Fasci collidenti e luminosita`. Calcolo sezione d'urto.
+	Sezione d'urto differenza, esclusiva, inclusiva. Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
+
+	(dispense relativita`, Griffiths: cap 3 e 6)
+  </li>
+
+	<li>
+	Lec 08, 20/3: Esercizi di cinematica e di relativita`:
+	(dispense relativita`)
+	</li>
+
+	<li>
+	Lec 09, 25/3:
+	Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
+	Scoperta del protone e del neutrone.
+	</li>
+
+	<li>
+	Lec 10, 27/3: Esercizi di cinematica:
+	(dispense relativita`)
+	</li>
+
+
 <?php /*
 
- Esperimenti di Thompson e Millikan.
 
-<li>
-Lec 05, 13/3: Esercizi di cinematica e di relativita`.  (dispense relativita`)
-</li>
-
-
-	<li>
-	Lec 04, 6/3:
-	La scoperta dell'elettrone. Trasformazione delle velocita`.  (dispense Cap 2 e Cap 5.8. Dispense relativita`)
-	</li>
-
-	<li>
-	Lec 05, 7/3: Quadrimpulso. beta e gamma per particelle relativistiche.
-	Esercizi di cinematica.  (dispense relativita`)
-	(<a href="Didattica/FNSN/Esercizi/esercizi-1.pdf">esercizi</a>, <a href="Didattica/FNSN/Esercizi/soluzione-1.pdf">soluzione</a>)
-	</li>
-	<li>
-	Lec 06, 8/3: Esperimenti di diffusione. Sezione d'urto e luminosita`.
-	Sistemi di riferimento. Massa invariante. (dispense Cap 3, dispense relativita`)
-	</li>
 
 	<li>
 	Lec 07, 13/3: Decadimenti radioattivi: raggi alfa, beta, gamma.
