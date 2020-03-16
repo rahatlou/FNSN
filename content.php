@@ -6,7 +6,7 @@
 	<h2 class="title">Orario Lezioni</h2>
 	<div class="entry">
 		<p><b>Il corso dell'anno accademico 2019/20 inizia il giorno mercoledi` 26 Febbraio 2020</b>
-			<p>Le lezioni  <b>in aula</b>  sono sospese fino al 15 marzo come dalla
+			<p>Le lezioni  <b>in aula</b>  sono sospese fino al 3 aprile come dalla
         <a href="https://www.uniroma1.it/it/notizia/lezioni-sospese-fino-al-15-marzo">disposizione rettorale</a>.</p>
       <p>Da mercoledi` 11 marzo le lezioni proseguiranno per <a href="https://www.uniroma1.it/it/pagina/tecnologie-di-facile-utilizzo-supporto-della-didattica-distanza"  target="_blank">via telematica</a>
 				nello stesso orario del corso.</p>
@@ -17,11 +17,12 @@
 
 				<p>Le videolezioni si faranno tramite <a href="">Google Meet</a>. E` disponibile
 					il <a href="https://calendar.google.com/calendar/b/1?cid=dW5pcm9tYTEuaXRfY2xhc3Nyb29tODY2ZjBmNjlAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendario google del corso</a>
-					dove trovate tutti il link per tutte le lezioni.</p>
+					dove trovate tutti il link per tutte le lezioni. Tutte le lezioni e ricevimenti si svolgono
+				  nella stanza virtuale <a href="https://meet.google.com/hkx-nuek-ces?authuser=1&hs=122">Google Meet: hkx-nuek-ces</a></p>
 
 			<ul>
-	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa. (<a href="https://meet.google.com/hkx-nuek-ces?authuser=1&hs=122">Google Meet con codice hkx-nuek-ces</a>)</li>
-	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica (<a href="https://meet.google.com/hsn-mqbz-dcn?authuser=1&hs=122">Google Meet con codice  hsn-mqbz-dcn</a>)</li>
+	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa. </li>
+	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica </li>
 	  	<li> <b>Dal 16/4 al 14/5 (inclusi)</b>: Giovedi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
 		</ul>
 	</div>
@@ -66,49 +67,52 @@
 	<li>
 	Lec 04, 11/3: Larghezza di decadimento. Branching ratio. Significato della vita media.
 	Esperimenti di diffusione. Definizione operativa di Sezione d'urto.
-	(dispense relativita`, Griffiths: cap 3 e 6)
+	(dispense relativita`, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-11.pdf">lavagna</a>)
-	(<a href="https://meet.google.com/hkx-nuek-ces?authuser=1&hs=122">codice Google Meet: hkx-nuek-ces</a>)
   </li>
 
 	<li>
 	Lec 05, 13/3: Esercizi di cinematica e di relativita`:
 	trasformazioni di velocita`, angolo di apertura nei decadimenti, sistemi di riferimento.   (dispense relativita`)
   (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-13.pdf">lavagna</a>)
-	(<a href="https://meet.google.com/hsn-mqbz-dcn?authuser=1&hs=122">codice Google Meet: hsn-mqbz-dcn</a>)
 	</li>
 
-	<li>
+  <li>
 	Lec 06, 17/3: Esercizi di cinematica: Sistemi di riferimento e massa invariante.
 	(dispense relativita`)
 	</li>
 
+	<li>
+	Lec 07, 18/3: Energia di soglia per le reazioni. Conservazione del quadrimpulso.
+	Massa invariante. Cinematica relativistica nei decadimenti.
+	(dispense relativita`)
+	</li>
 
 	<li>
-	Lec 07, 18/3: Sezione d'urto. Fasci collidenti e luminosita`. Calcolo sezione d'urto.
+	Lec 08, 20/3: Sezione d'urto. Fasci collidenti e luminosita`. Calcolo sezione d'urto.
 	Sezione d'urto differenza, esclusiva, inclusiva. Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
-
-	(dispense relativita`, Griffiths: cap 3 e 6)
+	(Dionisi-Longo: cap 3, Griffiths: cap 6)
   </li>
 
-	<li>
-	Lec 08, 20/3: Esercizi di cinematica e di relativita`:
-	(dispense relativita`)
-	</li>
-
-	<li>
-	Lec 09, 25/3:
-	Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
-	Scoperta del protone e del neutrone.
-	</li>
-
-	<li>
-	Lec 10, 27/3: Esercizi di cinematica:
-	(dispense relativita`)
-	</li>
 
 
 <?php /*
+
+<li>
+Lec 08, 20/3: Esercizi di cinematica e di relativita`:
+(dispense relativita`)
+</li>
+
+<li>
+Lec 09, 25/3:
+Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
+Scoperta del protone e del neutrone.
+</li>
+
+<li>
+Lec 10, 27/3: Esercizi di cinematica:
+(dispense relativita`)
+</li>
 
 
 
