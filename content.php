@@ -104,7 +104,7 @@
 	</li>
 
 	<li>
-	Lec 10, 20/3: Sezione d'urto differenziale. Calcolo della sezione d'urto.
+	Lec 10, 25/3: Sezione d'urto differenziale. Calcolo della sezione d'urto.
 	Coefficiente di assorbimentoi del fascio.
 	Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
 	Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
