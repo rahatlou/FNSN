@@ -85,38 +85,34 @@
 
 	<li>
 	Lec 07, 18/3: Energia di soglia per le reazioni. Conservazione del quadrimpulso.
-	Massa invariante. Cinematica relativistica nei decadimenti.
+	Massa invariante. Cinematica relativistica nei decadimenti. Decadimento a due corpi nel cdm e LAB.
 	(dispense relativita`)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_18.pdf">lavagna</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizi_per_casa_2020_03_18.pdf">esercizi per casa</a>)
 	</li>
 
 	<li>
-	Lec 08, 20/3: Sezione d'urto. Fasci collidenti e luminosita`. Calcolo della sezione d'urto.
-	Sezione d'urto differenziale, esclusiva, inclusiva. Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
+	Lec 08, 20/3: Sezione d'urto. Fasci collidenti e luminosita` (istantanea e integrata)
+	Sezione d'urto esclusiva ed inclusiva. Esempio del bosone di Higgs ad LHC. misura della sezione d'urto.
 	(Dionisi-Longo: cap 3, Griffiths: cap 6)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-20.pdf">lavagna</a>)
+  </li>
+
+	<li>
+	Lec 09, 24/3 (ore 14-16): Esercizi di cinematica:
+	(dispense relativita`)
 	</li>
 
+	<li>
+	Lec 10, 20/3: Sezione d'urto differenziale. Calcolo della sezione d'urto.
+	Coefficiente di assorbimentoi del fascio.
+	Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
+	Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
+
+  </li>
 
 
 <?php /*
-
-<li>
-Lec 08, 20/3: Esercizi di cinematica e di relativita`:
-(dispense relativita`)
-</li>
-
-<li>
-Lec 09, 25/3:
-Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
-Scoperta del protone e del neutrone.
-</li>
-
-<li>
-Lec 10, 27/3: Esercizi di cinematica:
-(dispense relativita`)
-</li>
-
 
 
 	<li>
