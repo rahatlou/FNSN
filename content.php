@@ -80,19 +80,22 @@
   <li>
 	Lec 06, 17/3: Esercizi di cinematica: Sistemi di riferimento e massa invariante.
 	(dispense relativita`)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_17.pdf">lavagna</a>)
 	</li>
 
 	<li>
 	Lec 07, 18/3: Energia di soglia per le reazioni. Conservazione del quadrimpulso.
 	Massa invariante. Cinematica relativistica nei decadimenti.
 	(dispense relativita`)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_18.pdf">lavagna</a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizi_per_casa_2020_03_18.pdf">esercizi per casa</a>)
 	</li>
 
 	<li>
-	Lec 08, 20/3: Sezione d'urto. Fasci collidenti e luminosita`. Calcolo sezione d'urto.
-	Sezione d'urto differenza, esclusiva, inclusiva. Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
+	Lec 08, 20/3: Sezione d'urto. Fasci collidenti e luminosita`. Calcolo della sezione d'urto.
+	Sezione d'urto differenziale, esclusiva, inclusiva. Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
 	(Dionisi-Longo: cap 3, Griffiths: cap 6)
-  </li>
+	</li>
 
 
 
