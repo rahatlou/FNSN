@@ -15,10 +15,10 @@
 					<b>jgm5zmf</b>. La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1 e non con l'account personale.
 				Tutte le informazioni ed avvisi relativi alle videolezioni verranno comunicati tramite Google Classroom.</p>
 
-				<p>Le videolezioni si faranno tramite <a href="">Google Meet</a>. E` disponibile
+				<p>Le videolezioni si faranno tramite <a href="https://meet.google.com/ozv-eooz-rde?authuser=1&hs=122">Google Meet</a>. E` disponibile
 					il <a href="https://calendar.google.com/calendar/b/1?cid=dW5pcm9tYTEuaXRfY2xhc3Nyb29tODY2ZjBmNjlAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendario google del corso</a>
 					dove trovate tutti il link per tutte le lezioni. Tutte le lezioni e ricevimenti si svolgono
-				  nella stanza virtuale <a href="https://meet.google.com/hkx-nuek-ces?authuser=1&hs=122">Google Meet: hkx-nuek-ces</a></p>
+				  nella stanza virtuale <a href="https://meet.google.com/ozv-eooz-rde?authuser=1&hs=122">Google Meet: ozv-eooz-rde</a></p>
 
 			<ul>
 	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa. </li>
