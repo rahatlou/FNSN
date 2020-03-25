@@ -101,25 +101,29 @@
 	<li>
 	Lec 09, 24/3 (ore 14-16): Esercizi di cinematica:
 	(dispense relativita`)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_24_03_2020.pdf">lavagna</a>)
 	</li>
 
 	<li>
-	Lec 10, 25/3: Sezione d'urto differenziale. Calcolo della sezione d'urto.
-	Coefficiente di assorbimentoi del fascio.
-	Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
-	Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
-
+	Lec 10, 25/3: Coefficiente di assorbimento del fascio.
+	Sezione d'urto differenziale. Calcolo della sezione d'urto.
+	Misura della sezione d'urto.
+	Radioattivita`. Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-25.pdf">lavagna</a>)
   </li>
 
-
-<?php /*
-
+	<li>
+	Lec 11, 27/3: Esercizi di cinematica e sezione d'urto.
+	(dispense relativita`)
+	</li>
 
 	<li>
-	Lec 07, 13/3: Decadimenti radioattivi: raggi alfa, beta, gamma.
-	Diffusione di Rutherford e calcolo di sezione d'urto classica.
-	Scoperta del protone e del neutrone. (dispense Cap 3,Cap 1)
-	</li>
+	Lec 12, 1/4: Esperimenti di Diffusione.
+	Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
+	Scoperta del protone e del neutrone.
+  </li>
+
+<?php /*
 
 	<li>
 	Lec 08, 14/3:
@@ -133,12 +137,6 @@
 	Lec 09, 15/3: Decadimento in due corpi. Momento trasverso. Trasformazioni angolari relativisitiche.
 	Decadimento del bosone di Higgs e del pione neutro. Massa invariante e la risoluzione sperimentale.
 	(dispense relativita`) (<a href="Didattica/FNSN/Esercizi/esercizi-2.pdf">esercizi</a>)
-	</li>
-
-	<li>
-	Lec 10, 20/3: Esercizi di cinematica e sezione d'urto.
-	Trasformazioni relativistiche degli angoli.
-
 	</li>
 
 	<li>
