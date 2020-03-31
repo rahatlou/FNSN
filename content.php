@@ -84,8 +84,10 @@
 	</li>
 
 	<li>
-	Lec 07, 18/3: Energia di soglia per le reazioni. Conservazione del quadrimpulso.
-	Massa invariante. Cinematica relativistica nei decadimenti. Decadimento a due corpi nel cdm e LAB.
+	Lec 07, 18/3: Urti anelastici. Energia di Soglia di reazione: produzione di anti-protone.
+	Conservazione del quadrimpulso.
+	Massa invariante. Cinematica relativistica nei decadimenti.
+	Decadimento a due corpi nel cdm e LAB.
 	(dispense relativita`)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_18.pdf">lavagna</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizi_per_casa_2020_03_18.pdf">esercizi per casa</a>)
@@ -113,17 +115,24 @@
   </li>
 
 	<li>
-	Lec 11, 27/3: Esercizi di cinematica e sezione d'urto.
+	Lec 11, 27/3: Decadimento in 2 corpi: &pi;0 -> &gamma;&gamma;. Urti elastici. Scattering Compton.
 	(dispense relativita`)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_27.pdf">lavagna</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizio_per_casa_2020_03_27.pdf">esercizi per casa</a>)
-</li>
+  </li>
 
 	<li>
 	Lec 12, 1/4: Esperimenti di Diffusione.
 	Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
 	Scoperta del protone e del neutrone.
   </li>
+
+	<li>
+	Lec 13, 3/4:
+	Esercizi di sezione d'urto. (dispense)
+	</li>
+
+
 
 <?php /*
 
