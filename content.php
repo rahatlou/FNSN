@@ -101,7 +101,7 @@
 	<li>
 	Lec 09, 24/3 (ore 14-16): Esercizi di cinematica:
 	(dispense relativita`)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_24_03_2020.pdf">lavagna</a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_24.pdf">lavagna</a>)
 	</li>
 
 	<li>
@@ -115,7 +115,9 @@
 	<li>
 	Lec 11, 27/3: Esercizi di cinematica e sezione d'urto.
 	(dispense relativita`)
-	</li>
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_27.pdf">lavagna</a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizio_per_casa_2020_03_27.pdf">esercizi per casa</a>)
+</li>
 
 	<li>
 	Lec 12, 1/4: Esperimenti di Diffusione.
