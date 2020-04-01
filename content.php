@@ -125,6 +125,8 @@
 	Lec 12, 1/4: Esperimenti di Diffusione.
 	Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
 	Scoperta del protone e del neutrone.
+	(Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-01.pdf">lavagna</a>)
   </li>
 
 	<li>
@@ -138,21 +140,8 @@
 
 	<li>
 	Lec 08, 14/3:
-	Urti elastici: energia trasferita, scattering Compton.
-	Urti anelastici. Energia di Soglia di reazione: produzione di anti-protone. Urto di raggi cosmici e
+  Urto di raggi cosmici e
 	radiazione di fondo cosmico (effetto GZK). Decadimento in due corpi. (dispense relativita`)
-	</li>
-
-
-	<li>
-	Lec 09, 15/3: Decadimento in due corpi. Momento trasverso. Trasformazioni angolari relativisitiche.
-	Decadimento del bosone di Higgs e del pione neutro. Massa invariante e la risoluzione sperimentale.
-	(dispense relativita`) (<a href="Didattica/FNSN/Esercizi/esercizi-2.pdf">esercizi</a>)
-	</li>
-
-	<li>
-	Lec 11, 21/3:
-	Esercizi e prove di esonero. (dispense Cap 4)
 	</li>
 
 	<li>
