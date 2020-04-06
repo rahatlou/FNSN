@@ -6,7 +6,7 @@
 	<h2 class="title">Orario Lezioni</h2>
 	<div class="entry">
 		<p><b>Il corso dell'anno accademico 2019/20 inizia il giorno mercoledi` 26 Febbraio 2020</b>
-			<p>Le lezioni  <b>in aula</b>  sono sospese fino al 3 aprile come dalla
+			<p>Le lezioni  <b>in aula</b>  sono sospese come dalla
         <a href="https://www.uniroma1.it/it/notizia/lezioni-sospese-fino-al-15-marzo">disposizione rettorale</a>.</p>
       <p>Da mercoledi` 11 marzo le lezioni proseguiranno per <a href="https://www.uniroma1.it/it/pagina/tecnologie-di-facile-utilizzo-supporto-della-didattica-distanza"  target="_blank">via telematica</a>
 				nello stesso orario del corso.</p>
