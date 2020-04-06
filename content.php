@@ -132,8 +132,14 @@
 	<li>
 	Lec 13, 3/4:
 	Esercizi di sezione d'urto. (dispense)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_04_03.pdf">lavagna</a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizio_per_casa_2020_04_03.pdf">esercizi per casa</a>)
 	</li>
 
+	<li>
+	Lec 14, 8/4:
+	Esercizi di riepilogo e di esonero.
+	</li>
 
 
 <?php /*
