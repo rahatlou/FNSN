@@ -20,6 +20,11 @@
 					dove trovate tutti il link per tutte le lezioni. Tutte le lezioni e ricevimenti si svolgono
 				  nella stanza virtuale <a href="https://meet.google.com/ozv-eooz-rde?authuser=1&hs=122">Google Meet: ozv-eooz-rde</a></p>
 
+			<p>Siete pregati di leggere con attenzione la <a href="https://www.uniroma1.it/it/documento/procedura-straordinaria-lo-svolgimento-degli-esami-orali-di-profitto-modalita-telematica">procedura straordinaria per lo svolgimento degli esami orali</a>
+				in vigore dal prossimo appello fino a nuove direttive. Al momento non sono disponibili direttive
+				per lo svolgimento delle prove scritte.
+			</p>
+
 			<ul>
 	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa. </li>
 	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica </li>
