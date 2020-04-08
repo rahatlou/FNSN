@@ -144,7 +144,13 @@
 	<li>
 	Lec 14, 8/4:
 	Esercizi di riepilogo e di esonero.
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_04_08.pdf">lavagna</a>)
 	</li>
+
+	<li>
+	Lec 15, 15/4: lezione
+  </li>
+
 
 
 <?php /*
