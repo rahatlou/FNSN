@@ -151,6 +151,20 @@
 	Lec 15, 15/4: lezione
   </li>
 
+	<li>
+	Lec 16, 15/3:
+	Scoperta del neutrone. Introduzione a Fisica nucleare. Proprieta` dei nuclei. Modelli nucleari. (Dionisi-Longo cap 8, Bertulani cap 4,5)
+	</li>
+
+	<li>
+	Lec 17, 16/3:
+	Fisica nucleare. Radioattivita` e unita` di misura. (Bertulani cap 5,6)
+	</li>
+
+	<li>
+	Lec 18, 17/3:
+	Fisica nucleare. 
+	</li>
 
 
 <?php /*
