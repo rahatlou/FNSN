@@ -148,22 +148,24 @@
 	</li>
 
 	<li>
-	Lec 15, 15/4: lezione
-  </li>
-
-	<li>
-	Lec 16, 15/3:
-	Scoperta del neutrone. Introduzione a Fisica nucleare. Proprieta` dei nuclei. Modelli nucleari. (Dionisi-Longo cap 8, Bertulani cap 4,5)
+	Lec 15, 15/4:
+	Scoperta del neutrone. Introduzione a Fisica nucleare.
+	Proprieta` dei nuclei. Energia di legame. Stabilita` nucleare.
+	Decadimento gamma e beta.  (Dionisi-Longo cap 8, Bertulani cap 4)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-15.pdf">lavagna</a>)
 	</li>
 
 	<li>
-	Lec 17, 16/3:
-	Fisica nucleare. Radioattivita` e unita` di misura. (Bertulani cap 5,6)
+	Lec 16, 16/3:
+	Decadimento alfa. Radioattivita` e unita` di misura.
+	Modelli nucleari: gas di Fermi e modello a goccia. Densita` di stati ed energia di Fermi.
+	Energia di legame per i nucleoni. (Bertulani cap 5,6)
 	</li>
 
 	<li>
-	Lec 18, 17/3:
-	Fisica nucleare. 
+	Lec 17, 17/3:
+	Reazioni nucleari. Fissione sponatena ed indotta. Cenni a reattori nucleari.
+	Fusione. Reazioni pp nel Sole. 
 	</li>
 
 
