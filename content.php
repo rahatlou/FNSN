@@ -169,7 +169,7 @@
 	Soglia di instabilita` per il decadimento alpha. Modello di Gamow.
 	Legge di Geiger-Nuttal. Radioattivita` e unita` di misura.
 	Reazioni nucleari. Fissione sponatena ed indotta. Cenni a reattori nucleari.
-	Fusione. Reazioni pp nel Sole. (Bertulani cap 6)
+	Fusione. Reazioni pp nel Sole. (Bertulani cap 7, 6)
 	</li>
 
 
