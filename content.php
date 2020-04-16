@@ -150,22 +150,26 @@
 	<li>
 	Lec 15, 15/4:
 	Scoperta del neutrone. Introduzione a Fisica nucleare.
-	Proprieta` dei nuclei. Energia di legame. Stabilita` nucleare.
-	Decadimento gamma e beta.  (Dionisi-Longo cap 8, Bertulani cap 4)
+	Proprieta` dei nuclei. Energia di legame. Carta di Segre`. Stabilita` nucleare.
+	Decadimenti gamma e beta. Cattura elettronica.  (Dionisi-Longo cap 8, Bertulani cap 4)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-15.pdf">lavagna</a>)
 	</li>
 
 	<li>
 	Lec 16, 16/3:
-	Decadimento alfa. Radioattivita` e unita` di misura.
+	Decadimento alfa.
 	Modelli nucleari: gas di Fermi e modello a goccia. Densita` di stati ed energia di Fermi.
-	Energia di legame per i nucleoni. (Bertulani cap 5,6)
+	Calcolo di energia di legame per i nucleoni. Formula di Bethe-Weizsacker per la massa.
+	(Bertulani cap 5, Dionisi-Longo cap 8)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-16.pdf">lavagna</a>)
 	</li>
 
 	<li>
 	Lec 17, 17/3:
+	Soglia di instabilita` per il decadimento alpha. Modello di Gamow.
+	Legge di Geiger-Nuttal. Radioattivita` e unita` di misura.
 	Reazioni nucleari. Fissione sponatena ed indotta. Cenni a reattori nucleari.
-	Fusione. Reazioni pp nel Sole. 
+	Fusione. Reazioni pp nel Sole. (Bertulani cap 6)
 	</li>
 
 
