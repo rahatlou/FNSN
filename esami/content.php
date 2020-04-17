@@ -6,14 +6,49 @@
 		<div class="entry">
 			<h2 class="title">Esoneri</h2>
 			<ol>
-			  <li>I esonero: 24/4 pomeriggio</li>
-				<li>II esonero: data durante il corso (29/5-5/6) in base alla disponibilita`
-					 dell'aula oppure durante la prima prova scritta del 15/6.
-					 (<a href="https://docs.google.com/forms/d/e/1FAIpQLSc_DCHHnZTtHnKgoQg0rzZG4dVVuNzsmBeWx2bF_tcBAXgSUw/viewform">indicare la propria preferenza entro il 28/2</a>)
-				 </li>
+			  <li>I esonero: 24/4 durante l'orario del corso</li>
+				<li>II esonero: 12/6 durante l'orario del corso</li>
 			</ol>
-			<p>nel caso di esito positivo al primo esonero, sara` possibile usare
-				la prima prova scritta di Giugno come un secondo esonero.</p>
+
+			<h2 class="title">Modalita` di esame e di esoneri durante l'emergenza COVID-19</h2>
+			<p>Data l’emergenza COVID-19 e le lezioni erogate solo in via telematica, e senza la possibilità di fare prove scritte come gli anni passati, le queste sono le modalità ed i criteri di valutazione per l’esame di questo corso .</p>
+
+			<p>Tale procedura verra` seguita fino nuove disposizioni di ateneo.</p>
+
+		<ul>
+			<li> Ci saranno 2 prove in itinere durante l’orario di lezione nei giorni 24/4 e 12/6.
+				Le prove si svolgono da remoto utilizzando google classroom.</li>
+			<ul>
+			<li> Gli studenti riceveranno il testo delle domande alle 12:15 nei
+			giorni indicati</li>
+			<li> la soluzione dovrà essere caricata come spiegato nel testo,
+			usando il modulo google sulla piattaforma della Sapienza </li>
+			<li> il voto finale della prova verrà calcolato in base alla
+			distribuzione dei voti ottenuti, rinormalizzando il
+			punteggio grezzo</li>
+		</ul>
+			<li> Il voto dell’esonero costituisce 20% del voto finale dell’esame</li>
+			<li> Non ci sono prove scritte oltre ai due esoneri</li>
+			<li> Durante le prove d’esame negli appelli di Giugno e Luglio, verrà
+			chiesto allo studente o alla studentessa di svolgere un esercizio
+			numerico dal vivo in circa 20 min</li>
+			<li> L’esito positivo di questo esercizio permette di proseguire con la prova orale</li>
+			<li> Nel caso di esito negativo sarà possibile sostenere l’esame all’appello successivo</li>
+			<li> La prova orale verterà sugli argomenti del corso come dettagliato sul sito del corso</li>
+			<li> Il voto finale della prova sarà dato dalla somma di</li>
+			<ol>
+			<li> media agli esoneri x 20%</li>
+			<li> voto dell’esercizio svolto durante la prova d’esame x 30%</li>
+			<li> voto della prova orale sul programma x 50%</li>
+		</ol>
+			<li> il voto dell’esonero è valido fino all’appello di Febbraio 2021 anche in caso di</li>
+			<ul>
+			<li> esito negativo dell’esercizio</li>
+			<li> esito negativo dell’orale</li>
+			<li> rinuncia al voto dopo la prova orale</li>
+		  </ul>
+		</ul>
+
 
 <?php /*
 		  <p>
