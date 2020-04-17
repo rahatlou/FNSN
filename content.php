@@ -156,7 +156,7 @@
 	</li>
 
 	<li>
-	Lec 16, 16/3:
+	Lec 16, 16/4:
 	Decadimento alfa.
 	Modelli nucleari: gas di Fermi e modello a goccia. Densita` di stati ed energia di Fermi.
 	Calcolo di energia di legame per i nucleoni. Formula di Bethe-Weizsacker per la massa.
@@ -165,12 +165,18 @@
 	</li>
 
 	<li>
-	Lec 17, 17/3:
+	Lec 17, 17/4:
 	Soglia di instabilita` per il decadimento alpha. Modello di Gamow.
-	Legge di Geiger-Nuttal. Radioattivita` e unita` di misura.
-	Reazioni nucleari. Fissione sponatena ed indotta. Cenni a reattori nucleari.
-	Fusione. Reazioni pp nel Sole. (Bertulani cap 7, 6)
+	Legge di Geiger-Nuttal. Radioattivita` e unita` di misura. (Bertulani cap 7, 6)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-17.pdf">lavagna</a>)
 	</li>
+
+	<li>
+	Lec 18, 22/4:
+	Reazioni nucleari. Fissione spontanea ed indotta. Cenni a reattori nucleari.
+	Fusione. Reazioni pp nel Sole.
+	</li>
+
 
 
 <?php /*
