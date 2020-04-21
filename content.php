@@ -172,6 +172,13 @@
 	</li>
 
 	<li>
+	Esercitazione extra, 21/4:
+	Esercizi di riepilogo e di esonero.
+	</li>
+
+
+
+	<li>
 	Lec 18, 22/4:
 	Reazioni nucleari. Fissione spontanea ed indotta. Cenni a reattori nucleari.
 	Fusione. Reazioni pp nel Sole.
