@@ -172,7 +172,7 @@
 	</li>
 
 	<li>
-	Esercitazione extra, 21/4:
+	Esercitazione extra, 21/4 ore 14:00:
 	Esercizi di riepilogo e di esonero.
 	</li>
 
