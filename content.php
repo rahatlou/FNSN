@@ -158,7 +158,7 @@
 	<li>
 	Lec 16, 16/4:
 	Decadimento alfa.
-	Modelli nucleari: gas di Fermi e modello a goccia. Densita` di stati ed energia di Fermi.
+	Modelli nucleari: gas di Fermi e modello a goccia. Densita` degli stati ed energia di Fermi.
 	Calcolo di energia di legame per i nucleoni. Formula di Bethe-Weizsacker per la massa.
 	(Bertulani cap 5, Dionisi-Longo cap 8)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-16.pdf">lavagna</a>)
@@ -174,16 +174,32 @@
 	<li>
 	Esercitazione extra, 21/4 ore 14:00:
 	Esercizi di riepilogo e di esonero.
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_04_21.pdf">lavagna</a>)
 	</li>
 
 
 
 	<li>
 	Lec 18, 22/4:
-	Reazioni nucleari. Fissione spontanea ed indotta. Cenni a reattori nucleari.
-	Fusione. Reazioni pp nel Sole.
+	Reazioni nucleari. Sezione d'urto di neutroni. Fissione spontanea ed indotta.
+	Cenni a reattori nucleari. (Bertulani cap 10.1, 10.2,  11.5, 11.7)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-22.pdf">lavagna</a>)
 	</li>
 
+	<li>
+	Lec 19, 23/4:
+	Fusione. Reazioni pp nel Sole. Cenni a nucleosintesi.
+	(Bertulani cap 12)
+	(<a href="https://www.ptable.com">Tavola periodica interattiva</a>)
+	(Articoli da <a href="https://www.asimmetrie.it">asimmetrie.it</a>:
+	<a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
+	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-02.pdf">elementi leggeri</a>,
+	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-03.pdf">elementi pesanti</a>,
+	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf">reazioni nucleari nel sole</a>,
+	<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf">nascita delle stelle</a>
+	)
+	Decadimento Beta. Teoria di Fermi per l'interazione debole. La seconda regola d'oro di Fermi (Bertulani cap 8, cap 6.9)
+	</li>
 
 
 <?php /*
