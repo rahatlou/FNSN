@@ -198,8 +198,18 @@
 	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf">reazioni nucleari nel sole</a>,
 	<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf">nascita delle stelle</a>
 	)
-	Decadimento Beta. Teoria di Fermi per l'interazione debole. La seconda regola d'oro di Fermi (Bertulani cap 8, cap 6.9)
+	Decadimento Beta. Teoria di Fermi per l'interazione debole.  (Bertulani cap 8, Dionisi-Longo cap 6, Perkins cap 7)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-23.pdf">lavagna</a>)
 	</li>
+
+	<li>
+	Lec 20, 29/4:
+	Larghezza di decadimento e distribuzione di Breit-Wigner.
+	La regola d'oro di Fermi. Calcolo larghezza di decadimento beta.
+	La scoperta del neutrino. Massa del neutrino e grafico di Kurie.
+	 (Bertulani cap 6.9, Perkins cap 7, Longo-Dionisi cap 6,5)
+	</li>
+
 
 
 <?php /*
