@@ -203,6 +203,10 @@
 	</li>
 
 	<li>
+	24/4: prova in itinere durante l'orario di lezione
+  </li>
+
+	<li>
 	Lec 20, 29/4:
 	Larghezza di decadimento e distribuzione di Breit-Wigner.
 	La regola d'oro di Fermi. Calcolo larghezza di decadimento beta.
