@@ -218,11 +218,6 @@
 
 <?php /*
 
-	<li>
-	Lec 08, 14/3:
-  Urto di raggi cosmici e
-	radiazione di fondo cosmico (effetto GZK). Decadimento in due corpi. (dispense relativita`)
-	</li>
 
 	<li>
 	Lec 12, 22/3:
@@ -371,39 +366,7 @@
 	Lec 30, 7/6 12-13:
 	Elicita` del neutrino e l'esperimento di Goldhaber. (Goldhaber Cap 6, Perkins Cap 7)
 	</li>
-
-	<li>
-	Esonero, venerdi` 7/6 ore 15:30-17:30 in Aula Amaldi. La prova avra` inizio alle ore 15:30.
-	(<a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=929776904&single=true">risultati</a>)
-	</li>
-
-
-	<li>
-	Lec 31, 12/6:
-	Energia di legame. Modelli nucleari: modello a goccia e modello a gas di Fermi.
-	Calcolo energia cinetica dei nucleoni. Stima correzioni di energia di legame.
-	Formula di Bethe-Weizsäcker. Valle di stabilita`.
-	 (Bertulani Cap 4.2, 5.1-5.3, dispense Cap 8)
-	(<a href="Didattica/FNSN/NuclideMap.PNG">valle di stabilita`</a>, credits: <a href="https://www.nndc.bnl.gov/nudat2/">National Nuclear Data Center</a>)
-	(<a href="Didattica/FNSN/Binding-energy-per-nucleon-versus-atomic-mass-number-showing-the-maximum-in-the-curve.png">energia di legame media per nucleone</a>, from <a href="https://doi.org/10.1051/epjconf/201818900015">https://doi.org/10.1051/epjconf/201818900015</a>)
-	</li>
-
-	<li>
-	Lec 32, 13/6, 12-14, Aula 3:
-	Decadimento alfa: modello di Gamow.
-	Spettro alfa e la dipendenza della vita media dall'energia. Legge di Geiger-Nuttal.
-	Reazioni nucleari: Fissione spontanea e indotta, e fusione.
-	Fusione nelle stelle e nucleosintesi. (Bertulani Cap 6, Cap 7.1-7.2, Cap 11(cenni), Cap 12.5-12.6)
-	(<a href="https://www.ptable.com">Tavola periodica interattiva</a>)
-	(Articoli da <a href="https://www.asimmetrie.it">asimmetrie.it</a>:
-	<a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
-	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-02.pdf">elementi leggeri</a>,
-	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-03.pdf">elementi pesanti</a>,
-	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf">reazioni nucleari nel sole</a>,
-	<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf">nascita delle stelle</a>
-	)
-	</li>
-*/ ?>
+ ?>
 
 	</ul> <!-- end of lectures -->
 	</div> <!--- end of entry -->
