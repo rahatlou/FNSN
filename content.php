@@ -211,7 +211,8 @@
 	Larghezza di decadimento e distribuzione di Breit-Wigner.
 	La regola d'oro di Fermi. Calcolo larghezza di decadimento beta.
 	La scoperta del neutrino. Massa del neutrino e grafico di Kurie.
-	 (Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
+	(Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-29.pdf">lavagna</a>)
 	</li>
 
 	<li>
