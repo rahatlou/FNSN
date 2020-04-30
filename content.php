@@ -217,12 +217,19 @@
 
 	<li>
 	Lec 21, 30/4:
-	Calcolo larghezza di decadimento beta. Massa del neutrino e grafico di Kurie.
+	Calcolo larghezza decadimento beta. Massa del neutrino e grafico di Kurie.
+	Misura della costante di Fermi. Diffusione del neutrino sul protone. Caloclo
+	della sezione d'urto con la regola d'oro di Fermi.
 	La scoperta del neutrino.
-	 (Bertulani cap 8.3, Perkins cap 7, Longo-Dionisi cap 6,5)
+	 (Bertulani cap 8.3; Perkins cap 7.2, 7.3, 7.4; Longo-Dionisi cap 6,5)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-30.pdf">lavagna</a>)
 	</li>
 
-
+	<li>
+	Lec 22, 6/5:
+	Interazione delle particelle nella materia. Particelle cariche e la formula di Bethe-Bloch.
+	Effetto Cerenkov.
+  </li>
 
 <?php /*
 
