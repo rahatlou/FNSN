@@ -240,6 +240,12 @@
 	(Das-Ferbel cap 6; Longo-Dionisi cap 4)
   </li>
 
+	<li>
+	Lec 24, 8/5:
+	Esercizi sull'interazione nella materia.
+  </li>
+
+
 
 <?php /*
 
