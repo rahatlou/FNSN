@@ -229,15 +229,15 @@
 	Lec 22, 6/5:
 	Interazione delle particelle nella materia. Particelle cariche nel mezzo.
 	Perdita di energia per ionizzazione: formula di Bohr.
-	(Das-Ferbel cap 6; Longo-Dionisi cap 4)
+	(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1)
   (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-06.pdf">lavagna</a>)
   </li>
 
 	<li>
 	Lec 23, 7/5:
 	Perdita di energia per ionizzazione: formula di Bethe-Bloch. Scattering multiplo nel mezzo.
-	Effetto Cerenkov. Interazione di elettroni nel mezzo.
-	(Das-Ferbel cap 6; Longo-Dionisi cap 4)
+	Effetto Cerenkov.
+	(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1)
   </li>
 
 	<li>
