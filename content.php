@@ -235,9 +235,12 @@
 
 	<li>
 	Lec 23, 7/5:
-	Perdita di energia per ionizzazione: formula di Bethe-Bloch. Scattering multiplo nel mezzo.
-	Effetto Cerenkov.
-	(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1)
+	Perdita di energia per ionizzazione: formula di Bethe-Bloch.
+	Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
+	Scattering multiplo nel mezzo.
+	(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
+	<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-07.pdf">lavagna</a>)
   </li>
 
 	<li>
@@ -245,7 +248,22 @@
 	Esercizi sull'interazione nella materia.
   </li>
 
+	<li>
+	Lec 25, 13/5: Effetto Cerenkov. Identificazione di paricelle.
+	Interazione di elettroni e fotoni con la materia. Sciami elettromagnetici.
+	(Das-Ferbel cap 6; Longo-Dionisi cap 4,
+	<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>)
+  </li>
 
+	<li>
+	Lec 26, 13/5: cenni a sciami adronici. Calorimetri.
+	Tracciatori e la misura dell'impulso.
+  </li>
+
+	<li>
+	Lec 27, 15/5:
+	Esercizi sull'interazione nella materia.
+	</li>
 
 <?php /*
 
