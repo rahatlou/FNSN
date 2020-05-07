@@ -236,6 +236,7 @@
 	<li>
 	Lec 23, 7/5:
 	Perdita di energia per ionizzazione: formula di Bethe-Bloch.
+	Identificazione di particelle con dE/dx.
 	Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
 	Scattering multiplo nel mezzo.
 	(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
@@ -249,7 +250,7 @@
   </li>
 
 	<li>
-	Lec 25, 13/5: Effetto Cerenkov. Identificazione di paricelle.
+	Lec 25, 13/5: Effetto Cerenkov. Identificazione di particelle.
 	Interazione di elettroni e fotoni con la materia. Sciami elettromagnetici.
 	(Das-Ferbel cap 6; Longo-Dionisi cap 4,
 	<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>)
