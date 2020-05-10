@@ -238,7 +238,7 @@
 	Perdita di energia per ionizzazione: formula di Bethe-Bloch.
 	Identificazione di particelle con dE/dx.
 	Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
-	Scattering multiplo nel mezzo.
+	Diffusione coulombiana multipla nel mezzo.
 	(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
 	<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-07.pdf">lavagna</a>)
@@ -246,12 +246,16 @@
 
 	<li>
 	Lec 24, 8/5:
-	Esercizi sull'interazione nella materia.
+	Esercizi sull'interazione nella materia. Calcolo dE/dx. Traiettoria delle particelle cariche nel campo magnetico.
+	Tempo di volo. Diffusione multipla nel mezzo. Perdita di energia per elettroni e positroni.
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_08.pdf">lavagna</a>)
   </li>
 
 	<li>
 	Lec 25, 13/5: Effetto Cerenkov. Identificazione di particelle.
-	Interazione di elettroni e fotoni con la materia. Sciami elettromagnetici.
+	Interazione di elettroni e fotoni con la materia.
+	Energia critica. Lunghezza di radiazione.
+	Sciami elettromagnetici.
 	(Das-Ferbel cap 6; Longo-Dionisi cap 4,
 	<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>)
   </li>
@@ -269,33 +273,9 @@
 <?php /*
 
 
-	<li>
-	Lec 12, 22/3:
-	Passaggio di particelle nella materia. (dispense Cap 4)
-	Perdita di energia per ionizzazione.
-	Formula di Bohr e Bethe-Bloch (dispense Cap 4, Ferbel Cap 6)
-	</li>
-
-	<li>
-	Lec 13, 27/3:
-	Percorso residuo: range. La diffusione coulombiana multipla.
-	Perdita di energia per gli elettroni. Bremsstrahlung. Energia critica. Lunghezza di radiazione. (dispense Cap 4, Ferbel Cap 6)
-	(<a href="http://pdg.lbl.gov/2018/reviews/rpp2018-rev-passage-particles-matter.pdf">Interazione con la materia nel PDG</a>)
-	</li>
-
-	<li>
-	Lec 14, 28/3:
-	La diffusione coulombiana multipla. Relazione tra lunghezza di radiazione e sezione d'urto.
-	Interazione di fotoni con la materia: effetto fotoelettrico, effetto compton, produzione di coppia.
-	Interazione di positroni.
-	Sciami elettromagnetici.
-	Effetto Cherenkov.
-	(dispense Cap 4, Ferbel Cap 6)
-	</li>
 
 	<li>
 	Lec 15, 29/3:
-	Identificazione di particelle con luce Cherenkov.
 	Interazione di neutroni. Sciami adronici e lunghezza d'interazione.
 	Calorimetri omogenei ed a campionamento: risoluzione energetica.
 	Scintillatori e fotomoltiplicatori. Spettrometri magnetici e misura dell'impulso.
@@ -314,7 +294,6 @@
 
 	<li>
 	Lec 17,5/4:
-	Interazioni tra campi di materia e campi di forza. La seconda regola d'oro di Fermi.
 	Calcolo dell'elemento di matrice al II ordine. Diffusione tramite il mediatore di forza.
 	Diagrammi di Feynman e ordinamento temporale. Propagatore del mediatore di forza.
 	(dispense Cap 5)
@@ -330,49 +309,12 @@
 	(dispense Cap 5, Perkins Cap 2)
 	</li>
 
-	<li>
-	Lec 20,17/4: esercizi (<a href="Didattica/FNSN/Esercizi/20190417-es.pdf">pdf</a>). Esercizi di bonus per l'esonero (<a href="Didattica/FNSN/Esercizi/20190417_bonus.pdf">pdf</a>, <a href="Esercizi/20190417_bonus_sol.pdf">soluzioni</a>, <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=0&single=true">voti</a>).
-	</li>
-
-
-	<!--  -->
-
-	<li>
-	Esercitazione extra, 29/4 ore 10-12, Aula 3 (al posto di Struttura della Materia): esercizi per l'esonero.
-	</li>
-
-
-	<li>
-	Esonero, 3/5 ore 16:00-18:00 in Aula Amaldi (<a href="Didattica/FNSN/Esercizi/20190503-esonero.pdf">pdf con le soluzioni</a>)
-	</li>
-
-	<li>
-	Correzione Esonero, 7/5 ore 13:30-14:00 in Aula Amaldi
-	</li>
-
 
 	<li>
 	Lec 21, 8/5: Interazioni forti e potenziale di Yukawa. Interazioni con mediatore massivo. Interazione debole.
-	Larghezza di decadimento e vita media. (dispense Cap 5, Perkins Cap 2)
 	</li>
 
 	<li>
-	Lec 22,10/5 (12:00-13:00): Larghezza di decadimento e branching fraction. Larghezza di decadimento in 2 corpi.
-	Decadimenti del pione. Distribuzione di Breit-Wigner per le particelle instabili. (dispense Cap 5, Perkins Cap 2)
-	</li>
-
-	<li>
-	10/5 ore 13:15-14:00 in Aula Amaldi: Presentazione attivta` di fisica delle particelle nel dipartimento
-	</li>
-
-	<li>
-	Lec 23, 15/5:
-	Esercizi secondo esonero
-	</li>
-
-	<li>
-	Lec 24, 17/5:  Interazione debole. Decadimento Beta: calcolo larghezza decadimento.
-	Teoria di Fermi. La scoperta del neutrino. Massa del neutrino e grafico di Kurie.
 	Costante di Fermi e la massa del bosone W. Scoperta del W. (dispense Cap 6, Cap5. Perkins Cap 7)
 	</li>
 
@@ -380,11 +322,6 @@
 	Lec 25, 22/5:
 	Numeri quantici e leggi di conservazione: numero leptonico, barionico e la stranezza.
 	Adroni: mesoni e barioni. (dispense Cap 6). Esercizi secondo esonero.
-	</li>
-
-	<li>
-	Lec 26, 24/5:
-	Esercizi secondo esonero. (<a href="Didattica/FNSN/Esercizi/20190524-es.pdf">pdf</a>)
 	</li>
 
 	<li>
@@ -403,14 +340,8 @@
 
 
 	<li>
-	<b>Esercitazione extra, Lunedi` 3/6 ore 14-16 in Aula 3</b>: esercitazione extra
-	per il secondo esonero.
-	</li>
-
-	<li>
 	Lec 29, 5/6:
 	Risonanze adroniche: sezione d'urto di produzione e la formula di Breit-Wigner. Violazione di parita` e l'eseprimento di Wu.
-	Proprieta` dei nuclei: carica, massa, e raggio. (dispense Cap 7, Cap 8. Bertulani Cap 4.1 )</li>
 
 	<li>
 	Lec 30, 7/6 12-13:
