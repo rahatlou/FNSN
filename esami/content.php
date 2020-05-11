@@ -107,6 +107,16 @@
 	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
 */ ?>
 	  <ul>
+
+			<li><b>Appello Straordinario 11 Maggio 2020</b>:
+				<p>
+				La prova d'esame si svolgera` dalle ore 14 alle 17 sulla piattaforma
+				<a href="https://meet.google.com/ozv-eooz-rde">Google Meet codice: ozv-eooz-rde</a>, seguendo la
+				<a href="https://www.uniroma1.it/it/documento/procedura-straordinaria-lo-svolgimento-degli-esami-orali-di-profitto-modalita-telematica">preocedura straordinaria per le prove orali</a>
+				della Sapienza. Gli studenti sono pregati di leggere attentamente il regolamento e di connettersi con qualche minuto di anticipo.
+			</p>
+			</li>
+
 			<li><b>Appello 10 Febbraio 2020</b>:
 				<p>La prova avra` inizio il giorno lunedi` 10 Febbraio alle ore 15:00 in Aula 3, Nuovo Edificio di Fisica.
   			(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=2032626451&single=true">risultati</a>)
