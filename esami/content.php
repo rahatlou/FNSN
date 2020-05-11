@@ -112,7 +112,7 @@
 				<p>
 				La prova d'esame si svolgera` dalle ore 14 alle 17 sulla piattaforma
 				<a href="https://meet.google.com/ozv-eooz-rde">Google Meet codice: ozv-eooz-rde</a>, seguendo la
-				<a href="https://www.uniroma1.it/it/documento/procedura-straordinaria-lo-svolgimento-degli-esami-orali-di-profitto-modalita-telematica">preocedura straordinaria per le prove orali</a>
+				<a href="https://www.uniroma1.it/it/documento/procedura-straordinaria-lo-svolgimento-degli-esami-orali-di-profitto-modalita-telematica">procedura straordinaria per le prove orali</a>
 				della Sapienza. Gli studenti sono pregati di leggere attentamente il regolamento e di connettersi con qualche minuto di anticipo.
 			</p>
 			</li>
