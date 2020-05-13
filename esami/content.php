@@ -18,6 +18,8 @@
 		<ul>
 			<li> Ci saranno 2 prove in itinere durante l’orario di lezione nei giorni 24/4 e 12/6.
 				Le prove si svolgono da remoto utilizzando google classroom.</li>
+				<li><font color=red>Le prove sono state annullate a causa di diversi studenti che hanno svolto la
+					prova insieme in diretta.</font></li>
 			<ul>
 			<li> Gli studenti riceveranno il testo delle domande alle 12:15 nei
 			giorni indicati</li>
@@ -27,8 +29,8 @@
 			distribuzione dei voti ottenuti, rinormalizzando il
 			punteggio grezzo</li>
 		</ul>
-			<li> Il voto dell’esonero costituisce 20% del voto finale dell’esame</li>
-			<li> Non ci sono prove scritte oltre ai due esoneri</li>
+			<!--li> Il voto dell’esonero costituisce 20% del voto finale dell’esame</li-->
+			<li> Non ci sono prove scritte </li>
 			<li> Durante le prove d’esame negli appelli di Giugno e Luglio, verrà
 			chiesto allo studente o alla studentessa di svolgere un esercizio
 			numerico dal vivo in circa 20 min</li>
@@ -37,8 +39,8 @@
 			<li> La prova orale verterà sugli argomenti del corso come dettagliato sul sito del corso</li>
 			<li> Il voto finale della prova sarà dato dalla somma di</li>
 			<ol>
-			<li> media agli esoneri x 20%</li>
-			<li> voto dell’esercizio svolto durante la prova d’esame x 30%</li>
+			<!--li> media agli esoneri x 20%</li-->
+			<li> voto dell’esercizio svolto durante la prova d’esame x 50%</li>
 			<li> voto della prova orale sul programma x 50%</li>
 		</ol>
 			<li> il voto dell’esonero è valido fino all’appello di Febbraio 2021 anche in caso di</li>
