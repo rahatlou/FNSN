@@ -252,22 +252,24 @@
   </li>
 
 	<li>
-	Lec 25, 13/5: Effetto Cerenkov. Identificazione di particelle.
-	Interazione di elettroni e fotoni con la materia.
-	Energia critica. Lunghezza di radiazione.
-	Sciami elettromagnetici.
+	Lec 25, 13/5: Effetto Cerenkov. Identificazione delle particelle.
+	Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
 	(Das-Ferbel cap 6; Longo-Dionisi cap 4,
-	<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>)
+	<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>, Jackson 14.2, 14.3)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-13.pdf">lavagna</a>)
   </li>
 
 	<li>
-	Lec 26, 13/5: cenni a sciami adronici. Calorimetri.
+	Lec 26, 14/5:
 	Tracciatori e la misura dell'impulso.
+	Esercizi sull'interazione nella materia e luce Cherenkov.
   </li>
 
 	<li>
 	Lec 27, 15/5:
-	Esercizi sull'interazione nella materia.
+	Interazione di elettroni e fotoni con la materia
+	Energia critica. Lunghezza di radiazione.
+	Sciami elettromagnetici. cenni a sciami adronici. Calorimetri.
 	</li>
 
 <?php /*
