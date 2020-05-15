@@ -271,7 +271,12 @@
 	Lec 27, 15/5:
 	Interazione di elettroni e fotoni con la materia
 	Energia critica. Lunghezza di radiazione.
-	Sciami elettromagnetici. cenni a sciami adronici. Calorimetri.
+	Sciami elettromagnetici. cenni a sciami adronici.
+	Lunghezza d'interazione nucleare.
+	(Das-Ferbel cap 6; Longo-Dionisi cap 4,
+	PDG <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>,
+	<a href="http://pdg.lbl.gov/2019/AtomicNuclearProperties/index.html" target="blank_">Atomic &amp; Nuclear properties</a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-15.pdf">lavagna</a>)
 	</li>
 
 <?php /*
