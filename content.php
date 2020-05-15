@@ -261,8 +261,10 @@
 
 	<li>
 	Lec 26, 14/5:
-	Tracciatori e la misura dell'impulso.
+	Tracciatori e la misura dell'impulso. Metodo della sagitta.
 	Esercizi sull'interazione nella materia e luce Cherenkov.
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_14.pdf">lavagna</a>)
+
   </li>
 
 	<li>
