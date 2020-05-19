@@ -279,55 +279,39 @@
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-15.pdf">lavagna</a>)
 	</li>
 
+
+	<li>
+	Lec 28, 20/5: Rivelatori. Tracciatori per le particelle cariche. Calorimetri.
+	Risoluzione di energia e impulso. Acceleratori di particelle. Differenze tra acceleratori linear
+	e circolari.
+  </li>
+
+	<li>
+	Lec 29, 22/5: esercizi di riepilogo e di interazione nella materia.
+  </li>
+
+
 <?php /*
 
-
-
-	<li>
-	Lec 15, 29/3:
-	Interazione di neutroni. Sciami adronici e lunghezza d'interazione.
 	Calorimetri omogenei ed a campionamento: risoluzione energetica.
 	Scintillatori e fotomoltiplicatori. Spettrometri magnetici e misura dell'impulso.
-	(dispense Cap 4, Ferbel Cap 6, Cap7) (<a href="Didattica/FNSN/Esercizi/esercizi-massa_invariante.pdf">esercizio sulla massa invariante e la risoluzione sperimentale</a>)
-	</li>
-
-	<li>
-	Lec 16,3/4:
 	Risoluzione d'impulso per le particelle cariche.
 	Tracciatori e tecniche di rivelazione.
 	Rivelatori a ionizzazione.
 	Spettro e composizione di raggi cosmici.
 	Scoperta del positrone.
-	(dispense Cap 4 e Cap 6, Ferbel Cap 7) (<a href="http://pdg.lbl.gov/2018/reviews/rpp2018-rev-cosmic-rays.pdf">raggi cosmici sul PDG</a>)
-	</li>
 
 	<li>
 	Lec 17,5/4:
 	Calcolo dell'elemento di matrice al II ordine. Diffusione tramite il mediatore di forza.
 	Diagrammi di Feynman e ordinamento temporale. Propagatore del mediatore di forza.
-	(dispense Cap 5)
-	</li>
-
-	<li>
-	Lec 18,10/4: esercizi.
-	</li>
-
-	<li>
-	Lec 19,12/4: Calcolo sezione d'urto Rutherford con la regola d'oro di Fermi.
 	Propagatore del fotone. Regole dei diagrammi di Feynman.
 	(dispense Cap 5, Perkins Cap 2)
-	</li>
 
-
-	<li>
 	Lec 21, 8/5: Interazioni forti e potenziale di Yukawa. Interazioni con mediatore massivo. Interazione debole.
-	</li>
-
-	<li>
 	Costante di Fermi e la massa del bosone W. Scoperta del W. (dispense Cap 6, Cap5. Perkins Cap 7)
-	</li>
 
-	<li>
+
 	Lec 25, 22/5:
 	Numeri quantici e leggi di conservazione: numero leptonico, barionico e la stranezza.
 	Adroni: mesoni e barioni. (dispense Cap 6). Esercizi secondo esonero.
