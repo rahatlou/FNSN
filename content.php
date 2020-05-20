@@ -295,7 +295,7 @@
 	<li>
 	Lec 30, 27/5: Acceleratori di particelle. Differenze tra acceleratori lineari
 	e circolari. Particelle strane.
-	(Das-Ferbel cap 8)
+	(Das-Ferbel cap 8, <a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-particle-detectors-accel.pdf">cap 34</a>)
 	</li>
 
 
