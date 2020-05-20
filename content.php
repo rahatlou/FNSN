@@ -283,7 +283,7 @@
 	<li>
 	Lec 28, 20/5: Rivelatori. Tracciatori per le particelle cariche. Calorimetri.
 	Risoluzione di energia e impulso.
-	(Das-Ferbel cap 7)
+	(Das-Ferbel cap 7, <a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-particle-detectors-accel.pdf">cap 34</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-20.pdf">lavagna</a>)
 
   </li>
