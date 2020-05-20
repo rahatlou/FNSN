@@ -282,13 +282,22 @@
 
 	<li>
 	Lec 28, 20/5: Rivelatori. Tracciatori per le particelle cariche. Calorimetri.
-	Risoluzione di energia e impulso. Acceleratori di particelle. Differenze tra acceleratori linear
-	e circolari.
+	Risoluzione di energia e impulso.
+	(Das-Ferbel cap 7)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-20.pdf">lavagna</a>)
+
   </li>
 
 	<li>
 	Lec 29, 22/5: esercizi di riepilogo e di interazione nella materia.
   </li>
+
+	<li>
+	Lec 30, 27/5: Acceleratori di particelle. Differenze tra acceleratori lineari
+	e circolari. Particelle strane.
+	(Das-Ferbel cap 8)
+	</li>
+
 
 
 <?php /*
