@@ -290,6 +290,7 @@
 
 	<li>
 	Lec 29, 22/5: esercizi di riepilogo e di interazione nella materia.
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_22.pdf">lavagna</a>)
   </li>
 
 	<li>
