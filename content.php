@@ -295,8 +295,19 @@
 
 	<li>
 	Lec 30, 27/5: Acceleratori di particelle. Differenze tra acceleratori lineari
-	e circolari. Particelle strane.
+	e circolari. Regola d'oro di Fermi e l'elemento di Matrice al secondo ordine.
 	(Das-Ferbel cap 8, <a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-particle-detectors-accel.pdf">cap 34</a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-27.pdf">lavagna</a>)
+	</li>
+
+	<li>
+	Lec 31, 29/5: La scoperta dell'antiprotone. Esercizi di riepilogo e di interazione nella materia.
+  </li>
+
+	<li>
+	Lec 32, 4/6: Interazioni mediate da particelle. Il propagatore. Mediatori di forza EM, debole, e forte.
+	Teoria di Yukawa. Cenni ai diagrammi di Feynman.
+	Particelle strane.
 	</li>
 
 
