@@ -89,21 +89,21 @@
 
 	<div class="entry">
 		<h2 class="title">Appelli di Esame FNSN</h2>
+		<p>
+		E` disponibile una <a href="http://www.roma1.infn.it/~ippolitv/fns1_compiti/">raccolta di esercizi d'esame</a>
+		degli anni passati.</p>
 
 	<p>Tutte le date sono state inserite su <a href="https://www.uniroma1.it/it/pagina-strutturale/studenti">infostud</a>.
 	</p>
-	<p>Prove scritte:
+	<p>Appelli d'esame:
 		<ul>
 			<li> 15/6/2020</li>
 			<li> 3/7/2020 </li>
 			<li> 4/9/2020 </li>
 		</ul>
-		Le prove orali di solito si svolgono a partire da 48 ore dopo la prova scritta.
 	</p>
 
-	<p>
-	E` disponibile una <a href="http://www.roma1.infn.it/~ippolitv/fns1_compiti/">raccolta di esercizi d'esame</a>
-	degli anni passati.</p>
+
 
 
 <?php /*
