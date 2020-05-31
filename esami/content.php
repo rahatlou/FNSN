@@ -43,12 +43,14 @@
 			<li> voto dell’esercizio svolto durante la prova d’esame x 50%</li>
 			<li> voto della prova orale sul programma x 50%</li>
 		</ol>
+<?php /*
 			<li> il voto dell’esonero è valido fino all’appello di Febbraio 2021 anche in caso di</li>
 			<ul>
 			<li> esito negativo dell’esercizio</li>
 			<li> esito negativo dell’orale</li>
 			<li> rinuncia al voto dopo la prova orale</li>
 		  </ul>
+*/ ?>
 		</ul>
 
 
@@ -109,6 +111,23 @@
 	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
 */ ?>
 	  <ul>
+
+			<li><b>Appello 15 Giugno 2020</b>:
+				<p>
+				Come indicato nel <a href="https://www.uniroma1.it/it/notizia/covid-19-fase-2-esami-presenza-e-distanza">
+					regolamento d'ateneo per gli esami durante la fase 2</a>, sara` possibile sostenere gli Esami
+					solo se regolarmente prenotati su infostud.
+				</p>
+				<p>
+					<b>Le prenotazioni si chiuderanno il giorno 2 giugno.</b></p>
+
+        <p>
+					Il calendario delle prove orali verra` comunicato agli stduenti prenotati entro l'8 giugno
+					che potranno scegliere una delle date disponbili.
+				</p>
+
+				</li>
+
 
 			<li><b>Appello Straordinario 11 Maggio 2020</b>:
 				<p>
