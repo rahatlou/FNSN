@@ -1,6 +1,10 @@
 <div id="content">
 	<h1>Fisica Nucleare e Subnucleare (2019/20)</h1>
 
+	<div class="post news-cont">
+	   <?php include("Didattica/FNSN/news.html") ?>
+	</div>
+
 	<div class="post">
 
 	<h2 class="title">Orario Lezioni</h2>
@@ -361,7 +365,7 @@
 	Lec 30, 7/6 12-13:
 	Elicita` del neutrino e l'esperimento di Goldhaber. (Goldhaber Cap 6, Perkins Cap 7)
 	</li>
- ?>
+ */ ?>
 
 	</ul> <!-- end of lectures -->
 	</div> <!--- end of entry -->
