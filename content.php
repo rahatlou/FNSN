@@ -306,6 +306,7 @@
 
 	<li>
 	Lec 31, 29/5: La scoperta dell'antiprotone. Esercizi di riepilogo e di interazione nella materia.
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_29.pdf">lavagna</a>)
   </li>
 
 	<li>
