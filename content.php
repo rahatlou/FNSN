@@ -208,6 +208,7 @@
 
 	<li>
 	24/4: prova in itinere durante l'orario di lezione
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/esami/testi/Esonero_20200424-sol.pdf">pdf</a>)
   </li>
 
 	<li>
