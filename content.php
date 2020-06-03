@@ -311,32 +311,22 @@
   </li>
 
 	<li>
-	Lec 32, 4/6: Interazioni mediate da particelle. Il propagatore. Mediatori di forza EM, debole, e forte.
-	Teoria di Yukawa. Cenni ai diagrammi di Feynman.
-	Particelle strane.
+	Lec 32, 3/6: Interazioni mediate da particelle. Il propagatore del fotone. Mediatori di forza EM, debole, e forte.
+	Cenni ai diagrammi di Feynman. Teoria di Yukawa.
+	(Dionisi-Longo cap 5, Perkins cap 2)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-03.pdf">lavagna</a>)
 	</li>
 
-
+	<li>
+	Lec 33, 5/6: Teoria di Yukawa. Mediatori di forza nucleare e debole.
+  Costante di fermi e la stima della massa dei bosoni W e Z.
+	La scoperta del bosone W.
+	Simmetrie, invarianze, e leggi di conservazione.
+  </li>
 
 <?php /*
 
-	Calorimetri omogenei ed a campionamento: risoluzione energetica.
-	Scintillatori e fotomoltiplicatori. Spettrometri magnetici e misura dell'impulso.
-	Risoluzione d'impulso per le particelle cariche.
-	Tracciatori e tecniche di rivelazione.
-	Rivelatori a ionizzazione.
-	Spettro e composizione di raggi cosmici.
-	Scoperta del positrone.
 
-	<li>
-	Lec 17,5/4:
-	Calcolo dell'elemento di matrice al II ordine. Diffusione tramite il mediatore di forza.
-	Diagrammi di Feynman e ordinamento temporale. Propagatore del mediatore di forza.
-	Propagatore del fotone. Regole dei diagrammi di Feynman.
-	(dispense Cap 5, Perkins Cap 2)
-
-	Lec 21, 8/5: Interazioni forti e potenziale di Yukawa. Interazioni con mediatore massivo. Interazione debole.
-	Costante di Fermi e la massa del bosone W. Scoperta del W. (dispense Cap 6, Cap5. Perkins Cap 7)
 
 
 	Lec 25, 22/5:
