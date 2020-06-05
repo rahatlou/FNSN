@@ -321,7 +321,10 @@
 	Lec 33, 5/6: Teoria di Yukawa. Mediatori di forza nucleare e debole.
   Costante di fermi e la stima della massa dei bosoni W e Z.
 	La scoperta del bosone W.
-	Simmetrie, invarianze, e leggi di conservazione.
+	Simmetrie, invarianze, e leggi di conservazione. Numero leptonic e barionico.
+	Isospin.
+	(Dionisi-Longo cap 5,7; Griffiths cap 4, Perkins cap 3)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-05.pdf">lavagna</a>)
   </li>
 
 <?php /*
