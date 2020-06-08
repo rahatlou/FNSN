@@ -327,6 +327,22 @@
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-05.pdf">lavagna</a>)
   </li>
 
+	<li>
+	Lec 34, 10/6: Conservaione dei numeri quantici nelle reazioni.
+	La stranezza e particelle con il quark s. Elicita`. Misura dell'elicita` del neutrino
+	e l'esperimento di Goldhaber.
+  </li>
+
+	<li>
+	Lec 35, 12/6: Isospin: dalla ipotesi teorica alle misure sperimentali. Sezioni d'urto
+	di nucleoni e l'impatto di isospin. Parita` come  simmetria discreta.
+	L'esperimento di Wu e la violaziione della parita`.
+  </li>
+
+
+
+
+
 <?php /*
 
 
