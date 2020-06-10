@@ -321,22 +321,24 @@
 	Lec 33, 5/6: Teoria di Yukawa. Mediatori di forza nucleare e debole.
   Costante di fermi e la stima della massa dei bosoni W e Z.
 	La scoperta del bosone W.
-	Simmetrie, invarianze, e leggi di conservazione. Numero leptonic e barionico.
+	Simmetrie, invarianze, e leggi di conservazione. Numero leptonico e barionico.
 	Isospin.
 	(Dionisi-Longo cap 5,7; Griffiths cap 4, Perkins cap 3)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-05.pdf">lavagna</a>)
   </li>
 
 	<li>
-	Lec 34, 10/6: Conservaione dei numeri quantici nelle reazioni.
-	La stranezza e particelle con il quark s. Elicita`. Misura dell'elicita` del neutrino
-	e l'esperimento di Goldhaber.
+	Lec 34, 10/6: Conservazione dei numeri quantici nelle reazioni.
+	La stranezza e particelle con il quark s. Parita` come  simmetria discreta.
+	L'esperimento di Wu e la violaziione della parita`.
+  (Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
   </li>
 
 	<li>
 	Lec 35, 12/6: Isospin: dalla ipotesi teorica alle misure sperimentali. Sezioni d'urto
-	di nucleoni e l'impatto di isospin. Parita` come  simmetria discreta.
-	L'esperimento di Wu e la violaziione della parita`.
+	di nucleoni e l'impatto di isospin. Relazione tra la carica e l'isospin.
+	Multipletti di barioni e mesoni. Cenni al modello a quark.
+	(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
   </li>
 
 
