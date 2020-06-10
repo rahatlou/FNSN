@@ -332,6 +332,7 @@
 	La stranezza e particelle con il quark s. Parita` come  simmetria discreta.
 	L'esperimento di Wu e la violaziione della parita`.
   (Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_06_10.pdf">lavagna</a>)
   </li>
 
 	<li>
