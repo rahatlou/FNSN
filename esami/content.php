@@ -127,7 +127,7 @@
 					<a href="http://meet.google.com/cjy-jywu-yju">Google Meet: cjy-jywu-yju</a>)
 				</p>
 				<p>
-					Dal giorno 18/6, l'esercizio scritto da svolgere per TUTTI gli esamimnandi del giorno si
+					Dal giorno 18/6, l'esercizio scritto da svolgere per TUTTI gli esaminandi del giorno si
 					svolgera` tramite exam.net alle ore 9:00. Mancata partecipazione all'esercizio equivale al ritiro
 					dalla prova. (<a href="https://www.uniroma1.it/it/pagina/tecnologie-di-facile-utilizzo-supporto-della-didattica-distanza">info per uso di exam.net</a>)
 

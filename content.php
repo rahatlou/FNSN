@@ -340,6 +340,7 @@
 	di nucleoni e l'impatto di isospin. Relazione tra la carica e l'isospin.
 	Multipletti di barioni e mesoni. Cenni al modello a quark.
 	(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3, 4.3)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-12.pdf">lavagna</a>)
   </li>
 
 
