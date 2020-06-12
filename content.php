@@ -339,7 +339,7 @@
 	Lec 35, 12/6: Isospin: dalla ipotesi teorica alle misure sperimentali. Sezioni d'urto
 	di nucleoni e l'impatto di isospin. Relazione tra la carica e l'isospin.
 	Multipletti di barioni e mesoni. Cenni al modello a quark.
-	(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
+	(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3, 4.3)
   </li>
 
 

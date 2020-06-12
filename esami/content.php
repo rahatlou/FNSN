@@ -123,7 +123,14 @@
 
         <p>
 					Il calendario delle prove orali verra` comunicato agli stduenti prenotati entro l'8 giugno
-					che potranno scegliere una delle date disponbili.
+					che potranno scegliere una delle date disponbili. (<a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQGXilziRsNDwSbMsOMY8t8JFMR7IBOOuQxaF1o2_tw1o3gXdqj4vX_UJVQ3Y7I9D-FL_5-a79w47D2/pubhtml?gid=887112397&single=true">calendario esami</a>,
+					<a href="http://meet.google.com/cjy-jywu-yju">Google Meet: cjy-jywu-yju</a>)
+				</p>
+				<p>
+					Dal giorno 18/6, l'esercizio scritto da svolgere per TUTTI gli esamimnandi del giorno si
+					svolgera` tramite exam.net alle ore 9:00. Mancata partecipazione all'esercizio equivale al ritiro
+					dalla prova. (<a href="https://www.uniroma1.it/it/pagina/tecnologie-di-facile-utilizzo-supporto-della-didattica-distanza">info per uso di exam.net</a>)
+
 				</p>
 
 				</li>
