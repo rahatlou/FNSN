@@ -111,6 +111,33 @@
 	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
 */ ?>
 	  <ul>
+			<li><b>Appello 3 Luglio 2020</b>:
+				<p>
+				Come indicato nel <a href="https://www.uniroma1.it/it/notizia/covid-19-fase-2-esami-presenza-e-distanza">
+					regolamento d'ateneo per gli esami durante la fase 2</a>, sara` possibile sostenere gli Esami
+					solo se regolarmente prenotati su infostud.
+				</p>
+			  <p><b>Le prenotazioni si chiuderanno il giorno 26 giugno.</b></p>
+
+				<p>Questo appello si svolgera` in modalita` <b>DA REMOTO</b>. Gli studenti che per problemi tecnici o di rete
+				sono impossibilitati a sostenere la prova da remoto, devono contattare il docente per email entro il giorno 29/6.</p>
+
+				<p>
+					La prebnotazione per il calendario delle prove orali verra` aperto agli stduenti prenotati il giorno 26 giugno
+					al termine delle prove orali, verso le 14:00.
+					Gli studenti potranno scegliere una delle date disponbili fino all'esaurimento dei posti. (<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHQp_GctM3HvR-S3S3XOs-qHNVrLm4Kr6KXaBK6aqW1P4Ehg/viewform?usp=sf_link">calendario esami</a>,
+					<a href="http://meet.google.com/cjy-jywu-yju">Google Meet: cjy-jywu-yju</a>)
+				</p>
+
+				<p>
+					Ogni giorno l'esercizio scritto, da svolgere per TUTTI gli esaminandi del giorno, si
+					fara tramite il sito <a href="http://exam.net">exam.net</a> alle ore 9:00. Il codice
+					dell'esercizio verra` comunicato alle 9:00 sulla chat di Google Meet.
+					 (<a href="https://www.uniroma1.it/it/pagina/tecnologie-di-facile-utilizzo-supporto-della-didattica-distanza">info per uso di exam.net</a>)
+				</p>
+
+
+
 
 			<li><b>Appello 15 Giugno 2020</b>:
 				<p>
@@ -130,7 +157,6 @@
 					Dal giorno 18/6, l'esercizio scritto da svolgere per TUTTI gli esaminandi del giorno si
 					svolgera` tramite exam.net alle ore 9:00. Mancata partecipazione all'esercizio equivale al ritiro
 					dalla prova. (<a href="https://www.uniroma1.it/it/pagina/tecnologie-di-facile-utilizzo-supporto-della-didattica-distanza">info per uso di exam.net</a>)
-
 				</p>
 
 				</li>
