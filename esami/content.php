@@ -111,7 +111,7 @@
 	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
 */ ?>
 	  <ul>
-			<li><b>Appello 3 Luglio 2020</b>:
+			<li><h2>Appello 3 Luglio 2020</h2>
 				<p>
 				Come indicato nel <a href="https://www.uniroma1.it/it/notizia/covid-19-fase-2-esami-presenza-e-distanza">
 					regolamento d'ateneo per gli esami durante la fase 2</a>, sara` possibile sostenere gli Esami
@@ -123,7 +123,7 @@
 				sono impossibilitati a sostenere la prova da remoto, devono contattare il docente per email entro il giorno 29/6.</p>
 
 				<p>
-					La prebnotazione per il calendario delle prove orali verra` aperto agli stduenti prenotati il giorno 26 giugno
+					La prenotazione per il calendario delle prove orali verra` aperto agli stduenti prenotati il giorno 26 giugno
 					al termine delle prove orali, verso le 14:00.
 					Gli studenti potranno scegliere una delle date disponbili fino all'esaurimento dei posti. (<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHQp_GctM3HvR-S3S3XOs-qHNVrLm4Kr6KXaBK6aqW1P4Ehg/viewform?usp=sf_link">calendario esami</a>,
 					<a href="http://meet.google.com/cjy-jywu-yju">Google Meet: cjy-jywu-yju</a>)
@@ -139,7 +139,7 @@
 
 
 
-			<li><b>Appello 15 Giugno 2020</b>:
+			<li><h2>Appello 15 Giugno 2020</h2>
 				<p>
 				Come indicato nel <a href="https://www.uniroma1.it/it/notizia/covid-19-fase-2-esami-presenza-e-distanza">
 					regolamento d'ateneo per gli esami durante la fase 2</a>, sara` possibile sostenere gli Esami
@@ -149,7 +149,7 @@
 					<b>Le prenotazioni si chiuderanno il giorno 2 giugno.</b></p>
 
         <p>
-					Il calendario delle prove orali verra` comunicato agli stduenti prenotati entro l'8 giugno
+					Il calendario delle prove orali verra` comunicato agli studenti prenotati entro l'8 giugno
 					che potranno scegliere una delle date disponbili. (<a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQGXilziRsNDwSbMsOMY8t8JFMR7IBOOuQxaF1o2_tw1o3gXdqj4vX_UJVQ3Y7I9D-FL_5-a79w47D2/pubhtml?gid=887112397&single=true">calendario esami</a>,
 					<a href="http://meet.google.com/cjy-jywu-yju">Google Meet: cjy-jywu-yju</a>)
 				</p>
@@ -162,7 +162,7 @@
 				</li>
 
 
-			<li><b>Appello Straordinario 11 Maggio 2020</b>:
+			<li><h2>Appello Straordinario 11 Maggio 2020</h2>
 				<p>
 				La prova d'esame si svolgera` dalle ore 14 alle 17 sulla piattaforma
 				<a href="https://meet.google.com/ozv-eooz-rde">Google Meet codice: ozv-eooz-rde</a>, seguendo la
@@ -171,7 +171,7 @@
 			</p>
 			</li>
 
-			<li><b>Appello 10 Febbraio 2020</b>:
+			<li><h2>Appello 10 Febbraio 2020</h2>
 				<p>La prova avra` inizio il giorno lunedi` 10 Febbraio alle ore 15:00 in Aula 3, Nuovo Edificio di Fisica.
   			(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=2032626451&single=true">risultati</a>)
 				(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2019/Esercizi/20200210-esame_sol.pdf">testo e soluzioni</a>)</p>
@@ -179,7 +179,7 @@
 
 			</li>
 
-			<li><b>Appello 18 Novembre 2019</b>: La prova e` riservata agli studenti fuori corso.
+			<li><h2>Appello 18 Novembre 2019</h2> La prova e` riservata agli studenti fuori corso.
 				(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=231072276&single=true">risultati</a>)
 				(<a href="Didattica/FNSN/Esercizi/20191118-esame_sol.pdf">testo e soluzioni</a>)
 				(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRW-on2u70HtiVu9K6jl-evpgQmpyQL_CftSFXtR8hiushEMZC8rsJAao2N3Zy9hUgRYmk_odp4Q6CS/pubhtml?gid=1509994242&single=true">calendario prove orali</a>)
@@ -194,7 +194,7 @@
 			</li>
 
 
-	     <li><b>Appello 6 Settembre 2019</b>: La prova si svolgera` in
+	     <li><h2>Appello 6 Settembre 2019</h2> La prova si svolgera` in
 	    <b>Aula 3</b> alle ore <b>9:00</b>.
 
 	    <p>I risultati saranno disponibili entro lunedi` 9 in serata.  (<a
@@ -213,7 +213,7 @@
 
 
 
-	    <li><b>Appello 5 Luglio 2019</b>: La prova si svolgera` in <b>Aula Amaldi</b> alle ore <b>9:00</b>.
+	    <li><h2>Appello 5 Luglio 2019</h2> La prova si svolgera` in <b>Aula Amaldi</b> alle ore <b>9:00</b>.
 	      (<a href="Didattica/FNSN/Esercizi/20190705-esame_sol.pdf">testo con le soluzioni</a>)
 
 	      <p>
@@ -234,7 +234,7 @@
 	       dato il numero limitato di posti per la prova scritta.</p>
 	     </li> <!-- 5 Luglio -->
 
-	     <li><b>Appello 17 giugno 2019</b>: Gli studenti che intendono sostenere l'esame sono pregati di
+	     <li><h2>Appello 17 giugno 2019</h2> Gli studenti che intendono sostenere l'esame sono pregati di
 	     <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYyL0Muk6MIGyL0m9gyx9j3s8Ch8ArwX61Jt6lkDrDgxL7zA/viewform?usp=sf_link">riempire questo questionario</a>
 	     entro le <b>ore 12 di giovedi` 13 giugno</b>, per poter organizzare la sessione
 	       dato il numero limitato di posti per la prova scritta.
