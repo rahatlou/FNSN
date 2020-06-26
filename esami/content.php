@@ -125,7 +125,7 @@
 				<p>
 					La prenotazione per il calendario delle prove orali verra` aperto agli stduenti prenotati il giorno 26 giugno
 					al termine delle prove orali, verso le 14:00.
-					Gli studenti potranno scegliere una delle date disponbili fino all'esaurimento dei posti. (<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHQp_GctM3HvR-S3S3XOs-qHNVrLm4Kr6KXaBK6aqW1P4Ehg/viewform?usp=sf_link">calendario esami</a>,
+					Gli studenti potranno scegliere una delle date disponbili fino all'esaurimento dei posti. (<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHQp_GctM3HvR-S3S3XOs-qHNVrLm4Kr6KXaBK6aqW1P4Ehg/viewform?usp=sf_link">prenotazione data orale</a>,
 					<a href="http://meet.google.com/cjy-jywu-yju">Google Meet: cjy-jywu-yju</a>)
 				</p>
 
