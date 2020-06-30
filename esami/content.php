@@ -113,7 +113,7 @@
 	  <ul>
 			<li><h2>Appello 3 Luglio 2020</h2>
 				<p>
-				Come indicato nel <a href="https://www.uniroma1.it/it/notizia/covid-19-fase-2-esami-presenza-e-distanza">
+				Come indicato nel <a href="https://www.uniroma1.it/it/notizia/covid-19-fase-2-esami-e-lauree-presenza-e-distanza">
 					regolamento d'ateneo per gli esami durante la fase 2</a>, sara` possibile sostenere gli Esami
 					solo se regolarmente prenotati su infostud.
 				</p>
@@ -125,7 +125,10 @@
 				<p>
 					La prenotazione per il calendario delle prove orali verra` aperto agli stduenti prenotati il giorno 26 giugno
 					al termine delle prove orali, verso le 14:00.
-					Gli studenti potranno scegliere una delle date disponbili fino all'esaurimento dei posti. (<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHQp_GctM3HvR-S3S3XOs-qHNVrLm4Kr6KXaBK6aqW1P4Ehg/viewform?usp=sf_link">prenotazione data orale</a>,
+					Gli studenti potranno scegliere una delle date disponbili fino all'esaurimento dei posti.
+					(
+					<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXUA4WKWkHnudEIiSigYDPixR4EwwjCCqvwFo5AGM5yK65LDGdCRTUL1rse0LDyinp9j2Wwy7niQ1M/pubhtml?gid=1158507729&single=true">calendario prove di Luglio</a>,
+					<a href="https://docs.google.com/forms/d/e/1FAIpQLSeHQp_GctM3HvR-S3S3XOs-qHNVrLm4Kr6KXaBK6aqW1P4Ehg/viewform?usp=sf_link">prenotazione data orale</a>,
 					<a href="http://meet.google.com/cjy-jywu-yju">Google Meet: cjy-jywu-yju</a>)
 				</p>
 
@@ -141,7 +144,7 @@
 
 			<li><h2>Appello 15 Giugno 2020</h2>
 				<p>
-				Come indicato nel <a href="https://www.uniroma1.it/it/notizia/covid-19-fase-2-esami-presenza-e-distanza">
+				Come indicato nel <a href="https://www.uniroma1.it/it/notizia/covid-19-fase-2-esami-e-lauree-presenza-e-distanza">
 					regolamento d'ateneo per gli esami durante la fase 2</a>, sara` possibile sostenere gli Esami
 					solo se regolarmente prenotati su infostud.
 				</p>
