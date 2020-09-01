@@ -111,6 +111,41 @@
 	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
 */ ?>
 	  <ul>
+
+
+			<li><h2>Appello 4 Settembre 2020</h2>
+				<p>
+				</p>
+				<p>
+				</p>
+				<ul>
+					<li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8YktTN_PctC8XI0I2jsphmgsZi-mkzk3tmocxrYpYGhfGpU_Vjek1rsc_B6y_XABW5Ks2M3C88iIf/pubhtml?gid=719312127&single=true">calendario prove di Settembre</a></li>
+					<li>Per i soli studenti prenotati su infostud, le prove in presenza si svolgeranno
+						in Aula Conversi, nei giorni 4/9 ore 9:00 e 9/9 ore 14:00.</li>
+					<li>Le prove da remoto sono nei giorni 10/9 e 11/9 alle ore 9:00 sulla piattaforma
+						<a href="http://meet.google.com/uwb-asrc-mgg">Google Meet: uwb-asrc-mgg</a>)</li>
+						<li>Come negli appelli estivi, ci sara` un esercizio da svolgere nei primi 20 min.
+							Solo gli studenti che superano questa prova sosterranno la prova orale che si svolgera` in ordine alfabetico per ciascun giorno.</li>
+				</ul>
+				<h3>Norme per le prove orali in presenza</h3>
+				<ol>
+					<li>L'accesso all'Aula Conversi avviene attraverso l'entrata diretta dell'aula e  non attraverso il corridoio del I piano</li>
+					<li>All'interno dell'aula e' obbligatoria la mascherina</li>
+					<li>Tutti gli studenti  DOVRANNO registrarsi compilando il form di Ateneo:
+          <a href="https://www.uniroma1.it/it/node/229407">https://www.uniroma1.it/it/node/229407</a>
+          dopo aver letto
+          <a href="https://www.uniroma1.it/sites/default/files/field_file_allegati/c006-20-srev.00.1.pdf">https://www.uniroma1.it/sites/default/files/field_file_allegati/c006-20-srev.00.1.pdf</a>.
+         Lo studente otterra' una ricevuta che dovra' avere con se' in formato cartaceo o digitale </li>
+				 <li>Lo studente dovra' anche portare con sè la ricevuta dell'esame, essenziale per
+poter accedere alla Citta' Universitaria.</li>
+         <li>Per accedere al Dipartimento gli studenti dovranno aver compilato il modulo
+di accettazione delle linee guida del Dipartimento di Fisica che si
+trovano a questa pagina: <a href="https://www.phys.uniroma1.it/fisica/archivionotizie/covid-19-linee-guida-del-dipartimento-di-fisica-previste-la-fase-2">
+	https://www.phys.uniroma1.it/fisica/archivionotizie/covid-19-linee-guida-del-dipartimento-di-fisica-previste-la-fase-2</a></li>
+
+</ol>
+      </li>
+
 			<li><h2>Appello 3 Luglio 2020</h2>
 				<p>
 				Come indicato nel <a href="https://www.uniroma1.it/it/notizia/covid-19-fase-2-esami-e-lauree-presenza-e-distanza">
