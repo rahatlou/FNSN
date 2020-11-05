@@ -113,6 +113,18 @@
 	  <ul>
 
 
+			<li><h2>Appello Novembre 2020</h2>
+				<ul>
+          <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQo8nnYEWfoXqUaHMRpnU9npa_DMForMKYMP6yZ0P5x_AWvzmDGXy_pPj66g56rXjDuPtASDJNH7CNg/pubhtml?gid=1592948271&single=true" target=blank>calendario prove di Novembre</a></li>
+          <li>Tutte le prove si svolgono sulla piattaforma <a href="http://meet.google.com/uwb-asrc-mgg">Google Meet: uwb-asrc-mgg</a>)</li>
+					<li>Come negli appelli estivi, ci sara` un esercizio da svolgere nei primi 20 min su <a href="http://exam.net">exam.net</a>
+						Solo gli studenti che superano questa prova sosterranno la prova orale che si svolgera` secondo il calendario pubblicato.</li>
+						<li>Gli studenti sono pregati di fare prove tecniche prima della prova d'esame per la connessione audio/video con meet.
+							Per la discussione orale si puo` inquadrare un foglio oppure usare un tablet. Si consiglia di usare una penna con la punta grossa per
+							facilitare la visione.</li>
+        </ul>
+			</li>
+
 			<li><h2>Appello 4 Settembre 2020</h2>
 				<ul>
 					<li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8YktTN_PctC8XI0I2jsphmgsZi-mkzk3tmocxrYpYGhfGpU_Vjek1rsc_B6y_XABW5Ks2M3C88iIf/pubhtml?gid=719312127&single=true">calendario prove di Settembre</a></li>
