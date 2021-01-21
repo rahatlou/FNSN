@@ -100,6 +100,8 @@
 			<li> 15/6/2020</li>
 			<li> 3/7/2020 </li>
 			<li> 4/9/2020 </li>
+			<li>25/1/2021</li>
+			<li>15/2/2021</li>
 		</ul>
 	</p>
 
@@ -111,7 +113,32 @@
 	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
 */ ?>
 	  <ul>
+			<li><h2>Appello 15 Febbraio 2021</h2>
+				<ul>
+					<li>Come negli appelli estivi, ci sara` un esercizio da svolgere nei primi 20 min su <a href="http://exam.net">exam.net</a>
+						Solo gli studenti che superano questa prova sosterranno la prova orale che si svolgera` secondo il calendario pubblicato.</li>
+				 <li>Gli studenti che hanno la necessita` di sostenere la prova in presenza (stesse modalita`) lo possono indicare al momento di
+					 prenotazione su infostud</li>
+					<li>Le prove avvengono cona la piattaforma Google Meet, <a href="https://meet.google.com/tdu-eaow-wob">codice: tdu-eaow-wob</a></li>
+					<li>Gli studenti sono pregati di fare prove tecniche prima della prova d'esame per la connessione audio/video con meet.
+							Per la discussione orale si puo` inquadrare un foglio oppure usare un tablet. Si consiglia di usare una penna con la punta grossa per
+							facilitare la visione.</li>
+				</ul>
+      </li>
 
+			<li><h2>Appello 25 Gennaio 2021</h2>
+				<ul>
+					<li>Come negli appelli estivi, ci sara` un esercizio da svolgere nei primi 20 min su <a href="http://exam.net">exam.net</a>
+						Solo gli studenti che superano questa prova sosterranno la prova orale che si svolgera` secondo il calendario pubblicato.</li>
+				 <li>Gli studenti che hanno la necessita` di sostenere la prova in presenza (stesse modalita`) lo possono indicare al momento di
+					 prenotazione su infostud</li>
+					 <li>La prova inizia alle ore 9:15 del giorno 25 gennaio 2021</li>
+					<li>Le prove avvengono cona la piattaforma Google Meet, <a href="https://meet.google.com/tdu-eaow-wob">codice: tdu-eaow-wob</a></li>
+					<li>Gli studenti sono pregati di fare prove tecniche prima della prova d'esame per la connessione audio/video con meet.
+							Per la discussione orale si puo` inquadrare un foglio oppure usare un tablet. Si consiglia di usare una penna con la punta grossa per
+							facilitare la visione.</li>
+				</ul>
+      </li>
 
 			<li><h2>Appello Novembre 2020</h2>
 				<ul>
