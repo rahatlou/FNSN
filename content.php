@@ -36,19 +36,6 @@
 		</ul>
 	</div>
 
-<?php /*
-	<h2 class="title">Rilevazione Opinioni Studenti 2018-2019 (OPIS)</h2>
-	<div class="entry">
-	Gli studenti sono caldamente invitati a valutare il corso riempendo le schede
-	di valutazione (OPIS) usando uno dei seguenti codici <br>
-	<img src="Didattica/FNSN/CodiceOPIS.png" width=500>
-	<br>
-	E` disponibile una <a href="https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_opis-2018-19-studenti_con_token-rev-4-2018-11-21_modalita_compatibilita.pdf">guida</a>
-	per l'accesso al servizio e il riempimento dei moduli.
-	</div> <!--- end of entry -->
-
-*/ ?>
-
 	<h2 class="title">Lezioni</h2>
 	<div class="entry">
 
