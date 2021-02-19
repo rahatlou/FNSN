@@ -1,5 +1,6 @@
 <div id="content">
-	<h1>Fisica Nucleare e Subnucleare (2019/20)</h1>
+	<h1>Fisica Nucleare e Subnucleare</h1>
+  <h3>Canale MF-Z, A.A. 2020-21</h3>
 
 	<div class="post news-cont">
 	   <?php include("Didattica/FNSN/news.html") ?>
@@ -9,30 +10,25 @@
 
 	<h2 class="title">Orario Lezioni</h2>
 	<div class="entry">
-		<p><b>Il corso dell'anno accademico 2019/20 inizia il giorno mercoledi` 26 Febbraio 2020</b>
-			<p>Le lezioni  <b>in aula</b>  sono sospese come dalla
-        <a href="https://www.uniroma1.it/it/notizia/lezioni-sospese-fino-al-15-marzo">disposizione rettorale</a>.</p>
-      <p>Da mercoledi` 11 marzo le lezioni proseguiranno per <a href="https://www.uniroma1.it/it/pagina/tecnologie-di-facile-utilizzo-supporto-della-didattica-distanza"  target="_blank">via telematica</a>
-				nello stesso orario del corso.</p>
-				<p>Tutti gli studenti di questo canale devono registrarsi su
-					<a href="https://classroom.google.com/u/1/c/NjI1NTgxNjE3Nzha"  target="_blank">google classroom</a> per la classe con il codice
-					<b>jgm5zmf</b>. La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1 e non con l'account personale.
+		<p><b>Il corso dell'anno accademico 2020/21 inizia il giorno mercoledi` 24 Febbraio 2021</b>
+			<p>Le lezioni  si svolgeranno in modalita` mista come previsto dall'ateneo.
+				 Tutte le lezioni saranno trasmesse in diretta sulla piattaforma Google meet.</p>
+
+			<p>Tutti gli studenti di questo canale devono registrarsi su
+					<a href="https://classroom.google.com/c/Mjc4MTY5NzM0NTkx?cjc=xpocvet"  target="_blank">google classroom</a> per la classe con il codice
+					<a href="https://classroom.google.com/c/Mjc4MTY5NzM0NTkx?cjc=xpocvet"  target="_blank">xpocvet</a>. </p>
+
+			<p>La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1 e non con l'account personale.
 				Tutte le informazioni ed avvisi relativi alle videolezioni verranno comunicati tramite Google Classroom.</p>
 
-				<p>Le videolezioni si faranno tramite <a href="https://meet.google.com/ozv-eooz-rde?authuser=1&hs=122">Google Meet</a>. E` disponibile
-					il <a href="https://calendar.google.com/calendar/b/1?cid=dW5pcm9tYTEuaXRfY2xhc3Nyb29tODY2ZjBmNjlAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">calendario google del corso</a>
-					dove trovate tutti il link per tutte le lezioni. Tutte le lezioni e ricevimenti si svolgono
-				  nella stanza virtuale <a href="https://meet.google.com/ozv-eooz-rde?authuser=1&hs=122">Google Meet: ozv-eooz-rde</a></p>
+				<p>Sara` possibile accedere alle registrazioni di ciascuna lezione facendo richiesta tramite google form.</p>
 
-			<p>Siete pregati di leggere con attenzione la <a href="https://www.uniroma1.it/it/documento/procedura-straordinaria-lo-svolgimento-degli-esami-orali-di-profitto-modalita-telematica">procedura straordinaria per lo svolgimento degli esami orali</a>
-				in vigore dal prossimo appello fino a nuove direttive. Al momento non sono disponibili direttive
-				per lo svolgimento delle prove scritte.
-			</p>
+				<p>Il ricevimento si volge tramite Meet nell'orario indicato oppure in presenza per appuntamento.</p>
 
 			<ul>
-	  	<li> Mercoledi` 8-10, Aula 3 , Nuovo Edificio di Fisica. Inizio ore 8:30 e durata 90 min senza la pausa. </li>
-	  	<li> Venerdi`  12-14, Aula 3 , Nuovo Edificio di Fisica </li>
-	  	<li> <b>Dal 16/4 al 14/5 (inclusi)</b>: Giovedi`  12-14, Aula 3 , Nuovo Edificio di Fisica</li>
+	  	<li> Mercoledi` 8-10, Aula 6 , Edificio Fermi (CU033). Inizio ore 8:30 (90 min senza pausa) </li>
+	  	<li> Venerdi`  12-14, Aula 6 , Edificio Fermi (CU033) </li>
+	  	<li> <b>Dal 15/4 al 13/5 (inclusi)</b>: Giovedi`  12-14, Aula 6 , Edificio Fermi (CU033)</li>
 		</ul>
 	</div>
 
@@ -43,9 +39,15 @@
 	<ul>
 
 	<li>
-	Lec 01, 26/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
+	Lec 01, 24/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
 	</li>
 
+	<li>
+	Lec 02, 26/2: Dilatazione temporale e contrazione delle lunghezze.
+	Trasformazioni di Lorentz.
+ </li>
+
+<?php /*
 	<li>
 	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
 	Interazioni fondamentali. Esperimento di Michelson-Morley. Il tempo proprio.
@@ -329,6 +331,7 @@
 	(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3, 4.3)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-12.pdf">lavagna</a>)
   </li>
+*/ ?>
 
 	</ul> <!-- end of lectures -->
 	</div> <!--- end of entry -->
