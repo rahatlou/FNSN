@@ -24,7 +24,7 @@
 </div>
 
   <h2>Libri e referenze utili</h2>
-  <div style="height: 380px; overflow: auto">
+  <div style="height: 400px; overflow: auto">
   <ul>
     <li>R. Paramatti, <a href="http://www.roma1.infn.it/cms/ric/cinematica.pdf">Dispense di cinematica relativistica</a></li>
     <li>D. Griffiths, <a href="https://www.wiley.com/en-us/Introduction+to+Elementary+Particles+%2C+2nd%2C+Revised+Edition-p-9783527406012">Introduction to Elementary Particles , 2nd Ed.</a></li>
