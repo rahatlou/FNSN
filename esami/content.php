@@ -91,7 +91,7 @@
 	<div class="entry">
 		<h2 class="title">Appelli di Esame</h2>
 
-	<p>Tutte le date sono state inserite su <a href="https://www.uniroma1.it/it/pagina-strutturale/studenti">infostud</a>.
+	<p>Tutte le date sono disponibili su <a href="https://www.uniroma1.it/it/pagina-strutturale/studenti">infostud</a>.
 	</p>
 
 
