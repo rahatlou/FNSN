@@ -330,45 +330,6 @@
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-12.pdf">lavagna</a>)
   </li>
 
-
-
-
-
-<?php /*
-
-
-
-
-	Lec 25, 22/5:
-	Numeri quantici e leggi di conservazione: numero leptonico, barionico e la stranezza.
-	Adroni: mesoni e barioni. (dispense Cap 6). Esercizi secondo esonero.
-	</li>
-
-	<li>
-	Lec 27, 29/5: Simmetrie, invarianze, e leggi di conservazione.
-	Parita`. Isospin. (dispense Cap 7, Perkins Cap 3)
-	  (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwMTIf-zuRHLTvpY-flrwV34qBt_IEe-_lKTJ2gwp0EmTTGQ/viewform?usp=sf_link">scelta lezioni di recupero</a>
-	  <b>entro sabato 1 giugno</b>)
-	</li>
-
-	<li>
-	Lec 28, 31/5:
-	Ipercarica e numeri quantici di sapore. Classificazione di mesoni e barioni. formula di Gell-Mann-Nishijima.
-	Isospin e sezioni d'urto pione-nucleone. (dispense Cap 7, Perkins Cap 3) (<a href="Didattica/FNSN/Esercizi/20190531_bonus-v2.pdf">pdf secondo bonus</a>)
-	(<a href="Didattica/FNSN/adroni.pdf">Multipletti di mesoni e barioni</a>)(<a href="http://pdg.lbl.gov/2019/tables/contents_tables_mesons.html">mesoni</a> e <a href="http://pdg.lbl.gov/2019/tables/contents_tables_baryons.html">barioni</a>)
-	</li>
-
-
-	<li>
-	Lec 29, 5/6:
-	Risonanze adroniche: sezione d'urto di produzione e la formula di Breit-Wigner. Violazione di parita` e l'eseprimento di Wu.
-
-	<li>
-	Lec 30, 7/6 12-13:
-	Elicita` del neutrino e l'esperimento di Goldhaber. (Goldhaber Cap 6, Perkins Cap 7)
-	</li>
- */ ?>
-
 	</ul> <!-- end of lectures -->
 	</div> <!--- end of entry -->
 
