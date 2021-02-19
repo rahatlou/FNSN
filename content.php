@@ -11,12 +11,15 @@
 			<p>Le lezioni  si svolgeranno in modalita` mista come previsto dall'ateneo.
 				 Tutte le lezioni saranno trasmesse in diretta sulla piattaforma Google meet.</p>
 
-			<p>Tutti gli studenti di questo canale devono registrarsi su
+				 <p>Per seguire le lezioni in presenza e` richiesta la prenotazione su
+					 <a href="https://prodigit.uniroma1.it/">prodigit</a>.
+					 Sara` effettutato l'appello all'inizio di ogni lezione.</p>
+
+			<p>Tutte le informazioni ed avvisi relativi alle videolezioni verranno comunicati tramite Google Classroom.
+				Tutti gli studenti di questo canale devono registrarsi su
 					<a href="https://classroom.google.com/c/Mjc4MTY5NzM0NTkx?cjc=xpocvet"  target="_blank">google classroom</a> per la classe con il codice
 					<a href="https://classroom.google.com/c/Mjc4MTY5NzM0NTkx?cjc=xpocvet"  target="_blank">xpocvet</a>.
-
-			  La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1 e non con l'account personale.
-				Tutte le informazioni ed avvisi relativi alle videolezioni verranno comunicati tramite Google Classroom.
+			  La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1.
 			</p>
 
 				<p>Sara` possibile accedere alle registrazioni di ciascuna lezione facendo richiesta tramite google form.</p>
