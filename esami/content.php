@@ -6,9 +6,11 @@
 		<div class="entry">
 			<h2 class="title">Esoneri</h2>
 			<ol>
-			  <li>I esonero: 24/4 durante l'orario del corso</li>
-				<li>II esonero: 12/6 durante l'orario del corso</li>
+			  <li>I esonero: </li>
+				<li>II esonero: </li>
 			</ol>
+
+<?php /*
 
 			<h2 class="title">Modalita` di esame e di esoneri durante l'emergenza COVID-19</h2>
 			<p>Data l’emergenza COVID-19 e le lezioni erogate solo in via telematica, e senza la possibilità di fare prove scritte come gli anni passati, le queste sono le modalità ed i criteri di valutazione per l’esame di questo corso .</p>
@@ -43,7 +45,7 @@
 			<li> voto dell’esercizio svolto durante la prova d’esame x 50%</li>
 			<li> voto della prova orale sul programma x 50%</li>
 		</ol>
-<?php /*
+
 			<li> il voto dell’esonero è valido fino all’appello di Febbraio 2021 anche in caso di</li>
 			<ul>
 			<li> esito negativo dell’esercizio</li>
@@ -51,7 +53,6 @@
 			<li> rinuncia al voto dopo la prova orale</li>
 		  </ul>
 */ ?>
-		</ul>
 
 
 <?php /*
@@ -88,23 +89,10 @@
 
 
 	<div class="entry">
-		<h2 class="title">Appelli di Esame FNSN</h2>
-		<p>
-		E` disponibile una <a href="http://www.roma1.infn.it/~ippolitv/fns1_compiti/">raccolta di esercizi d'esame</a>
-		degli anni passati.</p>
+		<h2 class="title">Appelli di Esame</h2>
 
 	<p>Tutte le date sono state inserite su <a href="https://www.uniroma1.it/it/pagina-strutturale/studenti">infostud</a>.
 	</p>
-	<p>Appelli d'esame:
-		<ul>
-			<li> 15/6/2020</li>
-			<li> 3/7/2020 </li>
-			<li> 4/9/2020 </li>
-			<li>25/1/2021</li>
-			<li>15/2/2021</li>
-		</ul>
-	</p>
-
 
 
 
