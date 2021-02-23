@@ -4,10 +4,52 @@
 	<div class="post">
 
 		<div class="entry">
-			<h2 class="title">Esoneri</h2>
+			<h2 class="title">Modalita` d'esame</h2>
+      <p>Considerata l'emergenza pandemica non sono previste prove scritte con tutti gli studenti in presenza.</p>
+      <ul>
+			<li>La prova d'esame consiste in una parte di esercizi (10 punti) e la discussione orale (20 punti).</li>
+		  <li>Si accede alla prova orale con un punteggio >= 5 agli esercizi</li>
+		</ul>
+
+    <p>Per ciascuno appello d'esame gli studenti prenotati saranno distribuiti in diversi giorni.</p>
+		<ul>
+		  <li>Ciascun giorno, ci sara` un esercizio da svolgere in 20 min dagli studenti di quel giorno</li>
+		  <li>Gli studenti con un punteggio minimo di 5 punti saranno ammessi alla prova orale</li>
+	  </ul>
+
+
+			<h2 class="title">Prove in itinere</h2>
+			<p>Ci saranno 4 prove in itinere (20min ciascuna) che si svolgeranno durante l'orario di lezione
+				a partire	da fine marzo. Le date verranno concordate con gli studenti e comunicate entro meta` marzo.
+				Le prove si svolgeranno tramite la piattaforma exam.net e google Meet, e in presenza per coloro che
+				saranno in aula. </p>
+				<ol>
+					<li>Ciascuna prova vale 10 punti</li>
+					<li>sara` necessario sostenere tutte le prove</li>
+					<li>il voto sara` calcolato come la media delle 4 prove sostenute</li>
+					<li>chi ottiene un voto >=6 avra` un bonus di 3 punti. Ad esempio chi ottiene una media
+						  di 6.5 sulle 4 prove, avra` un voto finale di 6.5+3=9.5 per sostenere la prova orale.</li>
+					<li>Il punteggio ottenuto e` valido per sostenere la prova orale fino al febbraio 2022. </li>
+				</ol>
+
+			<p>Gli studenti possono usare il punteggio ottenuto in queste prove per non fare l'esercizo durante gli appelli
+				 d'esame. E` possibile rinunciare al voto delle prove in itinere e
+				 fare l'esercizio prima della discussione orale. </p>
+
+			<p>Il voto delle prove in itinere non e` piu` valido quando
+				<ul>
+				  <li>Non viene superata la prova orale</li>
+				  <li>si rinuncia al voto ottenuto alla prova orale </li>
+					<li>si sostiene un esercizio durante uno qualsiasi degli appelli</li>
+			  </ul>
+			</p>
+			<h3 class="title">Date Prove in itinere</h3>
+
 			<ol>
-			  <li>I esonero: </li>
-				<li>II esonero: </li>
+			  <li>I prova: marzo </li>
+				<li>II prova : aprile </li>
+				<li>III prova : maggio </li>
+				<li>IV prova : 11 giugno </li>
 			</ol>
 
 <?php /*
