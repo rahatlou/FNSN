@@ -19,13 +19,16 @@
 
 
 			<h2 class="title">Prove in itinere</h2>
-			<p>Ci saranno 4 prove in itinere (20min ciascuna) che si svolgeranno durante l'orario di lezione
+			<p>Le prove in itinere servono per poter accedere alla prova orale senza
+			dover fare l'esercizio scritto. Per far cio` sara` necessario aver
+			sostenuto tutte e 4 le prove in itinere e aver ottenuto una media maggiore di 5.</p>
+
+			<p>Le 4 prove in itinere (20min ciascuna) si svolgeranno durante l'orario di lezione
 				a partire	da fine marzo. Le date verranno concordate con gli studenti e comunicate entro meta` marzo.
 				Le prove si svolgeranno tramite la piattaforma exam.net e google Meet, e in presenza per coloro che
 				saranno in aula. </p>
 				<ol>
 					<li>Ciascuna prova vale 10 punti</li>
-					<li>sara` necessario sostenere tutte le prove</li>
 					<li>il voto sara` calcolato come la media delle 4 prove sostenute</li>
 					<li>chi ottiene un voto >=6 avra` un bonus di 3 punti. Ad esempio chi ottiene una media
 						  di 6.5 sulle 4 prove, avra` un voto finale di 6.5+3=9.5 per sostenere la prova orale.</li>
