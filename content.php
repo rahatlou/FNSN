@@ -45,13 +45,13 @@
 
 	<li>
 	Lec 01, 24/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-02-24.pdf">lavagna</a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-02-24.pdf" target=blank_>lavagna</a>)
 	</li>
 
 	<li>
 	Lec 02, 26/2: Dilatazione temporale e contrazione delle lunghezze.
 	Trasformazioni di Lorentz.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-02-26.pdf">pdf</a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-02-26.pdf" target=blank_>pdf</a>)
  </li>
 
 <?php /*
