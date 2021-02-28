@@ -22,8 +22,9 @@
 			  La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1.
 			</p>
 
-				<p>Si puo` richiedere l'accesso alla registrazione di singole lezioni tramite questa
-<?php /*					<a href="https://docs.google.com/forms/d/e/1FAIpQLSf3SxqXdfrWfspBT7wWdodC2sYLiyN4jlWjnwcFNZJ51V7Xew/viewform?usp=sf_link">google form</a>.</p>
+<?php /*
+<p>Si puo` richiedere l'accesso alla registrazione di singole lezioni tramite questa
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf3SxqXdfrWfspBT7wWdodC2sYLiyN4jlWjnwcFNZJ51V7Xew/viewform?usp=sf_link">google form</a>.</p>
 */?>
 				<p>Il ricevimento si volge tramite Meet nell'orario indicato oppure in presenza per appuntamento.</p>
 
