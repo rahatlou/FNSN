@@ -51,6 +51,7 @@
 	<li>
 	Lec 02, 26/2: Dilatazione temporale e contrazione delle lunghezze.
 	Trasformazioni di Lorentz.
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-02-26.pdf">pdf</a>)
  </li>
 
 <?php /*
