@@ -51,31 +51,31 @@
 
 	<li>
 	Lec 02, 26/2: Dilatazione temporale e contrazione delle lunghezze.
-	Trasformazioni di Lorentz.
+	Trasformazioni di Lorentz. Calcolo di &beta; e &gamma;.(Dispense relativita)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-02-26.pdf" target=blank_>pdf</a>)
  </li>
 
+ <li>
+   Lec 03, 3/3: Esperimento di Michelson-Morley. Il tempo proprio. Definizione di energia e
+   impulso delle particelle relativistiche libere. Massa a riposo.
+   Quadrimpulso e Quadrivelocita`. Particelle senza massa. Antiparticelle.
+   Decadimenti. Vita media propria delle particelle instabili.
+   Significato e misura della vita media.
+   Larghezza di decadimento. Branching ratio.
+   (Dispense relativita`, Griffiths Cap 3)
+ </li>
+
+
 <?php /*
-	<li>
 	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
-	Interazioni fondamentali. Esperimento di Michelson-Morley. Il tempo proprio.
-	Dilatazione temporale e contrazione delle lunghezze. (Dispense relativita`, Griffiths Cap 1)
-	</li>
 
 	<li>
-	Lec 03, 4/3: Definizione di energia e impulso delle particelle relativistiche libere. Massa a riposo. Particelle senza massa.
-	Quadrimpulso e Quadrivelocita`. Calcolo di &beta; e &gamma;. Trasformazioni di Lorentz.
-	Leggi di conservazione nelle reazioni relativistiche. Urti elastici ed anelastici.
-	Decadimenti. Vita media propria delle particelle instabili.  (Dispense relativita`, Griffiths Cap 3)
+  Lec 04, 5/3:
+  Leggi di conservazione nelle reazioni relativistiche. Urti elastici ed anelastici.
+  Esperimenti di diffusione. Definizione operativa di Sezione d'urto.
+  (dispense relativita`, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
   </li>
 
-
-	<li>
-	Lec 04, 11/3: Larghezza di decadimento. Branching ratio. Significato della vita media.
-	Esperimenti di diffusione. Definizione operativa di Sezione d'urto.
-	(dispense relativita`, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-11.pdf">lavagna</a>)
-  </li>
 
 	<li>
 	Lec 05, 13/3: Esercizi di cinematica e di relativita`:
