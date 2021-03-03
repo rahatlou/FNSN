@@ -58,7 +58,13 @@
  <li>
    Lec 03, 3/3: Esperimento di Michelson-Morley. Il tempo proprio. Definizione di energia e
    impulso delle particelle relativistiche libere. Massa a riposo.
-   Quadrimpulso e Quadrivelocita`. Particelle senza massa. Antiparticelle.
+   Quadrimpulso e Quadrivelocita`.
+   (Dispense relativita`, Griffiths Cap 3)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-03.pdf" target=blank_>pdf</a>)
+ </li>
+
+ <li>
+   Lec 04, 5/3:  Particelle senza massa. Antiparticelle.
    Decadimenti. Vita media propria delle particelle instabili.
    Significato e misura della vita media.
    Larghezza di decadimento. Branching ratio.
