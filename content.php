@@ -69,8 +69,14 @@
    Significato e misura della vita media.
    Larghezza di decadimento. Branching ratio.
    (Dispense relativita`, Griffiths Cap 3)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-05.pdf" target=blank_>pdf</a>)
  </li>
 
+ <li>
+ Lec 05, 10/3:
+ Decadimenti a due corpi: &pi;0 -> &gamma;&gamma;. Angolo di apertura nei decadimenti. sistemi di riferimento.
+ massa invariante dei prodotti. (dispense relativita`)
+ </li>
 
 <?php /*
 	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
@@ -82,12 +88,6 @@
   (dispense relativita`, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
   </li>
 
-
-	<li>
-	Lec 05, 13/3: Esercizi di cinematica e di relativita`:
-	trasformazioni di velocita`, angolo di apertura nei decadimenti, sistemi di riferimento.   (dispense relativita`)
-  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-13.pdf">lavagna</a>)
-	</li>
 
   <li>
 	Lec 06, 17/3: Esercizi di cinematica: Sistemi di riferimento e massa invariante.
@@ -127,7 +127,7 @@
   </li>
 
 	<li>
-	Lec 11, 27/3: Decadimento in 2 corpi: &pi;0 -> &gamma;&gamma;. Urti elastici. Scattering Compton.
+	Lec 11, 27/3:  Urti elastici. Scattering Compton.
 	(dispense relativita`)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_27.pdf">lavagna</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizio_per_casa_2020_03_27.pdf">esercizi per casa</a>)
