@@ -49,9 +49,9 @@
 			<h3 class="title">Date Prove in itinere</h3>
 
 			<ol>
-			  <li>I prova: marzo </li>
-				<li>II prova : aprile </li>
-				<li>III prova : maggio </li>
+			  <li>I prova: 26 marzo 2021</li>
+				<li>II prova : 23 aprile 2021</li>
+				<li>III prova : 14 maggio 2021</li>
 				<li>IV prova : 11 giugno </li>
 			</ol>
 
