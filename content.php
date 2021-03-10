@@ -60,7 +60,7 @@
    impulso delle particelle relativistiche libere. Massa a riposo.
    Quadrimpulso e Quadrivelocita`.
    (Dispense relativita`, Griffiths Cap 3)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-03.pdf" target=blank_>pdf</a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-03.pdf" target=blank_>lavagna</a>)
  </li>
 
  <li>
@@ -69,13 +69,21 @@
    Significato e misura della vita media.
    Larghezza di decadimento. Branching ratio.
    (Dispense relativita`, Griffiths Cap 3)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-05.pdf" target=blank_>pdf</a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-05.pdf" target=blank_>lavagna</a>)
  </li>
 
  <li>
  Lec 05, 10/3:
- Decadimenti a due corpi: &pi;0 -> &gamma;&gamma;. Angolo di apertura nei decadimenti. sistemi di riferimento.
- massa invariante dei prodotti. (dispense relativita`)
+ Esercizi di cinematica e decadimenti. Decadimenti a due corpi. Decadimento del pione carico. Angolo di apertura nei decadimenti. sistemi di riferimento.
+ (dispense relativita`)
+ (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-10.pdf" target=blank_>pdf</a>)
+ </li>
+
+ <li>
+ Lec 06, 12/3:
+ Leggi di conservazione nelle reazioni relativistiche. Urti elastici ed anelastici.
+ Esperimenti di diffusione. Definizione operativa di Sezione d'urto.
+ (dispense relativita`, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
  </li>
 
 <?php /*
