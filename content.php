@@ -81,9 +81,20 @@
 
  <li>
  Lec 06, 12/3:
- Leggi di conservazione nelle reazioni relativistiche. Urti elastici ed anelastici.
- Esperimenti di diffusione. Definizione operativa di Sezione d'urto.
- (dispense relativita`, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
+ Esperimenti di diffusione. Definizione operativa di Sezione d'urto. Collisioni a bersaglio fisso.
+ Coefficiente di assorbimento. Misura della sezione d'urto.
+ Fasci collidenti e luminosita` istantanea e integrata. Esempio del bosone di Higgs ad LHC.
+ (Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
+ (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-12.pdf" target=blank_>lavagna</a>)
+ </li>
+
+
+ <li>
+ Lec 07, 17/3:
+ Sezione totale e inclusiva.
+ Sezione d'urto differenziale e la sua misura. Calcolo della sezione d'urto.
+ (Dionisi-Longo: cap 3, Griffiths: cap 6)
+
  </li>
 
 <?php /*
@@ -92,7 +103,6 @@
 	<li>
   Lec 04, 5/3:
   Leggi di conservazione nelle reazioni relativistiche. Urti elastici ed anelastici.
-  Esperimenti di diffusione. Definizione operativa di Sezione d'urto.
   (dispense relativita`, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
   </li>
 
@@ -107,15 +117,13 @@
 	Lec 07, 18/3: Urti anelastici. Energia di Soglia di reazione: produzione di anti-protone.
 	Conservazione del quadrimpulso.
 	Massa invariante. Cinematica relativistica nei decadimenti.
-	Decadimento a due corpi nel cdm e LAB.
 	(dispense relativita`)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_18.pdf">lavagna</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizi_per_casa_2020_03_18.pdf">esercizi per casa</a>)
 	</li>
 
 	<li>
-	Lec 08, 20/3: Sezione d'urto. Fasci collidenti e luminosita` (istantanea e integrata)
-	Sezione d'urto esclusiva ed inclusiva. Esempio del bosone di Higgs ad LHC. misura della sezione d'urto.
+	Lec 08, 20/3:
 	(Dionisi-Longo: cap 3, Griffiths: cap 6)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-20.pdf">lavagna</a>)
   </li>
@@ -127,9 +135,8 @@
 	</li>
 
 	<li>
-	Lec 10, 25/3: Coefficiente di assorbimento del fascio.
-	Sezione d'urto differenziale. Calcolo della sezione d'urto.
-	Misura della sezione d'urto.
+	Lec 10, 25/3:
+
 	Radioattivita`. Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-25.pdf">lavagna</a>)
   </li>
