@@ -35,6 +35,7 @@
 	  	<li> Mercoledi` 8-10, Aula 6 , Edificio Fermi (CU033). Inizio ore 8:30 (90 min senza pausa) </li>
 	  	<li> Venerdi`  12-14, Aula 6 , Edificio Fermi (CU033) </li>
 	  	<li> <b>Dal 15/4 al 13/5 (inclusi)</b>: Giovedi`  12-14, Aula 6 , Edificio Fermi (CU033)</li>
+			<li>Dal 17/3 e fino a nuovi aggiornamenti le lezioni si svolgono per via telematica.</li>
 		</ul>
 	</div>
 
@@ -93,9 +94,15 @@
  Lec 07, 17/3:
  Sezione totale e inclusiva.
  Sezione d'urto differenziale e la sua misura. Calcolo della sezione d'urto.
+ Esperimento di Rutherford e calcolo della sezione d'urto.
  (Dionisi-Longo: cap 3, Griffiths: cap 6)
-
  </li>
+
+ <li>
+ Lec 08, 19/3: Esercizi di cinematica: Sistemi di riferimento e massa invariante. Urti ed energia di soglia.
+ (dispense relativita`)
+ </li>
+
 
 <?php /*
 	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
