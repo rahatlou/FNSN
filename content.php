@@ -92,10 +92,13 @@
 
  <li>
  Lec 07, 17/3:
- Sezione totale e inclusiva.
- Sezione d'urto differenziale e la sua misura. Calcolo della sezione d'urto.
- Esperimento di Rutherford e calcolo della sezione d'urto.
+ Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
+ Accettanza e efficienza e numero di eventi osservati. Massa invariante dei prodotti
+ di decadimento.
+ Sezione d'urto differenziale e la sua misura. Calcolo della sezione d'urto:
+ esempio della sfera rigida.
  (Dionisi-Longo: cap 3, Griffiths: cap 6)
+ (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-17.pdf" target=blank_>lavagna</a>)
  </li>
 
  <li>
@@ -103,6 +106,17 @@
  (dispense relativita`)
  </li>
 
+ <li>
+ Lec 09, 24/3:
+ Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
+ Scoperta del protone e del neutrone.
+ (Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)
+ </li>
+
+ <li>
+ Lec 10, 26/3:
+ prova in itinere
+ </li>
 
 <?php /*
 	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
@@ -129,11 +143,6 @@
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizi_per_casa_2020_03_18.pdf">esercizi per casa</a>)
 	</li>
 
-	<li>
-	Lec 08, 20/3:
-	(Dionisi-Longo: cap 3, Griffiths: cap 6)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-20.pdf">lavagna</a>)
-  </li>
 
 	<li>
 	Lec 09, 24/3 (ore 14-16): Esercizi di cinematica:
