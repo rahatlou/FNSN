@@ -102,8 +102,9 @@
  </li>
 
  <li>
- Lec 08, 19/3: Esercizi di cinematica: Sistemi di riferimento e massa invariante. Urti ed energia di soglia.
+ Lec 08, 19/3: Esercizi di cinematica: Decadimenti, Sistemi di riferimento, e Massa invariante.
  (dispense relativita`)
+ (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-19.pdf" target=blank_>pdf</a>)
  </li>
 
  <li>
