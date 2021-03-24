@@ -109,14 +109,16 @@
 
  <li>
  Lec 09, 24/3:
- Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
- Scoperta del protone e del neutrone.
+ Particelle alfa: origine e caratteristiche cinematiche.
+ Diffusione di Rutherford e scoperta del nucleo. Calcolo classico sezione d'urto
+ (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Rutherford.pdf" target=blank_>pdf</a>)
  (Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)
- </li>
+ (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-24.pdf" target=blank_>lavagna</a>)
+</li>
 
  <li>
  Lec 10, 26/3:
- prova in itinere
+ I ora: prova in itinere. II ora: Scoperta del protone e del neutrone.
  </li>
 
 <?php /*
