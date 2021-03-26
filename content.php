@@ -118,7 +118,7 @@
 
  <li>
  Lec 10, 26/3:
- I ora: prova in itinere. II ora: Scoperta del protone e del neutrone.
+ 12:15: prova in itinere. II ora: Urti ed energia di soglia. Scoperta del protone e del neutrone.
  </li>
 
 <?php /*
