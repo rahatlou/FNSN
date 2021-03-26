@@ -118,8 +118,19 @@
 
  <li>
  Lec 10, 26/3:
- 12:15: prova in itinere. II ora: Urti ed energia di soglia. Scoperta del protone e del neutrone.
+ 12:15: prova in itinere. II ora: esercizio di esonero.
+ Urti ed Energia di Soglia di reazione: produzione di anti-protone.
+ (dispense relativita`, Griffiths: cap 3, Dionisi-Longo: cap 3)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-26.pdf" target=blank_>pdf</a>)
  </li>
+
+ <li>
+ Lec 11, 31/3:
+ 12:15: Scoperta del protone e del neutrone. Scoperta dell'elettrone. Barioni e mesoni.
+ Leptoni e quark.
+ </li>
+
+
 
 <?php /*
 	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
@@ -167,13 +178,6 @@
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizio_per_casa_2020_03_27.pdf">esercizi per casa</a>)
   </li>
 
-	<li>
-	Lec 12, 1/4: Esperimenti di Diffusione.
-	Diffusione di Rutherford e calcolo di sezione d'urto classica: scoperta del nucleo.
-	Scoperta del protone e del neutrone.
-	(Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-01.pdf">lavagna</a>)
-  </li>
 
 	<li>
 	Lec 13, 3/4:
