@@ -126,7 +126,7 @@
 
  <li>
  Lec 11, 31/3:
- 12:15: Scoperta del protone e del neutrone. Scoperta dell'elettrone. Barioni e mesoni.
+ Scoperta del protone e del neutrone. Scoperta dell'elettrone. Barioni e mesoni.
  Leptoni e quark.
  </li>
 
