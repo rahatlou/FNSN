@@ -133,13 +133,18 @@
 
 <li>
 Lec 12, 7/4:
-Classificazione delle particelle. barioni e mesoni. leptoni e quark. Fisica nucleare.
-Proprieta` dei nuclei. Energia di legame. Carta di Segre`. Stabilita` nucleare.
-Decadimenti &alpha;, &beta;, e &gamma;. Cattura elettronica.  (Dionisi-Longo cap 8, Bertulani cap 4)
+Classificazione delle particelle. barioni e mesoni. leptoni e quark.
 </li>
 
 
 <?php /*
+
+Fisica nucleare.
+Proprieta` dei nuclei. Energia di legame. Carta di Segre`. Stabilita` nucleare.
+Decadimenti &alpha;, &beta;, e &gamma;. Cattura elettronica.  (Dionisi-Longo cap 8, Bertulani cap 4)
+
+
+
 	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
 
 	<li>
