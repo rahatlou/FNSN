@@ -126,10 +126,17 @@
 
  <li>
  Lec 11, 31/3:
- Scoperta del protone e del neutrone. Scoperta dell'elettrone. Barioni e mesoni.
- Leptoni e quark.
- </li>
+ Scoperta del protone e del neutrone. Scoperta dell'elettrone. Esperimenti di Rutherford, Chadwick, Thompson, e Millikan.
+ (Dionisi-Longo cap 1,2,3)
+ (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-31.pdf" target=blank_>lavagna</a>)
+</li>
 
+<li>
+Lec 12, 7/4:
+Classificazione delle particelle. barioni e mesoni. leptoni e quark. Fisica nucleare.
+Proprieta` dei nuclei. Energia di legame. Carta di Segre`. Stabilita` nucleare.
+Decadimenti &alpha;, &beta;, e &gamma;. Cattura elettronica.  (Dionisi-Longo cap 8, Bertulani cap 4)
+</li>
 
 
 <?php /*
@@ -164,12 +171,6 @@
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_24.pdf">lavagna</a>)
 	</li>
 
-	<li>
-	Lec 10, 25/3:
-
-	Radioattivita`. Esperimenti di Thompson e Millikan: scoperta dell'elettrone.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-03-25.pdf">lavagna</a>)
-  </li>
 
 	<li>
 	Lec 11, 27/3:  Urti elastici. Scattering Compton.
@@ -186,11 +187,6 @@
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizio_per_casa_2020_04_03.pdf">esercizi per casa</a>)
 	</li>
 
-	<li>
-	Lec 14, 8/4:
-	Esercizi di riepilogo e di esonero.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_04_08.pdf">lavagna</a>)
-	</li>
 
 	<li>
 	Lec 15, 15/4:
