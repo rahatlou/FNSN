@@ -21,7 +21,7 @@
 			<h2 class="title">Prove in itinere</h2>
 			<p>Le prove in itinere servono per poter accedere alla prova orale senza
 			dover fare l'esercizio scritto. Per far cio` sara` necessario aver
-			sostenuto tutte e 4 le prove in itinere e aver ottenuto una media maggiore di 5.</p>
+			sostenuto tutte e 4 le prove in itinere e aver ottenuto una media >= 5.</p>
 
 			<p>Le 4 prove in itinere (20min ciascuna) si svolgeranno durante l'orario di lezione
 				a partire	da fine marzo. Le date verranno concordate con gli studenti e comunicate entro meta` marzo.
