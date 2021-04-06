@@ -133,7 +133,17 @@
 
 <li>
 Lec 12, 7/4:
-Classificazione delle particelle. barioni e mesoni. leptoni e quark.
+Classificazione delle particelle. barioni e mesoni. leptoni e quark. Fisica  nucleare: nuclidi, carta di Segre`. energia di legame.
+</li>
+
+<li>
+Lec 13, 8/4:
+energia di soglia. urti elastici ed anelastici. esercizi.
+</li>
+
+<li>
+Lec 14, 9/4:
+energia di legame nucleare. Modello a goccia. Decadimenti &gamma; ed &alpha;
 </li>
 
 
