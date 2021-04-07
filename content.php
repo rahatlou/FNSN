@@ -134,13 +134,15 @@
 <li>
 Lec 12, 7/4:
 Classificazione delle particelle. barioni e mesoni. leptoni e quark. Conservazione del numero barionico e leptonico.
-Fisica  nucleare: nuclidi, energia di legame. carta di Segre`.
+Introduzione a Fisica  nucleare. Nuclidi e proprieta` dei nuclei. Energia di legame nucleare. Stabilita` dei nuclei e carta di Segre`.
+(Bertulani cap 4, Dionisi-Longo cap 8)
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-07.pdf" target=blank_>lavagna</a>)
 </li>
 
 <li>
 Lec 13, 8/4:
-Esercizi: energia di soglia, urti elastici ed anelastici. 
+Esercizi: energia di soglia, urti elastici ed anelastici.
+(dispense relativita`)
 </li>
 
 <li>
@@ -159,35 +161,6 @@ Decadimenti &alpha;, &beta;, e &gamma;. Cattura elettronica.  (Dionisi-Longo cap
 
 	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
 
-	<li>
-  Lec 04, 5/3:
-  Leggi di conservazione nelle reazioni relativistiche. Urti elastici ed anelastici.
-  (dispense relativita`, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
-  </li>
-
-
-  <li>
-	Lec 06, 17/3: Esercizi di cinematica: Sistemi di riferimento e massa invariante.
-	(dispense relativita`)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_17.pdf">lavagna</a>)
-	</li>
-
-	<li>
-	Lec 07, 18/3: Urti anelastici. Energia di Soglia di reazione: produzione di anti-protone.
-	Conservazione del quadrimpulso.
-	Massa invariante. Cinematica relativistica nei decadimenti.
-	(dispense relativita`)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_18.pdf">lavagna</a>)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizi_per_casa_2020_03_18.pdf">esercizi per casa</a>)
-	</li>
-
-
-	<li>
-	Lec 09, 24/3 (ore 14-16): Esercizi di cinematica:
-	(dispense relativita`)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_24.pdf">lavagna</a>)
-	</li>
-
 
 	<li>
 	Lec 11, 27/3:  Urti elastici. Scattering Compton.
@@ -195,14 +168,6 @@ Decadimenti &alpha;, &beta;, e &gamma;. Cattura elettronica.  (Dionisi-Longo cap
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_27.pdf">lavagna</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizio_per_casa_2020_03_27.pdf">esercizi per casa</a>)
   </li>
-
-
-	<li>
-	Lec 13, 3/4:
-	Esercizi di sezione d'urto. (dispense)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_04_03.pdf">lavagna</a>)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizio_per_casa_2020_04_03.pdf">esercizi per casa</a>)
-	</li>
 
 
 	<li>
