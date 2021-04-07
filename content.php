@@ -133,12 +133,14 @@
 
 <li>
 Lec 12, 7/4:
-Classificazione delle particelle. barioni e mesoni. leptoni e quark. Fisica  nucleare: nuclidi, carta di Segre`. energia di legame.
+Classificazione delle particelle. barioni e mesoni. leptoni e quark. Conservazione del numero barionico e leptonico.
+Fisica  nucleare: nuclidi, energia di legame. carta di Segre`.
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-07.pdf" target=blank_>lavagna</a>)
 </li>
 
 <li>
 Lec 13, 8/4:
-energia di soglia. urti elastici ed anelastici. esercizi.
+Esercizi: energia di soglia, urti elastici ed anelastici. 
 </li>
 
 <li>
