@@ -34,8 +34,8 @@
 			<ul>
 	  	<li> Mercoledi` 8-10, Aula 6 , Edificio Fermi (CU033). Inizio ore 8:30 (90 min senza pausa) </li>
 	  	<li> Venerdi`  12-14, Aula 6 , Edificio Fermi (CU033) </li>
-	  	<li> <b>Dal 15/4 al 13/5 (inclusi)</b>: Giovedi`  12-14, Aula 6 , Edificio Fermi (CU033)</li>
-			<li>Dal 17/3 e fino a nuovi aggiornamenti le lezioni si svolgono per via telematica.</li>
+	  	<li> <b>Dal 8/4 al 13/5 (inclusi)</b>: Giovedi`  12-14, Aula 6 , Edificio Fermi (CU033)</li>
+			<li>Dal 17/3 e fino al 31/3  le lezioni si svolgono per via telematica.</li>
 		</ul>
 	</div>
 
