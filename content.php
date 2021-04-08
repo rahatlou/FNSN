@@ -141,8 +141,9 @@ Introduzione a Fisica  nucleare. Nuclidi e proprieta` dei nuclei. Energia di leg
 
 <li>
 Lec 13, 8/4:
-Esercizi: energia di soglia, urti elastici ed anelastici.
+Esercizi: energia di soglia, urti elastici ed anelastici. Diffusione Compton.
 (dispense relativita`)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-08.pdf" target=blank_>pdf</a>)
 </li>
 
 <li>
