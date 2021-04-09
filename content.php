@@ -134,7 +134,7 @@
 <li>
 Lec 12, 7/4:
 Classificazione delle particelle. barioni e mesoni. leptoni e quark. Conservazione del numero barionico e leptonico.
-Introduzione a Fisica  nucleare. Nuclidi e proprieta` dei nuclei. Energia di legame nucleare. Stabilita` dei nuclei e carta di Segre`.
+Introduzione a Fisica  nucleare. Nuclidi e proprieta` dei nuclei. Energia di legame nucleare.
 (Bertulani cap 4, Dionisi-Longo cap 8)
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-07.pdf" target=blank_>lavagna</a>)
 </li>
@@ -148,36 +148,28 @@ Esercizi: energia di soglia, urti elastici ed anelastici. Diffusione Compton.
 
 <li>
 Lec 14, 9/4:
-energia di legame nucleare. Modello a goccia. Decadimenti &gamma; ed &alpha;
+Stabilita` dei nuclei e carta di Segre`. Decadimenti ed &alpha;, &beta; e &gamma;. Q-value nelle reazioni.
+Buca di potenziale e il potenziale nucleare. Impulso di Fermi dei nucleoni(Bertulani 5.3, <a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/impulso-di-fermi.pdf"  target=blank_>pdf</a>).
+Stima dell'energia di legame con il modello a goccia.
+(Bertulani cap 4 e 5, Dionisi-Longo cap 8)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-09.pdf" target=blank_>lavagna</a>)
+</li>
+
+<li>
+Lec 15, 14/4:
+Formula di Bethe-Weizsacker per la massa. Decadimento &alpha;. Cinematica del decadimento.
+Soglia di instabilita` per il decadimento alpha. Modello di Gamow.
+Legge di Geiger-Nuttal.
+(Bertulani cap 5 e 7)
 </li>
 
 
 <?php /*
 
-Fisica nucleare.
-Proprieta` dei nuclei. Energia di legame. Carta di Segre`. Stabilita` nucleare.
-Decadimenti &alpha;, &beta;, e &gamma;. Cattura elettronica.  (Dionisi-Longo cap 8, Bertulani cap 4)
-
 
 
 	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
 
-
-	<li>
-	Lec 11, 27/3:  Urti elastici. Scattering Compton.
-	(dispense relativita`)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_03_27.pdf">lavagna</a>)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercizio_per_casa_2020_03_27.pdf">esercizi per casa</a>)
-  </li>
-
-
-	<li>
-	Lec 15, 15/4:
-	Scoperta del neutrone. Introduzione a Fisica nucleare.
-	Proprieta` dei nuclei. Energia di legame. Carta di Segre`. Stabilita` nucleare.
-	Decadimenti gamma e beta. Cattura elettronica.  (Dionisi-Longo cap 8, Bertulani cap 4)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-15.pdf">lavagna</a>)
-	</li>
 
 	<li>
 	Lec 16, 16/4:
