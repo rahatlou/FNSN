@@ -156,13 +156,25 @@ Stima dell'energia di legame con il modello a goccia.
 </li>
 
 <li>
-Lec 15, 14/4:
-Formula di Bethe-Weizsacker per la massa. Decadimento &alpha;. Cinematica del decadimento.
-Soglia di instabilita` per il decadimento alpha. Modello di Gamow.
+Lec 15, 14/4: esercizi di cinematica e sezione d'urto
+</li>
+
+
+<li>
+Lec 16, 15/4:
+Formula di Bethe-Weizsacker per la massa. Decadimento &alpha;. Cinematica del decadimento e
+soglia di instabilita`. Modello di Gamow.
 Legge di Geiger-Nuttal.
 (Bertulani cap 5 e 7)
 </li>
 
+<li>
+Lec 17, 16/4:
+Radioattivita` e unita` di misura.
+(Bertulani cap 6)
+Reazioni nucleari. Sezione d'urto di neutroni. Fissione spontanea ed indotta.
+Cenni a reattori nucleari. (Bertulani cap 10.1, 10.2,  11.5, 11.7)
+</li>
 
 <?php /*
 
