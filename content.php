@@ -164,8 +164,8 @@ Lec 15, 14/4: esercizi di cinematica e sezione d'urto
 
 <li>
 Lec 16, 15/4:
-Formula di Bethe-Weizsacker per la massa. Decadimento &alpha;. Cinematica del decadimento e
-soglia di instabilita`. Modello di Gamow.
+Formula di Bethe-Weizsacker per la massa. Decadimento &alpha;.
+Cinematica del decadimento e soglia di instabilita`. Modello di Gamow.
 Legge di Geiger-Nuttal.
 (Bertulani cap 5 e 7)
 </li>
