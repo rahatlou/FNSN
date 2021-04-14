@@ -157,6 +157,8 @@ Stima dell'energia di legame con il modello a goccia.
 
 <li>
 Lec 15, 14/4: esercizi di cinematica e sezione d'urto
+(dispense relativita`)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-14.pdf" target=blank_>pdf</a>)
 </li>
 
 
