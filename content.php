@@ -168,12 +168,13 @@ Formula di Bethe-Weizsacker per la massa. Decadimento &alpha;.
 Cinematica del decadimento e soglia di instabilita`. Modello di Gamow.
 Legge di Geiger-Nuttal.
 (Bertulani cap 5 e 7)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-15.pdf" target=blank_>lavagna</a>)
 </li>
 
 <li>
 Lec 17, 16/4:
-Radioattivita` e unita` di misura.
-(Bertulani cap 6)
+Decadimento &alpha;. Modello di Gamow.
+Legge di Geiger-Nuttal.
 Reazioni nucleari. Sezione d'urto di neutroni. Fissione spontanea ed indotta.
 Cenni a reattori nucleari. (Bertulani cap 10.1, 10.2,  11.5, 11.7)
 </li>
