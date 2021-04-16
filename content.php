@@ -175,9 +175,28 @@ Legge di Geiger-Nuttal.
 Lec 17, 16/4:
 Decadimento &alpha;. Modello di Gamow.
 Legge di Geiger-Nuttal.
-Reazioni nucleari. Sezione d'urto di neutroni. Fissione spontanea ed indotta.
-Cenni a reattori nucleari. (Bertulani cap 10.1, 10.2,  11.5, 11.7)
+Reazioni nucleari. Reazioni esotermiche ed endotermiche.
+Fissione spontanea ed indotta.
+(Bertulani cap 7, 10.1, 10.2, 10.3)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-16.pdf" target=blank_>lavagna</a>)
 </li>
+
+<li>
+Lec 18, 21/4: esercizi
+</li>
+
+
+<li>
+Lec 19, 22/4:
+Fissione indotta e spontanea. Cenni a reattori nucleari.
+Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
+</li>
+
+<li>
+Lec 20, 23/4: 12:15: prova in itinere. II ora: decadimento &beta; 
+</li>
+
+
 
 <?php /*
 
