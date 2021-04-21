@@ -186,7 +186,6 @@ Lec 18, 21/4: esercizi su urti, reazioni, e sezione d'urto.
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-21.pdf" target=blank_>pdf</a>)
 </li>
 
-
 <li>
 Lec 19, 22/4:
 Fissione indotta e spontanea. Cenni a reattori nucleari.
@@ -200,34 +199,6 @@ Lec 20, 23/4: 12:15: prova in itinere. II ora: decadimento &beta;
 
 
 <?php /*
-
-
-
-	Lec 02, 28/2: Composizione dell'universo. Materia oscura ed Energia oscura. Materia ordinaria e nascita di Fisica Nucleare.
-
-
-	<li>
-	Lec 16, 16/4:
-	Decadimento alfa.
-	Modelli nucleari: gas di Fermi e modello a goccia. Densita` degli stati ed energia di Fermi.
-	Calcolo di energia di legame per i nucleoni. Formula di Bethe-Weizsacker per la massa.
-	(Bertulani cap 5, Dionisi-Longo cap 8)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-16.pdf">lavagna</a>)
-	</li>
-
-	<li>
-	Lec 17, 17/4:
-	Soglia di instabilita` per il decadimento alpha. Modello di Gamow.
-	Legge di Geiger-Nuttal. Radioattivita` e unita` di misura. (Bertulani cap 7, 6)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-17.pdf">lavagna</a>)
-	</li>
-
-	<li>
-	Esercitazione extra, 21/4 ore 14:00:
-	Esercizi di riepilogo e di esonero.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_04_21.pdf">lavagna</a>)
-	</li>
-
 
 
 	<li>
