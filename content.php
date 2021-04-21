@@ -182,7 +182,8 @@ Fissione spontanea ed indotta.
 </li>
 
 <li>
-Lec 18, 21/4: esercizi
+Lec 18, 21/4: esercizi su urti, reazioni, e sezione d'urto.
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-21.pdf" target=blank_>pdf</a>)
 </li>
 
 
@@ -193,7 +194,7 @@ Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 </li>
 
 <li>
-Lec 20, 23/4: 12:15: prova in itinere. II ora: decadimento &beta; 
+Lec 20, 23/4: 12:15: prova in itinere. II ora: decadimento &beta;
 </li>
 
 
