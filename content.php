@@ -183,12 +183,13 @@ Fissione spontanea ed indotta.
 
 <li>
 Lec 18, 21/4: esercizi su urti, reazioni, e sezione d'urto.
+Cenni al problema della materia oscura.
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-21.pdf" target=blank_>pdf</a>)
 </li>
 
 <li>
 Lec 19, 22/4:
-Fissione indotta e spontanea. Termalizzazione di neutrono tramite urti.
+Fissione indotta e spontanea. Termalizzazione di neutroni tramite urti.
 Fissione dell'uranio. Cenni a reattori nucleari.
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-22.pdf" target=blank_>lavagna</a>)
 (Bertulani cap 10.1, 10.2,  11.5, 11.7)
@@ -198,13 +199,13 @@ Fissione dell'uranio. Cenni a reattori nucleari.
 Lec 20, 23/4: 12:15: prova in itinere.
 II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 (Bertulani cap 12)
-(<a href="https://www.ptable.com">Tavola periodica interattiva</a>)
-(Articoli da <a href="https://www.asimmetrie.it">asimmetrie.it</a>:
+(<a href="https://www.ptable.com" target=blank_>Tavola periodica interattiva</a>)
+(Articoli da <a href="https://www.asimmetrie.it" target=blank_>asimmetrie.it</a>:
 <a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
-<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-02.pdf">elementi leggeri</a>,
-<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-03.pdf">elementi pesanti</a>,
-<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf">reazioni nucleari nel sole</a>,
-<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf">nascita delle stelle</a>
+<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-02.pdf" target=blank_>elementi leggeri</a>,
+<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-03.pdf" target=blank_>elementi pesanti</a>,
+<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf" target=blank_>reazioni nucleari nel sole</a>,
+<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf" target=blank_>nascita delle stelle</a>
 )
 </li>
 
