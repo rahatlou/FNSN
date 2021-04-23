@@ -210,7 +210,9 @@ II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 )
 </li>
 
-
+<li>
+Lec 21, 28/4: Interazioni delle particelle cariche nella materia.
+</li>
 
 <?php /*
 
