@@ -199,6 +199,7 @@ Fissione dell'uranio. Cenni a reattori nucleari.
 Lec 20, 23/4: 12:15: prova in itinere.
 II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 (Bertulani cap 12)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-23.pdf" target=blank_>lavagna</a>)
 (<a href="https://www.ptable.com" target=blank_>Tavola periodica interattiva</a>)
 (Articoli da <a href="https://www.asimmetrie.it" target=blank_>asimmetrie.it</a>:
 <a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
@@ -207,7 +208,6 @@ II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 <a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf" target=blank_>reazioni nucleari nel sole</a>,
 <a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf" target=blank_>nascita delle stelle</a>
 )
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-23.pdf" target=blank_>lavagna</a>)
 </li>
 
 
