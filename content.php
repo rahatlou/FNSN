@@ -207,6 +207,7 @@ II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 <a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf" target=blank_>reazioni nucleari nel sole</a>,
 <a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf" target=blank_>nascita delle stelle</a>
 )
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-23.pdf" target=blank_>lavagna</a>)
 </li>
 
 
