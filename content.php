@@ -225,7 +225,7 @@ Identificazione di particelle con dE/dx.
 Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
 Diffusione coulombiana multipla nel mezzo.
 (Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
-<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>)
+<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>)
 </li>
 
 <li>
