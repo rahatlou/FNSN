@@ -218,37 +218,28 @@ Calcolo di Bohr dell'energia persa per ionizzazione.
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-28.pdf" target=blank_>lavagna</a>)
 </li>
 
+<li>
+Lec 22, 29/4:
+Perdita di energia per ionizzazione: formula di Bethe-Bloch.
+Identificazione di particelle con dE/dx.
+Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
+Diffusione coulombiana multipla nel mezzo.
+(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
+<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>)
+</li>
+
+<li>
+Lec 23, 30/4:
+Esercizi sull'interazione nella materia. Calcolo dE/dx. Traiettoria delle particelle cariche nel campo magnetico.
+Tempo di volo.
+</li>
+
+
+
 <?php /*
 
 
 	<li>
-	Decadimento Beta. Teoria di Fermi per l'interazione debole.  (Bertulani cap 8, Dionisi-Longo cap 6, Perkins cap 7)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-23.pdf">lavagna</a>)
-	</li>
-
-	<li>
-	24/4: prova in itinere durante l'orario di lezione
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/esami/testi/Esonero_20200424-sol.pdf">pdf</a>)
-  </li>
-
-	<li>
-	Lec 20, 29/4:
-	Larghezza di decadimento e distribuzione di Breit-Wigner.
-	La regola d'oro di Fermi. Calcolo larghezza di decadimento beta.
-	La scoperta del neutrino. Massa del neutrino e grafico di Kurie.
-	(Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-29.pdf">lavagna</a>)
-	</li>
-
-	<li>
-	Lec 21, 30/4:
-	Calcolo larghezza decadimento beta. Massa del neutrino e grafico di Kurie.
-	Misura della costante di Fermi. Diffusione del neutrino sul protone. Caloclo
-	della sezione d'urto con la regola d'oro di Fermi.
-	La scoperta del neutrino.
-	 (Bertulani cap 8.3; Perkins cap 7.2, 7.3, 7.4; Longo-Dionisi cap 6,5)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-30.pdf">lavagna</a>)
-	</li>
 
 	<li>
 	Lec 22, 6/5:
@@ -324,6 +315,36 @@ Calcolo di Bohr dell'energia persa per ionizzazione.
 	(Das-Ferbel cap 8, <a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-particle-detectors-accel.pdf">cap 34</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-27.pdf">lavagna</a>)
 	</li>
+
+	Decadimento Beta. Teoria di Fermi per l'interazione debole.  (Bertulani cap 8, Dionisi-Longo cap 6, Perkins cap 7)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-23.pdf">lavagna</a>)
+	</li>
+
+	<li>
+	24/4: prova in itinere durante l'orario di lezione
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/esami/testi/Esonero_20200424-sol.pdf">pdf</a>)
+	</li>
+
+	<li>
+	Lec 20, 29/4:
+	Larghezza di decadimento e distribuzione di Breit-Wigner.
+	La regola d'oro di Fermi. Calcolo larghezza di decadimento beta.
+	La scoperta del neutrino. Massa del neutrino e grafico di Kurie.
+	(Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-29.pdf">lavagna</a>)
+	</li>
+
+	<li>
+	Lec 21, 30/4:
+	Calcolo larghezza decadimento beta. Massa del neutrino e grafico di Kurie.
+	Misura della costante di Fermi. Diffusione del neutrino sul protone. Caloclo
+	della sezione d'urto con la regola d'oro di Fermi.
+	La scoperta del neutrino.
+	 (Bertulani cap 8.3; Perkins cap 7.2, 7.3, 7.4; Longo-Dionisi cap 6,5)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-30.pdf">lavagna</a>)
+	</li>
+
+
 
 	<li>
 	Lec 31, 29/5: La scoperta dell'antiprotone. Esercizi di riepilogo e di interazione nella materia.
