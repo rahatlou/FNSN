@@ -211,31 +211,17 @@ II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 </li>
 
 <li>
-Lec 21, 28/4: Interazioni delle particelle cariche nella materia.
+Lec 21, 28/4: Interazioni delle particelle nella materia.
+Urti contro elettroni e nuclei. Perdita di energia per ionizzazione per le particelle cariche.
+Calcolo di Bohr dell'energia persa per ionizzazione.
+(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-28.pdf" target=blank_>lavagna</a>)
 </li>
 
 <?php /*
 
 
 	<li>
-	Lec 18, 22/4:
-	Reazioni nucleari. Sezione d'urto di neutroni. Fissione spontanea ed indotta.
-	Cenni a reattori nucleari. (Bertulani cap 10.1, 10.2,  11.5, 11.7)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-22.pdf">lavagna</a>)
-	</li>
-
-	<li>
-	Lec 19, 23/4:
-	Fusione. Reazioni pp nel Sole. Cenni a nucleosintesi.
-	(Bertulani cap 12)
-	(<a href="https://www.ptable.com">Tavola periodica interattiva</a>)
-	(Articoli da <a href="https://www.asimmetrie.it">asimmetrie.it</a>:
-	<a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
-	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-02.pdf">elementi leggeri</a>,
-	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-03.pdf">elementi pesanti</a>,
-	<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf">reazioni nucleari nel sole</a>,
-	<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf">nascita delle stelle</a>
-	)
 	Decadimento Beta. Teoria di Fermi per l'interazione debole.  (Bertulani cap 8, Dionisi-Longo cap 6, Perkins cap 7)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-23.pdf">lavagna</a>)
 	</li>
