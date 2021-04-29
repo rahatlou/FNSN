@@ -223,52 +223,41 @@ Lec 22, 29/4:
 Perdita di energia per ionizzazione: formula di Bethe-Bloch.
 Identificazione di particelle con dE/dx.
 Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
-Diffusione coulombiana multipla nel mezzo.
 (Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
 <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-29.pdf" target=blank_>lavagna</a>)
 </li>
 
 <li>
 Lec 23, 30/4:
-Esercizi sull'interazione nella materia. Calcolo dE/dx. Traiettoria delle particelle cariche nel campo magnetico.
-Tempo di volo.
+Esercizi sull'interazione nella materia. Calcolo di dE/dx.
+Traiettoria delle particelle cariche nel campo magnetico.
+Tracciatori e la misura dell'impulso.
 </li>
 
+<li>
+Lec 24, 5/4:
+Diffusione coulombiana multipla nella materia.
+Effetto Cerenkov. Identificazione delle particelle.
+Perdita di energia per elettroni e positroni.
+Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
+(Das-Ferbel cap 6; Longo-Dionisi cap 4,
+<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
+</li>
 
 
 <?php /*
 
-
-	<li>
-
-	<li>
-	Lec 22, 6/5:
-	Interazione delle particelle nella materia. Particelle cariche nel mezzo.
-	Perdita di energia per ionizzazione: formula di Bohr.
-	(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1)
-  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-06.pdf">lavagna</a>)
-  </li>
-
-	<li>
-	Lec 23, 7/5:
-	Perdita di energia per ionizzazione: formula di Bethe-Bloch.
-	Identificazione di particelle con dE/dx.
-	Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
-	Diffusione coulombiana multipla nel mezzo.
-	(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
-	<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-07.pdf">lavagna</a>)
-  </li>
-
 	<li>
 	Lec 24, 8/5:
 	Esercizi sull'interazione nella materia. Calcolo dE/dx. Traiettoria delle particelle cariche nel campo magnetico.
-	Tempo di volo. Diffusione multipla nel mezzo. Perdita di energia per elettroni e positroni.
+	Tempo di volo. Diffusione multipla nel mezzo.
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_08.pdf">lavagna</a>)
   </li>
 
 	<li>
 	Lec 25, 13/5: Effetto Cerenkov. Identificazione delle particelle.
+	Perdita di energia per elettroni e positroni.
 	Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
 	(Das-Ferbel cap 6; Longo-Dionisi cap 4,
 	<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>, Jackson 14.2, 14.3)
@@ -277,7 +266,7 @@ Tempo di volo.
 
 	<li>
 	Lec 26, 14/5:
-	Tracciatori e la misura dell'impulso. Metodo della sagitta.
+	Tempo di volo. Metodo della sagitta.
 	Esercizi sull'interazione nella materia e luce Cherenkov.
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_14.pdf">lavagna</a>)
 
