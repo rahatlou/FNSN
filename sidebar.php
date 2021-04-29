@@ -28,11 +28,11 @@
   <ul>
     <li>R. Paramatti, <a href="http://www.roma1.infn.it/cms/ric/cinematica.pdf">Dispense di cinematica relativistica</a></li>
     <li>D. Griffiths, <a href="https://www.wiley.com/en-us/Introduction+to+Elementary+Particles+%2C+2nd%2C+Revised+Edition-p-9783527406012">Introduction to Elementary Particles , 2nd Ed.</a></li>
-    <li>J. J. Sakurai, J. Napolitano, <a href="https://www.zanichelli.it/ricerca/prodotti/meccanica-quantistica-moderna-sakurai-napolitano">Meccanica quantistica moderna, 2nd Ed.</a></li>
-    <li>A. Das and T. Ferbel, <a href="https://www.worldscientific.com/worldscibooks/10.1142/5460">Introduction to Nuclear and Particle Physics, 2nd ed.</a></li>
     <li>C. Bertulani, <a href="https://press.princeton.edu/titles/8455.html">Nuclear Physics in a Nutshell</a></li>
+    <li>A. Das and T. Ferbel, <a href="https://www.worldscientific.com/worldscibooks/10.1142/5460">Introduction to Nuclear and Particle Physics, 2nd ed.</a></li>
     <li>D. H. Perkins, <a href="https://doi.org/10.1017/CBO9780511809040">Introduction to High Energy Physics, 4th ed.</a></li>
     <li>Cahn and Goldhaber, <a href="https://doi.org/10.1017/CBO9780511609923">The experimental foundation of Particle Physics</a>, 2nd Ed.</li>
+    <li>J. J. Sakurai, J. Napolitano, <a href="https://www.zanichelli.it/ricerca/prodotti/meccanica-quantistica-moderna-sakurai-napolitano">Meccanica quantistica moderna, 2nd Ed.</a></li>
     <li>C. Dionisi e E. Longo, <a href="http://www.roma1.infn.it/people/longo/fnsn/testo.html">Dispense di fisica nucleare e subnucleare</a></li>
   </ul>
   </div>
