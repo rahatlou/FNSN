@@ -233,6 +233,7 @@ Lec 23, 30/4:
 Esercizi sull'interazione nella materia. Calcolo di dE/dx.
 Traiettoria delle particelle cariche nel campo magnetico.
 Tracciatori e la misura dell'impulso.
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-30.pdf" target=blank_>pdf</a>)
 </li>
 
 <li>
