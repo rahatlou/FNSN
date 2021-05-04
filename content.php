@@ -237,7 +237,7 @@ Tracciatori e la misura dell'impulso.
 </li>
 
 <li>
-Lec 24, 5/4:
+Lec 24, 5/5:
 Diffusione coulombiana multipla nella materia.
 Effetto Cerenkov. Identificazione delle particelle.
 Perdita di energia per elettroni e positroni.
