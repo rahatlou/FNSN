@@ -240,11 +240,24 @@ Tracciatori e la misura dell'impulso.
 Lec 24, 5/5:
 Diffusione coulombiana multipla nella materia.
 Effetto Cerenkov. Identificazione delle particelle.
-Perdita di energia per elettroni e positroni.
-Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
 (Das-Ferbel cap 6; Longo-Dionisi cap 4,
 <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-05.pdf" target=blank_>lavagna</a>)
 </li>
+
+<li>
+Lec 25, 6/5:
+Perdita di energia per elettroni e positroni.
+Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
+Interazione dei fotoni nella materia.
+</li>
+
+<li>
+Lec 26, 7/5:
+esercizi sull'interazione nella materia.
+</li>
+
+
 
 
 <?php /*
@@ -256,14 +269,6 @@ Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_08.pdf">lavagna</a>)
   </li>
 
-	<li>
-	Lec 25, 13/5: Effetto Cerenkov. Identificazione delle particelle.
-	Perdita di energia per elettroni e positroni.
-	Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
-	(Das-Ferbel cap 6; Longo-Dionisi cap 4,
-	<a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>, Jackson 14.2, 14.3)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-13.pdf">lavagna</a>)
-  </li>
 
 	<li>
 	Lec 26, 14/5:
