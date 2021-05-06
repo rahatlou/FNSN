@@ -223,7 +223,7 @@ Lec 22, 29/4:
 Perdita di energia per ionizzazione: formula di Bethe-Bloch.
 Identificazione di particelle con dE/dx.
 Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
-(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
+(Das-Ferbel cap 6.2; Longo-Dionisi cap 4, Jackson cap 13.1,
 <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>)
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-29.pdf" target=blank_>lavagna</a>)
 </li>
@@ -240,7 +240,7 @@ Tracciatori e la misura dell'impulso.
 Lec 24, 5/5:
 Diffusione coulombiana multipla nella materia.
 Effetto Cerenkov. Identificazione delle particelle.
-(Das-Ferbel cap 6; Longo-Dionisi cap 4,
+(Das-Ferbel cap 6.2; Longo-Dionisi cap 4,
 <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-05.pdf" target=blank_>lavagna</a>)
 </li>
@@ -249,7 +249,11 @@ Effetto Cerenkov. Identificazione delle particelle.
 Lec 25, 6/5:
 Perdita di energia per elettroni e positroni.
 Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
-Interazione dei fotoni nella materia.
+Energia critica e lunghezza di radiazione.
+Interazione dei fotoni nella materia. Sciami elettromagnetici.
+(Das-Ferbel cap 6.3; Longo-Dionisi cap 4,
+<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-06.pdf" target=blank_>lavagna</a>)
 </li>
 
 <li>
