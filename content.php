@@ -261,6 +261,12 @@ Lec 26, 7/5:
 esercizi sull'interazione nella materia.
 </li>
 
+<li>
+Lec 27, 12/5:
+Lunghezza di attenuazione dei fotoni.
+Caratteristiche degli sciami elettromagnetici. Cenni agli sciami adronici.
+Rivelatori di particlle. Tracciatori. calorimetri.
+</li>
 
 
 
