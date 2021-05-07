@@ -259,6 +259,7 @@ Interazione dei fotoni nella materia. Sciami elettromagnetici.
 <li>
 Lec 26, 7/5:
 esercizi sull'interazione nella materia.
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-05-07.pdf" target=blank_>pdf</a>)
 </li>
 
 <li>
@@ -272,34 +273,6 @@ Rivelatori di particlle. Tracciatori. calorimetri.
 
 <?php /*
 
-	<li>
-	Lec 24, 8/5:
-	Esercizi sull'interazione nella materia. Calcolo dE/dx. Traiettoria delle particelle cariche nel campo magnetico.
-	Tempo di volo. Diffusione multipla nel mezzo.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_08.pdf">lavagna</a>)
-  </li>
-
-
-	<li>
-	Lec 26, 14/5:
-	Tempo di volo. Metodo della sagitta.
-	Esercizi sull'interazione nella materia e luce Cherenkov.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_14.pdf">lavagna</a>)
-
-  </li>
-
-	<li>
-	Lec 27, 15/5:
-	Interazione di elettroni e fotoni con la materia
-	Energia critica. Lunghezza di radiazione.
-	Sciami elettromagnetici. cenni a sciami adronici.
-	Lunghezza d'interazione nucleare.
-	(Das-Ferbel cap 6; Longo-Dionisi cap 4,
-	PDG <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf">cap 33</a>,
-	<a href="http://pdg.lbl.gov/2019/AtomicNuclearProperties/index.html" target="blank_">Atomic &amp; Nuclear properties</a>)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-15.pdf">lavagna</a>)
-	</li>
-
 
 	<li>
 	Lec 28, 20/5: Rivelatori. Tracciatori per le particelle cariche. Calorimetri.
@@ -307,11 +280,6 @@ Rivelatori di particlle. Tracciatori. calorimetri.
 	(Das-Ferbel cap 7, <a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-particle-detectors-accel.pdf">cap 34</a>)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-20.pdf">lavagna</a>)
 
-  </li>
-
-	<li>
-	Lec 29, 22/5: esercizi di riepilogo e di interazione nella materia.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_22.pdf">lavagna</a>)
   </li>
 
 	<li>
