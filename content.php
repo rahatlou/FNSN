@@ -266,21 +266,27 @@ esercizi sull'interazione nella materia.
 Lec 27, 12/5:
 Lunghezza di attenuazione dei fotoni.
 Caratteristiche degli sciami elettromagnetici. Cenni agli sciami adronici.
-Rivelatori di particlle. Tracciatori. calorimetri.
+Rivelatori di particlle. Tracciatori. Calorimetri.
+(Das-Ferbel cap 7; Longo-Dionisi cap 4,
+<a href="http://pdg.lbl.gov/2019/AtomicNuclearProperties/index.html" target="blank_">Atomic &amp; Nuclear properties</a>)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-12.pdf" target=blank_>lavagna</a>)
 </li>
 
+<li>
+Lec 28, 13/5:
+Acceleratori di particelle. Differenze tra acceleratori lineari
+e circolari. Ciclotrone e sincrotrone.
+Decadimento &beta;. Teoria di Fermi per l'interazione debole.
+</li>
 
+<li>
+Lec 29, 14/5:
+12:10: terza prova in itinere. II ora: Esperimento di Anderso e la scoperta del positrone.
+Esperimento di Segre` e la scoperta dell'antiprotone.
+</li>
 
 <?php /*
 
-
-	<li>
-	Lec 28, 20/5: Rivelatori. Tracciatori per le particelle cariche. Calorimetri.
-	Risoluzione di energia e impulso.
-	(Das-Ferbel cap 7, <a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-particle-detectors-accel.pdf">cap 34</a>)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-20.pdf">lavagna</a>)
-
-  </li>
 
 	<li>
 	Lec 30, 27/5: Acceleratori di particelle. Differenze tra acceleratori lineari
