@@ -277,6 +277,8 @@ Lec 28, 13/5:
 Acceleratori di particelle. Differenze tra acceleratori lineari
 e circolari. Ciclotrone e sincrotrone.
 Decadimento &beta;. Teoria di Fermi per l'interazione debole.
+(Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-13.pdf" target=blank_>lavagna</a>)
 </li>
 
 <li>
