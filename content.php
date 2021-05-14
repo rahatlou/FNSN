@@ -276,16 +276,27 @@ Rivelatori di particlle. Tracciatori. Calorimetri.
 Lec 28, 13/5:
 Acceleratori di particelle. Differenze tra acceleratori lineari
 e circolari. Ciclotrone e sincrotrone.
-Decadimento &beta;. Teoria di Fermi per l'interazione debole.
-(Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
+Decadimento &beta;. Regola d'oro di Fermi. Teoria di Fermi per l'interazione debole.
+(Das-Ferbel cap8, Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-13.pdf" target=blank_>lavagna</a>)
 </li>
 
 <li>
 Lec 29, 14/5:
-12:10: terza prova in itinere. II ora: Esperimento di Anderso e la scoperta del positrone.
-Esperimento di Segre` e la scoperta dell'antiprotone.
+12:10: terza prova in itinere.
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/esercizi/20210514-soluzioni.pdf" target=blank_>pdf</a>)
+II ora: Esperimento di Anderson e la scoperta del positrone. (Cahn-Goldhaber cap 1)
+Esperimento di Segre` e la scoperta dell'antiprotone. (Cahn-Goldhaber cap 4)
 </li>
+
+<li>
+Lec 30, 19/5:
+Regola d'oro di Fermi. Spazio delle fasi. Larghezza del decadimento &beta;.
+Massa del neutrino e grafico di Kurie.
+Larghezza di decadimento e distribuzione di Breit-Wigner.
+( Bertulani cap 6.9, 8.3, Perkins cap 7.2, 7.3, 7.4; Longo-Dionisi cap 6,5)
+</li>
+
 
 <?php /*
 
@@ -301,10 +312,6 @@ Esperimento di Segre` e la scoperta dell'antiprotone.
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-23.pdf">lavagna</a>)
 	</li>
 
-	<li>
-	24/4: prova in itinere durante l'orario di lezione
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/esami/testi/Esonero_20200424-sol.pdf">pdf</a>)
-	</li>
 
 	<li>
 	Lec 20, 29/4:
