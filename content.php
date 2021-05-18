@@ -293,24 +293,49 @@ Esperimento di Segre` e la scoperta dell'antiprotone. (Cahn-Goldhaber cap 4)
 Lec 30, 19/5:
 Regola d'oro di Fermi. Spazio delle fasi. Larghezza del decadimento &beta;.
 Massa del neutrino e grafico di Kurie.
-Larghezza di decadimento e distribuzione di Breit-Wigner.
+La scoperta dell'antiprotone.
 ( Bertulani cap 6.9, 8.3, Perkins cap 7.2, 7.3, 7.4; Longo-Dionisi cap 6,5)
 </li>
 
+<li>
+21/5: non c'e` lezione
+</li>
+
+<li>
+Lec 31, 26/5:
+Larghezza di decadimento e distribuzione di Breit-Wigner.
+Misura della costante di Fermi.
+Diffusione del neutrino sul protone.
+Calcolo della sezione d'urto con la regola d'oro di Fermi. La scoperta del neutrino.
+</li>
+
+<li>
+Lec 32, 28/5:
+Simmetrie discrete. Isospin: dalla ipotesi teorica alle misure sperimentali.
+Sezioni d'urto di nucleoni e l'impatto di isospin. Relazione tra la carica e l'isospin.
+(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
+</li>
+
+<li>
+Lec 33, 4/6: Esercitazione sui fotoni nella materia.
+Esperimento di Wu e la violazione della parita`.
+(Dionisi-Longo cap 6,7; Griffiths cap 4.4.1, Perkins cap 3)
+</li>
+
+<li>
+Lec 34, 9/6 ore <b>10-12 (NB orario insolito)</b>:
+Elicita` ed esperimento di Goldhaber.
+</li>
+
+<li>
+Lec 35, 11/6: IV prova in itinere. II ora: Esperimento di Conversi.
+</li>
+
+
+
+
 
 <?php /*
-
-
-	<li>
-	Lec 30, 27/5: Acceleratori di particelle. Differenze tra acceleratori lineari
-	e circolari. Regola d'oro di Fermi e l'elemento di Matrice al secondo ordine.
-	(Das-Ferbel cap 8, <a href="http://pdg.lbl.gov/">PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-particle-detectors-accel.pdf">cap 34</a>)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-05-27.pdf">lavagna</a>)
-	</li>
-
-	Decadimento Beta. Teoria di Fermi per l'interazione debole.  (Bertulani cap 8, Dionisi-Longo cap 6, Perkins cap 7)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-23.pdf">lavagna</a>)
-	</li>
 
 
 	<li>
@@ -322,22 +347,6 @@ Larghezza di decadimento e distribuzione di Breit-Wigner.
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-29.pdf">lavagna</a>)
 	</li>
 
-	<li>
-	Lec 21, 30/4:
-	Calcolo larghezza decadimento beta. Massa del neutrino e grafico di Kurie.
-	Misura della costante di Fermi. Diffusione del neutrino sul protone. Caloclo
-	della sezione d'urto con la regola d'oro di Fermi.
-	La scoperta del neutrino.
-	 (Bertulani cap 8.3; Perkins cap 7.2, 7.3, 7.4; Longo-Dionisi cap 6,5)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-30.pdf">lavagna</a>)
-	</li>
-
-
-
-	<li>
-	Lec 31, 29/5: La scoperta dell'antiprotone. Esercizi di riepilogo e di interazione nella materia.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_05_29.pdf">lavagna</a>)
-  </li>
 
 	<li>
 	Lec 32, 3/6: Interazioni mediate da particelle. Il propagatore del fotone. Mediatori di forza EM, debole, e forte.
@@ -354,22 +363,6 @@ Larghezza di decadimento e distribuzione di Breit-Wigner.
 	Isospin.
 	(Dionisi-Longo cap 5,7; Griffiths cap 4, Perkins cap 3)
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-05.pdf">lavagna</a>)
-  </li>
-
-	<li>
-	Lec 34, 10/6: Conservazione dei numeri quantici nelle reazioni.
-	La stranezza e particelle con il quark s. Parita` come  simmetria discreta.
-	L'esperimento di Wu e la violaziione della parita`.
-  (Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/esercitazione_pandolfi_2020_06_10.pdf">lavagna</a>)
-  </li>
-
-	<li>
-	Lec 35, 12/6: Isospin: dalla ipotesi teorica alle misure sperimentali. Sezioni d'urto
-	di nucleoni e l'impatto di isospin. Relazione tra la carica e l'isospin.
-	Multipletti di barioni e mesoni. Cenni al modello a quark.
-	(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3, 4.3)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-12.pdf">lavagna</a>)
   </li>
 */ ?>
 
