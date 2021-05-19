@@ -293,8 +293,9 @@ Esperimento di Segre` e la scoperta dell'antiprotone. (Cahn-Goldhaber cap 4)
 Lec 30, 19/5:
 Regola d'oro di Fermi. Spazio delle fasi. Larghezza del decadimento &beta;.
 Massa del neutrino e grafico di Kurie.
-La scoperta dell'antiprotone.
-( Bertulani cap 6.9, 8.3, Perkins cap 7.2, 7.3, 7.4; Longo-Dionisi cap 6,5)
+Esperimento di Segre` e Chamberlain: La scoperta dell'antiprotone.
+(Bertulani cap 6.9, 8.3, Perkins cap 7.2, 7.3, 7.4; Longo-Dionisi cap 6,5)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-19.pdf" target=blank_>lavagna</a>)
 </li>
 
 <li>
@@ -324,7 +325,8 @@ Esperimento di Wu e la violazione della parita`.
 
 <li>
 Lec 34, 9/6 ore <b>10-12 (NB orario insolito)</b>:
-Elicita` ed esperimento di Goldhaber.
+La stranezza. Barioni e mesoni strani.
+Violazione della stranezza nei decadimenti deboli.
 </li>
 
 <li>
