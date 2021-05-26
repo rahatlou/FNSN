@@ -305,9 +305,10 @@ Esperimento di Segre` e Chamberlain: La scoperta dell'antiprotone.
 <li>
 Lec 31, 26/5:
 Larghezza di decadimento e distribuzione di Breit-Wigner.
-Misura della costante di Fermi.
 Diffusione del neutrino sul protone.
-Calcolo della sezione d'urto con la regola d'oro di Fermi. La scoperta del neutrino.
+Calcolo della sezione d'urto con la regola d'oro di Fermi.
+La scoperta del neutrino. Esperimento di Reines-Cowan.
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-26.pdf" target=blank_>lavagna</a>)
 </li>
 
 <li>
