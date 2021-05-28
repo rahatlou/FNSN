@@ -314,8 +314,10 @@ La scoperta del neutrino. Esperimento di Reines-Cowan.
 <li>
 Lec 32, 28/5:
 Simmetrie discrete. Isospin: dalla ipotesi teorica alle misure sperimentali.
-Sezioni d'urto di nucleoni e l'impatto di isospin. Relazione tra la carica e l'isospin.
+Sezioni d'urto di nucleoni e l'impatto di isospin
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/diffusione-pione-nucleone.pdf" target=blank_>pdf</a>).
 (Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-28.pdf" target=blank_>lavagna</a>)
 </li>
 
 <li>
