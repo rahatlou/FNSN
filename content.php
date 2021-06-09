@@ -294,7 +294,7 @@ Lec 30, 19/5:
 Regola d'oro di Fermi. Spazio delle fasi. Larghezza del decadimento &beta;.
 Massa del neutrino e grafico di Kurie.
 Esperimento di Segre` e Chamberlain: La scoperta dell'antiprotone.
-(Bertulani cap 6.9, 8.3, Perkins cap 7.2, 7.3, 7.4; Longo-Dionisi cap 6,5)
+(Bertulani cap 6.9, 8.3, Perkins cap 7.2, 7.3; Longo-Dionisi cap 6,5)
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-19.pdf" target=blank_>lavagna</a>)
 </li>
 
@@ -308,6 +308,8 @@ Larghezza di decadimento e distribuzione di Breit-Wigner.
 Diffusione del neutrino sul protone.
 Calcolo della sezione d'urto con la regola d'oro di Fermi.
 La scoperta del neutrino. Esperimento di Reines-Cowan.
+(Dionisi-Longo cap 5; Perkins cap 7.3, 7.4)
+
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-26.pdf" target=blank_>lavagna</a>)
 </li>
 
@@ -323,17 +325,19 @@ Sezioni d'urto di nucleoni e l'impatto di isospin
 <li>
 Lec 33, 4/6: Esercitazione sui fotoni nella materia.
 Esperimento di Wu e la violazione della parita`.
-(Dionisi-Longo cap 6,7; Griffiths cap 4.4.1, Perkins cap 3)
+(Dionisi-Longo cap 6,7; Griffiths cap 4.4.1, Perkins cap 3, 7.5)
 </li>
 
 <li>
 Lec 34, 9/6 ore <b>10-12 (NB orario insolito)</b>:
 La stranezza. Barioni e mesoni strani.
 Violazione della stranezza nei decadimenti deboli.
+Esperimento di Conversi.
+(Goldhaber cap 2, 3; Dionisi-Longo cap 6)
 </li>
 
 <li>
-Lec 35, 11/6: IV prova in itinere. II ora: Esperimento di Conversi.
+Lec 35, 11/6: IV prova in itinere.
 </li>
 
 
