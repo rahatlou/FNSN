@@ -146,6 +146,32 @@
 	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
 */ ?>
 	  <ul>
+			<li><h2>Appello 18 Giugno 2021</h2>
+				<p> Le prove sono in presenza tranne per chi ha chiesto di poterla svolgere da remoto.
+					Le prove si svolgeranno nelle seguenti date accordate con gli studenti.
+					(<!--a href=""-->calendario delle prove<!--/a-->)</p>
+					<ul>
+						<li>18/6 ore 9-15, Aula Rasetti</li>
+						<li>23/6 ore 9-15, Aula Rasetti</li>
+						<li>24/6 ore 9-13 (da remoto su <a href="https://meet.google.com/gpa-ytim-bpf">Google Meet: gpa-ytim-bpf</a>)</li>
+						<li>24/6 ore 14-18, Aula Rasetti</li>
+						<li>25/6 ore 9-15, Aula Rasetti </li>
+						<li>28/6 ore 9-15, Aula Rasetti (se necessario)</li>
+          </ul>
+<p>Coloro che non hanno sostenuto o superato le prove in itinere, o intendono migliorare il proprio voto dovranno svolgere un esercizio
+	nei primi 30 min della sessione in presenza oppure su <a href="http://exam.net">exam.net</a>.
+	Solo gli studenti che superano questa prova oppure gia` esonerati sosterranno la prova orale che si svolgera` secondo il calendario pubblicato.
+</p>
+
+				<ul>
+						<li>Al termine delle prenotazioni, gli studenti prenotati verranno contattati per indicare la propria prefernza per la data.</li>
+						<li>Vi ricordo di prenotarvi <b>in tempo</b> su prodigit per l'esame in presenza</li>
+					<li>Per le prove da remoto, gli studenti sono pregati di fare le prove tecniche  per la connessione audio/video con meet in anticipo.
+							Per la discussione orale si puo` inquadrare un foglio oppure usare un tablet. Si consiglia di usare una penna con la punta grossa per
+							facilitare la visione.</li>
+				</ul>
+      </li>
+
 			<li><h2>Appello 15 Febbraio 2021</h2>
 				<ul>
 					<li>Come negli appelli estivi, ci sara` un esercizio da svolgere nei primi 20 min su <a href="http://exam.net">exam.net</a>
