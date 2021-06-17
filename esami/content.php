@@ -149,7 +149,7 @@
 			<li><h2>Appello 18 Giugno 2021</h2>
 				<p> Le prove sono in presenza tranne per chi ha chiesto di poterla svolgere da remoto.
 					Le prove si svolgeranno nelle seguenti date accordate con gli studenti.
-					(<!--a href=""-->calendario delle prove<!--/a-->)</p>
+					(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsen83LDUzUb93PtfxNevIpcp9rpz0UMkRdgNWl6M3mJEGoFhwJ6prHpdghuXQtqnTBLPE4DOpXNOD/pubhtml?gid=351036967&single=true">calendario delle prove</a>)</p>
 					<ul>
 						<li>18/6 ore 9-15, Aula Rasetti</li>
 						<li>23/6 ore 9-15, Aula Rasetti</li>
