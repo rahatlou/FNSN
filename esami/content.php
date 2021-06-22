@@ -104,7 +104,8 @@
 						<li>24/6 ore 9-13 (da remoto su <a href="https://meet.google.com/gpa-ytim-bpf">Google Meet: gpa-ytim-bpf</a>)</li>
 						<li>24/6 ore 14-18, Aula Rasetti</li>
 						<li>25/6 ore 9-15, Aula Rasetti </li>
-						<li>28/6 ore 9-15, Aula Rasetti (se necessario)</li>
+						<li>28/6 ore 9-15, Aula Rasetti </li>
+						<li>30/6 ore 9-12 </li>
           </ul>
 <p>Coloro che non hanno sostenuto o superato le prove in itinere, o intendono migliorare il proprio voto dovranno svolgere un esercizio
 	nei primi 30 min della sessione in presenza oppure su <a href="http://exam.net">exam.net</a>.
