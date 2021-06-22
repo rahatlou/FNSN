@@ -54,82 +54,6 @@
 				<li>III prova : 14 maggio 2021</li>
 				<li>IV prova : 11 giugno </li>
 			</ol>
-
-<?php /*
-
-			<h2 class="title">Modalita` di esame e di esoneri durante l'emergenza COVID-19</h2>
-			<p>Data l’emergenza COVID-19 e le lezioni erogate solo in via telematica, e senza la possibilità di fare prove scritte come gli anni passati, le queste sono le modalità ed i criteri di valutazione per l’esame di questo corso .</p>
-
-			<p>Tale procedura verra` seguita fino nuove disposizioni di ateneo.</p>
-
-		<ul>
-			<li> Ci saranno 2 prove in itinere durante l’orario di lezione nei giorni 24/4 e 12/6.
-				Le prove si svolgono da remoto utilizzando google classroom.</li>
-				<li><font color=red>Le prove sono state annullate a causa di diversi studenti che hanno svolto la
-					prova insieme in diretta.</font></li>
-			<ul>
-			<li> Gli studenti riceveranno il testo delle domande alle 12:15 nei
-			giorni indicati</li>
-			<li> la soluzione dovrà essere caricata come spiegato nel testo,
-			usando il modulo google sulla piattaforma della Sapienza </li>
-			<li> il voto finale della prova verrà calcolato in base alla
-			distribuzione dei voti ottenuti, rinormalizzando il
-			punteggio grezzo</li>
-		</ul>
-			<!--li> Il voto dell’esonero costituisce 20% del voto finale dell’esame</li-->
-			<li> Non ci sono prove scritte </li>
-			<li> Durante le prove d’esame negli appelli di Giugno e Luglio, verrà
-			chiesto allo studente o alla studentessa di svolgere un esercizio
-			numerico dal vivo in circa 20 min</li>
-			<li> L’esito positivo di questo esercizio permette di proseguire con la prova orale</li>
-			<li> Nel caso di esito negativo sarà possibile sostenere l’esame all’appello successivo</li>
-			<li> La prova orale verterà sugli argomenti del corso come dettagliato sul sito del corso</li>
-			<li> Il voto finale della prova sarà dato dalla somma di</li>
-			<ol>
-			<!--li> media agli esoneri x 20%</li-->
-			<li> voto dell’esercizio svolto durante la prova d’esame x 50%</li>
-			<li> voto della prova orale sul programma x 50%</li>
-		</ol>
-
-			<li> il voto dell’esonero è valido fino all’appello di Febbraio 2021 anche in caso di</li>
-			<ul>
-			<li> esito negativo dell’esercizio</li>
-			<li> esito negativo dell’orale</li>
-			<li> rinuncia al voto dopo la prova orale</li>
-		  </ul>
-*/ ?>
-
-
-<?php /*
-		  <p>
-		    Sara` possibile consultare dispense, appunti, e formulari durante le prove
-		    di esonero ma
-		    <b>non si possono portare o/e consultare esercizi svolti</b>.
-		    </p>
-
-		    <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1187315539&single=true">Risultati delle prove di esonero e bonus</a><br>
-		      Voti validi per tutte le sessioni di esame fino a Febbraio 2020. Non validi dopo rifiuto voto orale.</p>
-
-		  <ul>
-		    <li> Primo bonus 2019-04-17: <a href="Didattica/FNSN/Esercizi/20190417_bonus_sol.pdf">testo e soluzioni</a></li>
-		    <li> Primo esonero: venerdi` 3 maggio 2019 <b>ore 16:00</b>:
-		      <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRJq-BLndhFqBupZokMgdZL54Z0Tpjwnb28DGmdhG0Pq1N3Q/viewform?usp=sf_link">Modulo prenotazione entro ore 14:00 di Giovedi` 2 maggio</a>. E` richiesta l'autenticazione tramite il vostro indirizzo email Sapienza.
-		      Potrebbe essere necessario, prima sconnettere il vostro account gmail privato nel browser. -->
-		        Per gli studenti di questo canale la prova avra` inizio alle <b>ore 16:00</b>
-		        in <b>Aula Amaldi</b>. La durata della prova sara` di 2 ore.
-		         (<a href="Didattica/FNSN/Esercizi/20190503-esonero.pdf">testo e soluzioni</a>)
-		         (<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=2132548607&single=true">Risultati</a>)
-
-		    </li>
-		    <li> Secondo bonus 2019-05-31: consegna dell soluzione individuale e cartacea il giorno 7/6 a lezione oppure all'esonero.
-		      (<a href="Didattica/FNSN/Esercizi/20190531_bonus-v2.pdf">pdf</a>) (<a href="Didattica/FNSN/Esercizi/20190531_bonus_sol.pdf">pdf con soluzioni</a>)<br>
-		       <b>Errata corrige (03/06)</b>: il testo dell’esercizio 1 è stato aggiornato aggiungendo la distanza fra una stazione spettrometrica
-		       e la successiva (1 metro). (<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=1233151116&single=true">risultati </a>)
-		    </li>
-		    <li> Secondo esonero: venerdi` 7 giugno 2019, inizio ore 15:30 in Aula Amaldi (solo per questo canale) (<a href="Didattica/FNSN/Esercizi/20190607-esonero.pdf">pdf con soluzioni</a>)
-		    (<a href="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQZYHuGJJVvoO5BOHtwY8tqu7aKRi9WG0D18V-AW5Ecnvh3xrzN_-I5jJpX8bySplBbnkbi5ptrDfzF/pubhtml?gid=929776904&single=true">risultati</a>)</li>
-		  </ul>
- */ ?>
 		</div>
 
 
@@ -140,13 +64,37 @@
 	</p>
 
 
-
-<?php /*
-	<p> <a href="https://docs.google.com/document/d/1H-NFc5shVc6bVdUwWP-WaGsehikJHadOtNB4scLzmoE/edit?usp=sharing">Regolamento per l'esame</a>
-	del corso di Fisica Nucleare e Subnucleare, A.A. 2018-19</p>
-*/ ?>
 	  <ul>
-			<li><h2>Appello 18 Giugno 2021</h2>
+			<li>
+				<h2>Appello 2 Luglio 2021</h2>
+				<p> Le prove sono in presenza tranne per chi ha chiesto di poterla svolgere da remoto.
+					Le prove si svolgeranno nelle seguenti date accordate con gli studenti.
+					(<a href="">calendario delle prove</a>)</p>
+					<ul>
+						<li> 2/7 ore 9-15, Aula Conversi</li>
+						<li>8/7 ore 9-15, Aula Rasetti</li>
+						<li>8/7 ore 9-16, Aula Rasetti</li>
+						<li>14/7 ore 9-15, Aula Conversi </li>
+						<li>15/7 ore 9-14, Aula 8 (se necessario)</li>
+						<li>26/7 ore 9-15, Aula Rasetti </li>
+						<li>27/7 ore 9-15, Aula Rasetti (se necessario)</li>
+          </ul>
+<p>Coloro che non hanno sostenuto o superato le prove in itinere, o intendono migliorare il proprio voto dovranno svolgere un esercizio
+	nei primi 30 min della sessione in presenza oppure su <a href="http://exam.net">exam.net</a>.
+	Solo gli studenti che superano questa prova oppure gia` esonerati sosterranno la prova orale che si svolgera` secondo il calendario pubblicato.
+</p>
+
+				<ul>
+						<li>Al termine delle prenotazioni, gli studenti prenotati verranno contattati per indicare la propria prefernza per la data.</li>
+						<li>Vi ricordo di prenotarvi <b>in tempo</b> su prodigit per l'esame in presenza</li>
+					<li>Per le prove da remoto, gli studenti sono pregati di fare le prove tecniche  per la connessione audio/video con meet in anticipo.
+							Per la discussione orale si puo` inquadrare un foglio oppure usare un tablet. Si consiglia di usare una penna con la punta grossa per
+							facilitare la visione.</li>
+				</ul>
+      </li>
+
+			<li>
+				<h2>Appello 18 Giugno 2021</h2>
 				<p> Le prove sono in presenza tranne per chi ha chiesto di poterla svolgere da remoto.
 					Le prove si svolgeranno nelle seguenti date accordate con gli studenti.
 					(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSsen83LDUzUb93PtfxNevIpcp9rpz0UMkRdgNWl6M3mJEGoFhwJ6prHpdghuXQtqnTBLPE4DOpXNOD/pubhtml?gid=351036967&single=true">calendario delle prove</a>)</p>
