@@ -69,15 +69,14 @@
 				<h2>Appello 2 Luglio 2021</h2>
 				<p> Le prove sono in presenza tranne per chi ha chiesto di poterla svolgere da remoto.
 					In base al numero di prenotazioni, le prove si svolgeranno nelle seguenti date accordate con gli studenti.
-					(<a href="">calendario delle prove</a>)</p>
+					(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTbF1tjwJqhcJq4A1iPt4x7QP4IGN91XsI532_4QhMJjkOFfnwkHEU8NbEYWcwR5TH-XiQB0pgSFbN/pubhtml?gid=387710703&single=true">calendario delle prove</a>)</p>
 					<ul>
-						<li> 2/7 ore 9-15, Aula Conversi</li>
-						<li>8/7 ore 9-15, Aula Rasetti</li>
+						<li>2/7 ore 9-15, Aula Conversi</li>
 						<li>9/7 ore 9-16, Aula Rasetti</li>
 						<li>14/7 ore 9-15, Aula Conversi </li>
-						<!--li>15/7 ore 9-14, Aula 8 (se necessario)</li-->
+						<li>15/7 ore 9-14, Aula 8</li>
 						<li>26/7 ore 9-15, Aula Rasetti </li>
-						<!--li>27/7 ore 9-15, Aula Rasetti (se necessario)</li-->
+						<li>27/7 ore 9-15, Aula Rasetti </li>
           </ul>
 <p>Coloro che non hanno sostenuto o superato le prove in itinere, o intendono migliorare il proprio voto dovranno svolgere un esercizio
 	nei primi 30 min della sessione in presenza oppure su <a href="http://exam.net">exam.net</a>.
