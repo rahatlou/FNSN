@@ -65,6 +65,36 @@
 
 
 	  <ul>
+
+			<li>
+				<h2>Appello 3 Settembre 2021</h2>
+				<p> Le prove sono in presenza. Chi avesse bisongo di svolgere l'esame a distanza e` pregato di contattarmi entro 1/9/2021.
+
+					<p>Coloro che non hanno sostenuto o superato le prove in itinere, o intendono migliorare il proprio voto dovranno svolgere un esercizio in 45 min.
+						Solo gli studenti che superano questa prova oppure gia` esonerati sosterranno la prova orale.
+					</p>
+
+        <p>La prova scritta di 45 min per tutte le persone prenotate si svolgera` il giorno 3/9/2021 in Aula 3, Edificio Fermi (CU033)</p>
+
+        <p>Il calendario delle prove orali verra` definito in base al numero di prenotazioni nei seguenti giorni:
+					<ul>
+						<li>6/9 ore 9-16, Aula Conversi, Edificio Marconi</li>
+						<li>9/9 ore 9-16, Aula Careri, Edificio Marconi</li>
+						<li>10/9 ore 9-14, Aula 8, Edificio Fermi </li>
+						<li>13/9 ore 9-16, Aula Rasetti, Edificio Marconi</li>
+          </ul>
+
+					<p>Al termine delle prenotazioni, le persone prenotate verranno contattate per indicare la propria prefernza per la data dell'orale.</p>
+						<ul>
+							<li>Vi ricordo di prenotarvi <b>in tempo</b> su prodigit per l'esame in presenza</li>
+
+					<li>Per eventuali prove da remoto (motivate), siete pregati/e di fare le prove tecniche  per la connessione audio/video con meet in anticipo.
+							Per la discussione orale si puo` inquadrare un foglio oppure usare un tablet. Si consiglia di usare una penna con la punta grossa per
+							facilitare la visione.</li>
+				</ul>
+      </li>
+
+
 			<li>
 				<h2>Appello 2 Luglio 2021</h2>
 				<p> Le prove sono in presenza tranne per chi ha chiesto di poterla svolgere da remoto.
