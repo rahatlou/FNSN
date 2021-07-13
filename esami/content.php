@@ -78,7 +78,7 @@
 
         <p>Il calendario delle prove orali verra` definito in base al numero di prenotazioni nei seguenti giorni:
 					<ul>
-						<li>6/9 ore 9-16, Aula Conversi, Edificio Marconi</li>
+						<li>6/9 ore 9-16, Aula Rasetti, Edificio Marconi</li>
 						<li>9/9 ore 9-16, Aula Careri, Edificio Marconi</li>
 						<li>10/9 ore 9-14, Aula 8, Edificio Fermi </li>
 						<li>13/9 ore 9-16, Aula Rasetti, Edificio Marconi</li>
