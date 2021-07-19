@@ -1,6 +1,6 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 9 Jun 2021</h3>
+<h3 class=h3sidebar>Last update: 19 Jul 2021</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -26,7 +26,7 @@
   <h2>Libri e referenze utili</h2>
   <div style="height: 400px; overflow: auto">
   <ul>
-    <li>R. Paramatti, <a href="http://www.roma1.infn.it/cms/ric/cinematica.pdf">Dispense di cinematica relativistica</a></li>
+    <li>R. Paramatti, <a href="http://cern.ch/ric/cinematica.pdf">Dispense di cinematica relativistica</a></li>
     <li>D. Griffiths, <a href="https://www.wiley.com/en-us/Introduction+to+Elementary+Particles+%2C+2nd%2C+Revised+Edition-p-9783527406012">Introduction to Elementary Particles , 2nd Ed.</a></li>
     <li>C. Bertulani, <a href="https://press.princeton.edu/titles/8455.html">Nuclear Physics in a Nutshell</a></li>
     <li>A. Das and T. Ferbel, <a href="https://www.worldscientific.com/worldscibooks/10.1142/5460">Introduction to Nuclear and Particle Physics, 2nd ed.</a></li>
