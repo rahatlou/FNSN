@@ -105,8 +105,8 @@
 						<li>9/7 ore 9-16, Aula Rasetti</li>
 						<li>14/7 ore 9-15, Aula Conversi </li>
 						<li>15/7 ore 9-14, Aula 8</li>
-						<li>26/7 ore 9-15, Aula Rasetti </li>
-						<li>27/7 ore 9-15, Aula Rasetti </li>
+						<li>26/7 ore 9-15, <a href="https://meet.google.com/gpa-ytim-bpf">Google meet: gpa-ytim-bbf</a> </li>
+						<li>27/7 ore 9:30-15, Aula Rasetti </li>
           </ul>
 <p>Coloro che non hanno sostenuto o superato le prove in itinere, o intendono migliorare il proprio voto dovranno svolgere un esercizio
 	nei primi 30 min della sessione in presenza oppure su <a href="http://exam.net">exam.net</a>.
