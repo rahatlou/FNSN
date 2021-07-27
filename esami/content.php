@@ -83,9 +83,12 @@
 						<li>10/9 ore 9-14, Aula 8, Edificio Fermi </li>
 						<li>13/9 ore 9-16, Aula Rasetti, Edificio Marconi</li>
           </ul>
-
-					<p>Al termine delle prenotazioni, le persone prenotate verranno contattate per indicare la propria prefernza per la data dell'orale.</p>
-						<ul>
+        </p>
+				<p>Al termine delle prenotazioni, le persone prenotate potranno indicare la propria prefernza per la data dell'orale:
+					   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUztKVQWv7ILU-Is7tx4sRqUvszeyfvLyeyb8niTo8i2iNGA/closedform">preferenza per l'orale</a>.
+					    Il modulo sara` attivo dal giorno 28 agosto alle 12 fino al 1 settembre alle 18.
+				</p>
+			  <ul>
 							<li>Vi ricordo di prenotarvi <b>in tempo</b> su prodigit per l'esame in presenza</li>
 
 					<li>Per eventuali prove da remoto (motivate), siete pregati/e di fare le prove tecniche  per la connessione audio/video con meet in anticipo.
