@@ -1,6 +1,6 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 13 Jul 2021</h3>
+<h3 class=h3sidebar>Last update: 27 Jul 2021</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -16,7 +16,7 @@
     <ul>  <!-- lista avvisi-->
         <li> 16/6/2021</li>
         <li> 2/7/2021 </li>
-        <li> 6/9/2021  </li>
+        <li> 3/9/2021  </li>
     </ul> <!-- lista avvisi-->
   </div>
   </p>

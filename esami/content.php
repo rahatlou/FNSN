@@ -74,7 +74,7 @@
 						Solo gli studenti che superano questa prova oppure gia` esonerati sosterranno la prova orale.
 					</p>
 
-        <p>La prova scritta di 45 min per tutte le persone prenotate si svolgera` il giorno 3/9/2021 in Aula 3, Edificio Fermi (CU033)</p>
+        <p>La prova scritta di 45 min per tutte le persone prenotate si svolgera` il giorno 3/9/2021 in Aula Conversi, Edificio Marconi (CU013)</p>
 
         <p>Il calendario delle prove orali verra` definito in base al numero di prenotazioni nei seguenti giorni:
 					<ul>
