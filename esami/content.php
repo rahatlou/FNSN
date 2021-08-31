@@ -74,19 +74,24 @@
 						Solo gli studenti che superano questa prova oppure gia` esonerati sosterranno la prova orale.
 					</p>
 
-        <p>La prova scritta di 45 min per tutte le persone prenotate si svolgera` il giorno 3/9/2021 in Aula Conversi, Edificio Marconi (CU013)</p>
+        <p>La prova scritta di 45 min per tutte le persone prenotate si svolgera` <b>in presentza</b>il giorno 3/9/2021 in Aula Conversi, Edificio Marconi (CU013).
+				Per coloro che ne hanno fatto richiesta, la prova scritta da remoto si svolgera` tramite exam.net e la stanza
+			  <a href="https://meet.google.com/gpa-ytim-bpf">Google Meet: gpa-ytim-bpf</a>.</p>
 
-        <p>Il calendario delle prove orali verra` definito in base al numero di prenotazioni nei seguenti giorni:
+        <p>Il calendario delle prove orali verra` definito in base al numero di prenotazioni nei seguenti giorni
+					(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJ19kBRg6o9OxsFVVcz0u_XauPvFX1Xp9QoCmFqn72RV90MV_FtXxw83vdNY215PJwhu1tyHvLid5n/pubhtml?gid=2140129605&single=true"  target="_blank">calendario delle prove</a>)</p>
+:
 					<ul>
-						<li>6/9 ore 9-16, Aula Rasetti, Edificio Marconi</li>
-						<li>9/9 ore 9-16, Aula Careri, Edificio Marconi</li>
-						<li>10/9 ore 9-14, Aula 8, Edificio Fermi </li>
-						<li>13/9 ore 9-16, Aula Rasetti, Edificio Marconi</li>
+						<li>6/9 ore 9:30, Aula Rasetti, Edificio Marconi (da remoto su <a href="https://meet.google.com/gpa-ytim-bpf">Google Meet: gpa-ytim-bpf</a>)</li>
+						<li>9/9 ore 9:30, Aula Careri, Edificio Marconi (da remoto su <a href="https://meet.google.com/gpa-ytim-bpf">Google Meet: gpa-ytim-bpf</a>)</li>
+						<li>13/9 ore 9:30, Aula Rasetti, Edificio Marconi </li>
+						<li>21/9 ore 9:30, Aula Rasetti, Edificio Marconi (da remoto su <a href="https://meet.google.com/gpa-ytim-bpf">Google Meet: gpa-ytim-bpf</a>)</li>
           </ul>
         </p>
 				<p>Al termine delle prenotazioni, le persone prenotate potranno indicare la propria prefernza per la data dell'orale:
 					   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUztKVQWv7ILU-Is7tx4sRqUvszeyfvLyeyb8niTo8i2iNGA/closedform">preferenza per l'orale</a>.
 					    Il modulo sara` attivo dal giorno 28 agosto alle 12 fino al 1 settembre alle 18.
+
 				</p>
 			  <ul>
 							<li>Vi ricordo di prenotarvi <b>in tempo</b> su prodigit per l'esame in presenza</li>
