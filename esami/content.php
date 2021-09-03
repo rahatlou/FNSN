@@ -79,7 +79,8 @@
 			  <a href="https://meet.google.com/gpa-ytim-bpf">Google Meet: gpa-ytim-bpf</a>.</p>
 
         <p>Il calendario delle prove orali verra` definito in base al numero di prenotazioni nei seguenti giorni
-					(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJ19kBRg6o9OxsFVVcz0u_XauPvFX1Xp9QoCmFqn72RV90MV_FtXxw83vdNY215PJwhu1tyHvLid5n/pubhtml?gid=2140129605&single=true"  target="_blank">calendario delle prove</a>)</p>
+					(<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJ19kBRg6o9OxsFVVcz0u_XauPvFX1Xp9QoCmFqn72RV90MV_FtXxw83vdNY215PJwhu1tyHvLid5n/pubhtml?gid=2140129605&single=true"  target="_blank">calendario delle prove</a>),
+				 (<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJ19kBRg6o9OxsFVVcz0u_XauPvFX1Xp9QoCmFqn72RV90MV_FtXxw83vdNY215PJwhu1tyHvLid5n/pubhtml?gid=921169006&single=true">Risultati prova scritta</a>)</p>
 :
 					<ul>
 						<li>6/9 ore 9:30, Aula Rasetti, Edificio Marconi (da remoto su <a href="https://meet.google.com/gpa-ytim-bpf">Google Meet: gpa-ytim-bpf</a>)</li>
