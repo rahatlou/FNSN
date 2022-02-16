@@ -1,6 +1,6 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 7 Feb 2022</h3>
+<h3 class=h3sidebar>Last update: 16 Feb 2022</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -13,10 +13,11 @@
   <p>
   <h2>Date Appelli</h2>
   <div style="height: 300px; overflow: auto">
+    <a href="https://www.phys.uniroma1.it/fisica/didattica/corsilauree/esami-calendario">calendario esami del Dipartimento</a>
     <ul>  <!-- lista avvisi-->
-        <li> 16/6/2021</li>
-        <li> 2/7/2021 </li>
-        <li> 3/9/2021  </li>
+        <li> 21/6/2022 (scritto)</li>
+        <li> 7/7/2022 (scritto)</li>
+        <li> 5/9/2022  (scritto)</li>
     </ul> <!-- lista avvisi-->
   </div>
   </p>

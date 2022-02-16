@@ -5,54 +5,24 @@
 
 		<div class="entry">
 			<h2 class="title">Modalita` d'esame</h2>
-      <p>Considerata l'emergenza pandemica non sono previste prove scritte con tutti gli studenti in presenza.</p>
-      <ul>
-			<li>La prova d'esame consiste in una parte di esercizi (10 punti) e la discussione orale (20 punti).</li>
-		  <li>Si accede alla prova orale con un punteggio >= 5 agli esercizi</li>
-		</ul>
+      <p>L'esame consiste in una prova scritta ed una orale.
+				Si puo` sostnere la prova orale con un voto minimo di 18/30 alla prova scritta.
+			</p>
 
-    <p>Per ciascuno appello d'esame gli studenti prenotati saranno distribuiti in diversi giorni.</p>
-		<ul>
-		  <li>Ciascun giorno, ci sara` un esercizio da svolgere in 20 min dagli studenti di quel giorno</li>
-		  <li>Gli studenti con un punteggio minimo di 5 punti saranno ammessi alla prova orale</li>
-	  </ul>
 
 
 			<h2 class="title">Prove in itinere</h2>
+			<p>Ci sara` una prova in itinere per i 3 canali. La data e` in via di definizione.</p>
 			<p>Le prove in itinere servono per poter accedere alla prova orale senza
 			dover fare l'esercizio scritto. Per far cio` sara` necessario aver
 			sostenuto tutte e 4 le prove in itinere e aver ottenuto una media >= 5.</p>
 
-			<p>Le 4 prove in itinere (20min ciascuna) si svolgeranno durante l'orario di lezione
-				a partire	da fine marzo. Le date verranno concordate con gli studenti e comunicate entro meta` marzo.
-				Le prove si svolgeranno tramite la piattaforma exam.net e google Meet, e in presenza per coloro che
-				saranno in aula. </p>
-				<ol>
-					<li>Ciascuna prova vale 10 punti</li>
-					<li>il voto sara` calcolato come la media delle 4 prove sostenute</li>
-					<li>chi ottiene un voto >=6 avra` un bonus di 3 punti. Ad esempio chi ottiene una media
-						  di 6.5 sulle 4 prove, avra` un voto finale di 6.5+3=9.5 per sostenere la prova orale.</li>
-					<li>Il punteggio ottenuto e` valido per sostenere la prova orale fino al febbraio 2022. </li>
-				</ol>
 
-			<p>Gli studenti possono usare il punteggio ottenuto in queste prove per non fare l'esercizo durante gli appelli
-				 d'esame. E` possibile rinunciare al voto delle prove in itinere e
-				 fare l'esercizio prima della discussione orale. </p>
-
-			<p>Il voto delle prove in itinere non e` piu` valido quando
-				<ul>
-				  <li>Non viene superata la prova orale</li>
-				  <li>si rinuncia al voto ottenuto alla prova orale </li>
-					<li>si sostiene un esercizio durante uno qualsiasi degli appelli</li>
-			  </ul>
-			</p>
 			<h3 class="title">Date Prove in itinere</h3>
 
 			<ol>
-			  <li>I prova: 26 marzo 2021</li>
-				<li>II prova : 23 aprile 2021</li>
-				<li>III prova : 14 maggio 2021</li>
-				<li>IV prova : 11 giugno </li>
+			  <li>Aprile 2022</li>
+
 			</ol>
 		</div>
 
@@ -66,6 +36,7 @@
 
 	  <ul>
 
+<?php /*
 			<li>
 				<h2>Appello 7 Feb 2022</h2>
 				<p> La prova scritta avra` inizio il giorno 7 Febbraio 2022 alle ore 10:00 in Aula 3, Edificio Fermi.
@@ -407,6 +378,8 @@ trovano a questa pagina: <a href="https://www.phys.uniroma1.it/fisica/archiviono
 	A causa del blocco delle attivita` didattiche il giorno 27 maggio,
 	la prova scritta dell'appello straordinario avra` luogo il giorno
 	30 maggio alle ore 14 in Aula 6.</li>
+	*/?>
+
 	  </ul>
 
 	</div> <!-- entry -->
