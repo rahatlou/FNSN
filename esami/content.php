@@ -67,6 +67,15 @@
 	  <ul>
 
 			<li>
+				<h2>Appello 7 Feb 2022</h2>
+				<p> La prova scritta avra` inizio il giorno 7 Febbraio 2022 alle ore 10:00 in Aula 3, Edificio Fermi.
+                                </p>
+                                <p>Non sono previsti collegamenti da remoto. Chi avesse problemi per la presenza per motivi legati al COVID ed alla quarantena
+                 e` pregato di contattarmi tempestivamente.</p>
+                 <p>Le prove orali si svolgeranno nei giorni 9 e 10 febbraio e il calendario sara` definito in base al numero di studenti.</p>
+                 <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR4jP4iY_ClMU8v_5fHL7OjfDCr0Bsik6O-5LcqWvtgs3cpK47TRpL9vLihEifAv-i6QdxT0nCIm2fJ/pubhtml?gid=0&single=true">Risultati della prova scritta del 7/2 e il calendario delle prove orali</a></p>
+
+
 				<h2>Appello 3 Settembre 2021</h2>
 				<p> Le prove sono in presenza. Chi avesse bisongo di svolgere l'esame a distanza e` pregato di contattarmi entro 1/9/2021.
 
