@@ -1,22 +1,24 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 19 Jul 2021</h3>
+<h3 class=h3sidebar>Last update: 16 Feb 2022</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
 
 <p>
-<a href="https://classroom.google.com/c/Mjc4MTY5NzM0NTkx?cjc=xpocvet"  target="_blank">Google classroom: xpocvet</a><br>
-<a href="https://calendar.google.com/calendar/u/1?cid=Y19jbGFzc3Jvb21iZTM2OTMyOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">Calendario Google del corso</a></br>
-<a href="https://meet.google.com/gpa-ytim-bpf">Google Meet: gpa-ytim-bpf</a><br>
+<a href="https://classroom.google.com/c/NDQ3ODY3ODEyMTE0?cjc=d6x4u3i"  target="_blank">Google classroom: d6x4u3i</a><br>
+<a href="">Calendario Google del corso</a></br>
+<a href="">Google Meet: </a><br>
 <a href="index.php?link=Didattica&sublink=FNSN/esami">Esami ed Esoneri</a></p>
-<p>Sito anni passati: <a href="index.php?link=Didattica&sublink=2020.FNSN">2020</a>,
+<p>Sito anni passati: <a href="index.php?link=Didattica&sublink=2021.FNSN">2021</a>,
+  <a href="index.php?link=Didattica&sublink=2020.FNSN">2020</a>,
 <a href="index.php?link=Didattica&sublink=2019.FNSN">2019</a></p>
 
 <h2>Orario Ricevimento</h2>
   <ul>
-    <li>Docente: Mercoledi` 13:30-15:30, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 202-A, Piano 2, Edificio Marconi (CU013)</a> (<a href="https://meet.google.com/gpa-ytim-bpf">Meet: gpa-ytim-bpf</a>)</li>
-    <li>Francesco Pandolfi: Venerdi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 245-b, Piano 2, Edificio Marconi (CU013)</a> </li>
+    <li>Docente:
+      <!--Mercoledi` 13:30-15:30, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 202-A, Piano 2, Edificio Marconi (CU013)</a> (<a href="https://meet.google.com/gpa-ytim-bpf">Meet: gpa-ytim-bpf</a>)--></li>
+    <li>Dr. Francesco Pandolfi: <!--Venerdi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 245-b, Piano 2, Edificio Marconi (CU013)</a> --></li>
   </ul>
 
 <div class="post news">

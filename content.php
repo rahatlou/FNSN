@@ -1,24 +1,26 @@
 <div id="content">
 	<h1>Fisica Nucleare e Subnucleare</h1>
-  <h3>Canale MF-Z, A.A. 2020-21</h3>
+  <h3>Canale MF-Z, A.A. 2021-22</h3>
 
 	<div class="post news-cont">
 	   <?php include("Didattica/FNSN/news.html") ?>
 	</div>
 
 	<div class="post">
-		<p><b>Il corso dell'anno accademico 2020/21 inizia il giorno mercoledi` 24 Febbraio 2021</b>
+		<p><b>Il corso dell'anno accademico 2020/21 inizia il giorno mercoledi` 23 Febbraio 2021</b>
+<?php
+/* 
 			<p>Le lezioni  si svolgeranno in modalita` mista come previsto dall'ateneo.
 				 Tutte le lezioni saranno trasmesse in diretta sulla piattaforma Google meet.</p>
-
+*/ ?>
 				 <p>Per seguire le lezioni in presenza e` richiesta la prenotazione su
 					 <a href="https://prodigit.uniroma1.it/">prodigit</a>.
 					 Sara` effettutato l'appello all'inizio di ogni lezione.</p>
 
 			<p>Tutte le informazioni ed avvisi relativi alle videolezioni verranno comunicati tramite Google Classroom.
 				Tutti gli studenti di questo canale devono registrarsi su
-					<a href="https://classroom.google.com/c/Mjc4MTY5NzM0NTkx?cjc=xpocvet"  target="_blank">google classroom</a> per la classe con il codice
-					<a href="https://classroom.google.com/c/Mjc4MTY5NzM0NTkx?cjc=xpocvet"  target="_blank">xpocvet</a>.
+					<a href="https://classroom.google.com/c/NDQ3ODY3ODEyMTE0?cjc=d6x4u3i"  target="_blank">google classroom</a> per la classe con il codice
+					<a href="https://classroom.google.com/c/NDQ3ODY3ODEyMTE0?cjc=d6x4u3i"  target="_blank">d6x4u3i</a>.
 			  La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1.
 			</p>
 
@@ -26,16 +28,15 @@
 <p>Si puo` richiedere l'accesso alla registrazione di singole lezioni tramite questa
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf3SxqXdfrWfspBT7wWdodC2sYLiyN4jlWjnwcFNZJ51V7Xew/viewform?usp=sf_link">google form</a>.</p>
 */?>
-				<p>Il ricevimento si volge tramite Meet nell'orario indicato oppure in presenza per appuntamento.</p>
+				<!--p>Il ricevimento si volge tramite Meet nell'orario indicato oppure in presenza per appuntamento.</p-->
 
 
 	<h2 class="title">Orario Lezioni</h2>
 	<div class="entry">
 			<ul>
-	  	<li> Mercoledi` 8-10, Aula 6 , Edificio Fermi (CU033). Inizio ore 8:30 (90 min senza pausa) </li>
-	  	<li> Venerdi`  12-14, Aula 6 , Edificio Fermi (CU033) </li>
-	  	<li> <b>Dal 8/4 al 13/5 (inclusi)</b>: Giovedi`  12-14, Aula 6 , Edificio Fermi (CU033)</li>
-			<li>Dal 17/3 e fino al 31/3  le lezioni si svolgono per via telematica.</li>
+	  	<li> Mercoledi` 8-10, Aula 7 , Edificio Fermi (CU033)<!--. Inizio ore 8:30 (90 min senza pausa)--> </li>
+	  	<li> Giovedi`  11-12, Aula 7 , Edificio Fermi (CU033) </li>
+	  	<li> Venerdi`  13-15, Aula 7 , Edificio Fermi (CU033) </li>
 		</ul>
 	</div>
 
@@ -45,6 +46,10 @@
 	<!-- begin lectures -->
 	<ul>
 
+	<li>
+	Lec 01, 24/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
+
+<?php /*
 	<li>
 	Lec 01, 24/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
 	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-02-24.pdf" target=blank_>lavagna</a>)
@@ -340,7 +345,7 @@ Esperimento di Conversi.
 Lec 35, 11/6: IV prova in itinere.
 </li>
 
-
+*/?>
 
 
 
