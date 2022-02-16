@@ -7,8 +7,8 @@
 
 <p>
 <a href="https://classroom.google.com/c/NDQ3ODY3ODEyMTE0?cjc=d6x4u3i"  target="_blank">Google classroom: d6x4u3i</a><br>
-<a href="">Calendario Google del corso</a></br>
-<a href="">Google Meet: </a><br>
+<a href="https://calendar.google.com/calendar/u/0/r?cid=c_classroom0d72f46f@group.calendar.google.com">Calendario Google del corso</a></br>
+<a href="">Google Meet/Zoom: </a><br>
 <a href="index.php?link=Didattica&sublink=FNSN/esami">Esami ed Esoneri</a></p>
 <p>Sito anni passati: <a href="index.php?link=Didattica&sublink=2021.FNSN">2021</a>,
   <a href="index.php?link=Didattica&sublink=2020.FNSN">2020</a>,

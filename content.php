@@ -7,9 +7,9 @@
 	</div>
 
 	<div class="post">
-		<p><b>Il corso dell'anno accademico 2020/21 inizia il giorno mercoledi` 23 Febbraio 2021</b>
+		<p><b>Il corso inizia il giorno mercoledi` 23 Febbraio 2022</b>
 <?php
-/* 
+/*
 			<p>Le lezioni  si svolgeranno in modalita` mista come previsto dall'ateneo.
 				 Tutte le lezioni saranno trasmesse in diretta sulla piattaforma Google meet.</p>
 */ ?>
