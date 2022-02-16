@@ -47,7 +47,7 @@
 	<ul>
 
 	<li>
-	Lec 01, 24/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
+	Lec 01, 23/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
 
 <?php /*
 	<li>
