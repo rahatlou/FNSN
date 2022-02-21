@@ -38,7 +38,7 @@
 	  	<li> Giovedi`  11-12, Aula 7 , Edificio Fermi (CU033) </li>
 	  	<li> Venerdi`  13-15, Aula 7 , Edificio Fermi (CU033) </li>
 		</ul>
-		<p>Come dalle <a href="https://www.uniroma1.it/it/notizia/lettera-della-rettrice-sulla-ripresa-delle-attivita-didattiche-dopo-la-pausa-natalizia">disposizione dell'ateneo</a>
+		<p>Come dalle <a href="https://www.uniroma1.it/it/notizia/lettera-della-rettrice-sulla-ripresa-delle-attivita-didattiche-dopo-la-pausa-natalizia">disposizioni dell'ateneo</a>
 		le lezioni saranno <b>prioritariamente in presenza e le strutture didattiche continueranno a garantire da remoto le lezioni per consentire la partecipazione anche degli
 		studenti che non hanno potuto assicurarsi un posto in aula e a coloro che per motivi sanitari non potranno partecipare alle attività didattiche in presenza</b>.</p>
 		<p>La capienza dell'Aula 7 e` di gran lunga superiore al numero di studenti per questo canale. Le persone che necessitano di seguire da remoto per
