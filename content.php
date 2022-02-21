@@ -1,6 +1,6 @@
 <div id="content">
-	<h1>Fisica Nucleare e Subnucleare</h1>
-  <h3>Canale MF-Z, A.A. 2021-22</h3>
+	<h1>Fisica Nucleare e Subnucleare (Canale MF-Z)</h1>
+  <h3>A.A. 2021-22</h3>
 
 	<div class="post news-cont">
 	   <?php include("Didattica/FNSN/news.html") ?>
@@ -38,6 +38,11 @@
 	  	<li> Giovedi`  11-12, Aula 7 , Edificio Fermi (CU033) </li>
 	  	<li> Venerdi`  13-15, Aula 7 , Edificio Fermi (CU033) </li>
 		</ul>
+		<p>Come dalle <a href="https://www.uniroma1.it/it/notizia/lettera-della-rettrice-sulla-ripresa-delle-attivita-didattiche-dopo-la-pausa-natalizia">disposizione dell'ateneo</a>
+		le lezioni saranno <b>prioritariamente in presenza e le strutture didattiche continueranno a garantire da remoto le lezioni per consentire la partecipazione anche degli
+		studenti che non hanno potuto assicurarsi un posto in aula e a coloro che per motivi sanitari non potranno partecipare alle attività didattiche in presenza</b>.</p>
+		<p>La capienza dell'Aula 7 e` di gran lunga superiore al numero di studenti per questo canale. Le persone che necessitano di seguire da remoto per
+		motivi sanitari sono pregate di seganalrmelo <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSH6uvrqZuObgO8reafA0oCJWwtmGRjtqfb1WNb9mT9FXyog/viewform?usp=sf_link">riempendo questo modulo</a>.</p>
 	</div>
 
 	<h2 class="title">Lezioni</h2>
