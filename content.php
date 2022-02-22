@@ -42,7 +42,7 @@
 		le lezioni saranno <b>prioritariamente in presenza e le strutture didattiche continueranno a garantire da remoto le lezioni per consentire la partecipazione anche degli
 		studenti che non hanno potuto assicurarsi un posto in aula e a coloro che per motivi sanitari non potranno partecipare alle attività didattiche in presenza</b>.</p>
 		<p>La capienza dell'Aula 7 e` di gran lunga superiore al numero di studenti per questo canale. Le persone che necessitano di seguire da remoto per
-		motivi sanitari sono pregate di seganalrmelo <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSH6uvrqZuObgO8reafA0oCJWwtmGRjtqfb1WNb9mT9FXyog/viewform?usp=sf_link">riempendo questo modulo</a>.</p>
+		motivi sanitari sono pregate di segnalarmelo <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSH6uvrqZuObgO8reafA0oCJWwtmGRjtqfb1WNb9mT9FXyog/viewform?usp=sf_link">riempendo questo modulo</a>.</p>
 	</div>
 
 	<h2 class="title">Lezioni</h2>
