@@ -48,23 +48,42 @@
 	<h2 class="title">Lezioni</h2>
 	<div class="entry">
 
+		<table style="width:90%">
+		  <tr>
+		    <th style="width:15%"> Data</th>
+		    <th style="width:70%">Argomento</th>
+		    <th style="width:15%">Materiale</th>
+		  </tr>
+		  <tr>
+		    <td>2022-02-23, 1h </td>
+		    <td>Introduzione. Interazioni fondamentali. Particelle elementari. urti e decadimenti.</td>
+		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-02-23-lezione.pdf" target=blank_>lavagna</a></td>
+      </tr>
+
+			<tr>
+				<td>2022-02-24, 1h</td>
+		    <td>Unita` naturali. Scale di energia. Limite relativistico e quantistico in urti e decadimenti.</td>
+		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-02-24-lezione.pdf" target=blank_></a></td>
+		  </tr>
+
+			<tr>
+				<td>2022-02-25, 2h</td>
+		    <td>Dilatazione temporale e contrazione delle lunghezze.
+				Trasformazioni di Lorentz. Calcolo di &beta; e &gamma;.(Dispense relativita)</td>
+		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-02-25-eserctazione.pdf" target=blank_></a></td>
+		  </tr>
+
+		</table>
+
+
+
+
 	<!-- begin lectures -->
 	<ul>
 
-	<li>
-	Lec 01, 23/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
 
 <?php /*
-	<li>
-	Lec 01, 24/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-02-24.pdf" target=blank_>lavagna</a>)
-	</li>
-
-	<li>
-	Lec 02, 26/2: Dilatazione temporale e contrazione delle lunghezze.
-	Trasformazioni di Lorentz. Calcolo di &beta; e &gamma;.(Dispense relativita)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-02-26.pdf" target=blank_>pdf</a>)
- </li>
+<li>
 
  <li>
    Lec 03, 3/3: Esperimento di Michelson-Morley. Il tempo proprio. Definizione di energia e
