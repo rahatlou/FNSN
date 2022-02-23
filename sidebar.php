@@ -12,7 +12,7 @@
 <a href="index.php?link=Didattica&sublink=FNSN/esami">Esami ed Esoneri</a></p>
 <p>Sito anni passati: <a href="index.php?link=Didattica&sublink=2021.FNSN">2021</a>,
   <a href="index.php?link=Didattica&sublink=2020.FNSN">2020</a>,
-<a href="index.php?link=Didattica&sublink=2019.FNSN">2019</a></p>
+<!--a href="index.php?link=Didattica&sublink=2019.FNSN">2019</a--></p>
 
 <h2>Orario Ricevimento</h2>
   <ul>
