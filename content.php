@@ -63,7 +63,7 @@
 			<tr>
 				<td>2022-02-24, 1h</td>
 		    <td>Unita` naturali. Scale di energia. Limite relativistico e quantistico in urti e decadimenti.</td>
-		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-02-24-lezione.pdf" target=blank_></a></td>
+		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-02-24-lezione.pdf" target=blank_>lavagna</a></td>
 		  </tr>
 
 			<tr>
