@@ -70,7 +70,7 @@
 				<td>2022-02-25, 2h</td>
 		    <td>Dilatazione temporale e contrazione delle lunghezze.
 				Trasformazioni di Lorentz. Calcolo di &beta; e &gamma;.(Dispense relativita)</td>
-		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-02-25-eserctazione.pdf" target=blank_></a></td>
+		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-02-25-eserctazione.pdf" target=blank_>pdf</a></td>
 		  </tr>
 
 		</table>
