@@ -17,8 +17,8 @@
 <h2>Orario Ricevimento</h2>
   <ul>
     <li>Docente:
-      <Mercoledi` 13:30-15:30, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 241, Piano 2, Edificio Marconi (CU013)</a> oppure per appuntamento</li>
-    <li>Dr. Francesco Pandolfi: <!--Venerdi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 245-b, Piano 2, Edificio Marconi (CU013)</a> --></li>
+      Mercoledi` 13:30-15:30, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 241, Piano 2, Edificio Marconi (CU013)</a> oppure per appuntamento</li>
+    <li>Dr. Francesco Pandolfi: Venerdi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 245-b, Piano 2, Edificio Marconi (CU013)</a></li>
   </ul>
 
 <div class="post news">
