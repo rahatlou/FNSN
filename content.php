@@ -34,7 +34,7 @@
 	<h2 class="title">Orario Lezioni</h2>
 	<div class="entry">
 			<ul>
-	  	<li> Mercoledi` 8-10, Aula 7 , Edificio Fermi (CU033)<!--. Inizio ore 8:30 (90 min senza pausa)--> </li>
+	  	<li> Mercoledi` 8-10, Aula 7 , Edificio Fermi (CU033). Inizio ore 8:30 (90 min senza pausa) </li>
 	  	<li> Giovedi`  11-12, Aula 7 , Edificio Fermi (CU033) </li>
 	  	<li> Venerdi`  13-15, Aula 7 , Edificio Fermi (CU033) </li>
 		</ul>
@@ -76,7 +76,7 @@
 			<tr>
 			  <td>2022-03-02, 2h </td>
 			  <td>
-					Esperimento di Michelson-Morley e le trasformazioni di Lorentz. Energia ed impulso delle particelle relativistiche. 
+					Esperimento di Michelson-Morley e le trasformazioni di Lorentz. Energia ed impulso delle particelle relativistiche.
 					Quadrimpulso. Particelle di massa nulla. Antiparticelle. Definizione di adroni, mesoni, barioni, leptoni.
 				</td>
 				<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-02-lezione.pdf" target=blank_>lavagna</a></td>
