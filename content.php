@@ -55,7 +55,7 @@
 		    <th style="width:15%">Materiale</th>
 		  </tr>
 		  <tr>
-		    <td>2022-02-23, 1h </td>
+		    <td>2022-02-23, 2h </td>
 		    <td>Introduzione. Interazioni fondamentali. Particelle elementari. urti e decadimenti.</td>
 		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-02-23-lezione.pdf" target=blank_>lavagna</a></td>
       </tr>
