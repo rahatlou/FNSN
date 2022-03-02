@@ -73,10 +73,26 @@
 		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-02-25-esercitazione.pdf" target=blank_>pdf</a></td>
 		  </tr>
 
+			<tr>
+			  <td>2022-03-02, 2h </td>
+			  <td>
+					Esperimento di Michelson-Morley e le trasformazioni di Lorentz. Energia ed impulso delle particelle relativistiche. 
+					Quadrimpulso. Particelle di massa nulla. Antiparticelle. Definizione di adroni, mesoni, barioni, leptoni.
+				</td>
+				<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-02-lezione.pdf" target=blank_>lavagna</a></td>
+			</tr>
+
 		</table>
 
 
+<!--
+<tr>
+  <td>2022- </td>
+  <td> </td>
+	<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-NN-MM-lezione.pdf" target=blank_>pdf</a></td>
+</tr>
 
+-->
 
 	<!-- begin lectures -->
 	<ul>
