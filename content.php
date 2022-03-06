@@ -78,9 +78,33 @@
 			  <td>
 					Esperimento di Michelson-Morley e le trasformazioni di Lorentz. Energia ed impulso delle particelle relativistiche.
 					Quadrimpulso. Particelle di massa nulla. Antiparticelle. Definizione di adroni, mesoni, barioni, leptoni.
+					(Dispense relativita`, Griffiths Cap 3)
 				</td>
 				<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-02-lezione.pdf" target=blank_>lavagna</a></td>
 			</tr>
+
+			<tr>
+			  <td>2022-03-03, 1h </td>
+			  <td>Decadimento in due corpi. (dispense relativita`) </td>
+				<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-03-esercitazione.pdf" target=blank_>pdf</a></td>
+			</tr>
+
+			<tr>
+			  <td>2022-03-04, 2h </td>
+			  <td>Decadimento &beta; in tre corpi. Decadimento del pione carico. Angolo di apertura nei decadimenti. Sistemi di riferimento.
+				Massa invariante. (dispense relativita`)</td>
+				<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-04-esercitazione.pdf" target=blank_>pdf</a></td>
+			</tr>
+
+			<td>2022-03-09, 2h </td>
+			<td>
+				Decadimenti. Vita media propria delle particelle instabili.
+		    Significato e misura della vita media.
+		    Larghezza di decadimento. Branching ratio.
+		    (Dispense relativita`, Griffiths Cap 3)
+			</td>
+			<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-09-lezione.pdf" target=blank_></a></td>
+		</tr>
 
 		</table>
 
@@ -99,31 +123,8 @@
 
 
 <?php /*
-<li>
 
- <li>
-   Lec 03, 3/3: Esperimento di Michelson-Morley. Il tempo proprio. Definizione di energia e
-   impulso delle particelle relativistiche libere. Massa a riposo.
-   Quadrimpulso e Quadrivelocita`.
-   (Dispense relativita`, Griffiths Cap 3)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-03.pdf" target=blank_>lavagna</a>)
- </li>
 
- <li>
-   Lec 04, 5/3:  Particelle senza massa. Antiparticelle.
-   Decadimenti. Vita media propria delle particelle instabili.
-   Significato e misura della vita media.
-   Larghezza di decadimento. Branching ratio.
-   (Dispense relativita`, Griffiths Cap 3)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-05.pdf" target=blank_>lavagna</a>)
- </li>
-
- <li>
- Lec 05, 10/3:
- Esercizi di cinematica e decadimenti. Decadimenti a due corpi. Decadimento del pione carico. Angolo di apertura nei decadimenti. sistemi di riferimento.
- (dispense relativita`)
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-10.pdf" target=blank_>pdf</a>)
- </li>
 
  <li>
  Lec 06, 12/3:
