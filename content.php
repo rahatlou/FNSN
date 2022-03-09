@@ -101,10 +101,17 @@
 				Decadimenti. Vita media propria delle particelle instabili.
 		    Significato e misura della vita media.
 		    Larghezza di decadimento. Branching ratio.
-		    (Dispense relativita`, Griffiths Cap 3)
+		    (Dispense relativita`, Griffiths Cap 3, Sakurai 5.7)
 			</td>
-			<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-09-lezione.pdf" target=blank_></a></td>
+			<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-09-lezione.pdf" target=blank_>lavagna</a></td>
 		</tr>
+
+		<td>2022-03-10, 1h </td>
+		<td>
+			Larghezza parziale e totale di decadimento. Branching ratio. Distribuzione di Breit-Wigner. Urti.
+		</td>
+		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-10-lezione.pdf" target=blank_></a></td>
+	</tr>
 
 		</table>
 
