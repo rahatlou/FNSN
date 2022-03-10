@@ -78,7 +78,8 @@
 			  <td>
 					Esperimento di Michelson-Morley e le trasformazioni di Lorentz. Energia ed impulso delle particelle relativistiche.
 					Quadrimpulso. Particelle di massa nulla. Antiparticelle. Definizione di adroni, mesoni, barioni, leptoni.
-					(Dispense relativita`, Griffiths Cap 3)
+					Cenni a equazioni di Dirac e di Klein-Gordon.
+					(Dispense relativita`, Griffiths Cap 3 e 7)
 				</td>
 				<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-02-lezione.pdf" target=blank_>lavagna</a></td>
 			</tr>
@@ -108,8 +109,8 @@
 
 		<td>2022-03-10, 1h </td>
 		<td>
-			Larghezza parziale e totale di decadimento. Branching ratio. Distribuzione di Breit-Wigner. Urti.
-			(Dionisi-Longo cap 5; Griffiths Cap 3)
+			Larghezza parziale e totale di decadimento. Branching ratio. Distribuzione di Breit-Wigner.
+			(Dionisi-Longo cap 5; Griffiths Cap 3 e 6)
 		</td>
 		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-10-lezione.pdf" target=blank_></a></td>
 	</tr>
@@ -119,8 +120,12 @@
 		<td>2022-03-16, 2h </td>
 		<td>Esperimenti di diffusione. Definizione operativa di Sezione d'urto. Collisioni a bersaglio fisso.
 	  Coefficiente di assorbimento. Misura della sezione d'urto.
-	 Calcolo della sezione d'urto: esempio della sfera rigida.
+	  Calcolo della sezione d'urto: esempio della sfera rigida.
 	 	Sezione d'urto differenziale e la sua misura.
+		Fasci collidenti e luminosita` istantanea e integrata. Esempio del bosone di Higgs ad LHC.
+		Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
+  	Accettanza e efficienza e numero di eventi osservati. Massa invariante dei prodotti
+	  di decadimento.
 	  (Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)</td>
 		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-16-lezione.pdf" target=blank_></a></td>
 	</tr>
