@@ -112,7 +112,7 @@
 			Larghezza parziale e totale di decadimento. Branching ratio. Distribuzione di Breit-Wigner.
 			(Dionisi-Longo cap 5; Griffiths Cap 3 e 6)
 		</td>
-		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-10-lezione.pdf" target=blank_></a></td>
+		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-10-lezione.pdf" target=blank_>lavagna</a></td>
 	</tr>
 
 
