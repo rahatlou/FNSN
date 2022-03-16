@@ -120,14 +120,9 @@
 		<td>2022-03-16, 2h </td>
 		<td>Esperimenti di diffusione. Definizione operativa di Sezione d'urto. Collisioni a bersaglio fisso.
 	  Coefficiente di assorbimento. Misura della sezione d'urto.
-	  Calcolo della sezione d'urto: esempio della sfera rigida.
-	 	Sezione d'urto differenziale e la sua misura.
-		Fasci collidenti e luminosita` istantanea e integrata. Esempio del bosone di Higgs ad LHC.
-		Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
-  	Accettanza e efficienza e numero di eventi osservati. Massa invariante dei prodotti
-	  di decadimento.
+		Fasci collidenti e luminosita` istantanea e integrata.
 	  (Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)</td>
-		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-16-lezione.pdf" target=blank_></a></td>
+		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-16-lezione.pdf" target=blank_>lavagna</a></td>
 	</tr>
 
 
@@ -155,6 +150,8 @@
 			Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
 	  Accettanza e efficienza e numero di eventi osservati. Massa invariante dei prodotti
 	  di decadimento.
+		Calcolo della sezione d'urto: esempio della sfera rigida.
+	 	Sezione d'urto differenziale e la sua misura.
 
 	  (Dionisi-Longo: cap 3, Griffiths: cap 6)</td>
 		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-17-lezione.pdf" target=blank_></a></td>
