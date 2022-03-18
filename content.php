@@ -126,6 +126,24 @@
 	</tr>
 
 
+	<tr>
+		<td>2022-03-17, 2h </td>
+		<td>Esercizi di cinematica. Decadimento in due corpi. Urti anelastici. Energia di soglia. Impulso di Fermi.
+	  (Dispense relativita`)</td>
+		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-17-esercitazione.pdf" target=blank_>pdf</a></td>
+	</tr>
+
+	<tr>
+		<td>2022-03-18, 2h </td>
+		<td>Esempio del bosone di Higgs ad LHC.
+		Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
+		Esercizi di cinematica. Urti elastici. scattering Compton.
+	  (Dispense relativita`)</td>
+		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-18-esercitazione.pdf" target=blank_></a> 
+    		<a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-18-higgs.pdf" target=blank_>higgs</a>
+   </td>
+	</tr>
+
 
 
 
