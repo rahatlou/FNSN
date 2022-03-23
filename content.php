@@ -137,9 +137,9 @@
 		<td>2022-03-18, 2h </td>
 		<td>Esempio del bosone di Higgs ad LHC.
 		Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
-		Esercizi di cinematica. Urti elastici. scattering Compton.
+		Esercizi di cinematica. Urti elastici: urto con il nucleo e diffusione Compton.
 	  (Dispense relativita`)</td>
-		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-18-esercitazione.pdf" target=blank_></a> 
+		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-18-esercitazione.pdf" target=blank_>pdf</a>, 
     		<a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-18-higgs.pdf" target=blank_>higgs</a>
    </td>
 	</tr>
