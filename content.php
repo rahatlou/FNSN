@@ -139,11 +139,34 @@
 		Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
 		Esercizi di cinematica. Urti elastici: urto con il nucleo e diffusione Compton.
 	  (Dispense relativita`)</td>
-		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-18-esercitazione.pdf" target=blank_>pdf</a>, 
+		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-18-esercitazione.pdf" target=blank_>pdf</a>,
     		<a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-18-higgs.pdf" target=blank_>higgs</a>
    </td>
 	</tr>
 
+
+		<tr>
+			<td>2022-03-23, 2h </td>
+			<td>Esercizi su energia di soglia e sezione d'urto.
+		  (Dispense relativita`)</td>
+			<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-23-esercitazione.pdf" target=blank_>pdf</a></td>
+		</tr>
+
+			<tr>
+				<td>2022-03-24, 1h </td>
+				<td>Sezione d'urto differenziale e la sua misura. Calcolo della sezione d'urto per la sfera rigida.
+			  (Griffiths: cap 3, Dionisi-Longo: cap 6)</td>
+				<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-24-lezione.pdf" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td>2022-03-25, 2h</td>
+		    <td>Particelle alfa: origine e caratteristiche cinematiche.
+		        Diffusione di Rutherford e scoperta del nucleo. Calcolo classico sezione d'urto
+		    (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Rutherford.pdf" target=blank_>pdf</a>)
+		    (Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)</td>
+		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-24.pdf" target=blank_></a></td>
+		 </tr>
 
 
 
@@ -160,29 +183,6 @@
 </tr>
 
 
-
-	<tr>
-		<td>2022-03-17, 1h </td>
-		<td>
-			Fasci collidenti e luminosita` istantanea e integrata. Esempio del bosone di Higgs ad LHC.
-			Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
-	  Accettanza e efficienza e numero di eventi osservati. Massa invariante dei prodotti
-	  di decadimento.
-		Calcolo della sezione d'urto: esempio della sfera rigida.
-	 	Sezione d'urto differenziale e la sua misura.
-
-	  (Dionisi-Longo: cap 3, Griffiths: cap 6)</td>
-		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-17-lezione.pdf" target=blank_></a></td>
-	</tr>
-
-	<tr>
-		<td>2022-03-18, 2h </td>
-		<td>Esercizi di cinematica: Decadimenti, Sistemi di riferimento, e Massa invariante.
-	  (dispense relativita`)</td>
-		<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-18-esercitazione.pdf" target=blank_>pdf</a></td>
-	</tr>
-
-
 -->
 
 	<!-- begin lectures -->
@@ -194,20 +194,6 @@
 
 
 
-
- <li>
- Lec 08, 19/3:
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-19.pdf" target=blank_>pdf</a>)
- </li>
-
- <li>
- Lec 09, 24/3:
- Particelle alfa: origine e caratteristiche cinematiche.
- Diffusione di Rutherford e scoperta del nucleo. Calcolo classico sezione d'urto
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Rutherford.pdf" target=blank_>pdf</a>)
- (Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-24.pdf" target=blank_>lavagna</a>)
-</li>
 
  <li>
  Lec 10, 26/3:
