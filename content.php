@@ -154,14 +154,15 @@
 
 			<tr>
 				<td>2022-03-24, 1h </td>
-				<td>Sezione d'urto differenziale e la sua misura. Calcolo della sezione d'urto per la sfera rigida.
+				<td>Sezione d'urto differenziale e la sua misura. Regola d'oro di Fermi e il calcolo della sezione d'urto.
 			  (Griffiths: cap 3, Dionisi-Longo: cap 6)</td>
-				<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-24-lezione.pdf" target=blank_></a></td>
+				<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-24-lezione.pdf" target=blank_>lavagna</a></td>
 			</tr>
 
 			<tr>
 		    <td>2022-03-25, 2h</td>
-		    <td>Particelle alfa: origine e caratteristiche cinematiche.
+		    <td>Calcolo della sezione d'urto per la sfera rigida.
+					Particelle alfa: origine e caratteristiche cinematiche.
 		        Diffusione di Rutherford e scoperta del nucleo. Calcolo classico sezione d'urto
 		    (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Rutherford.pdf" target=blank_>pdf</a>)
 		    (Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)</td>
