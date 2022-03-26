@@ -163,10 +163,11 @@
 		    <td>2022-03-25, 2h</td>
 		    <td>Calcolo della sezione d'urto per la sfera rigida.
 					Particelle alfa: origine e caratteristiche cinematiche.
-		        Diffusione di Rutherford e scoperta del nucleo. Calcolo classico sezione d'urto
+		        Diffusione di Rutherford e scoperta del nucleo. Calcolo classico sezione d'urto. Calcolo
+						con la regola d'oro di Fermi.
 		    (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Rutherford.pdf" target=blank_>pdf</a>)
 		    (Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)</td>
-		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-24.pdf" target=blank_></a></td>
+		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-24.pdf" target=blank_>lavagna</a></td>
 		 </tr>
 
 
