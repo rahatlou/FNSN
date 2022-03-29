@@ -169,8 +169,21 @@
 						Calcolo con la regola d'oro di Fermi.
 						(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/Rutherford-Fermi.pdf" target=blank_>pdf</a>)
 		    (Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)</td>
-		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-24.pdf" target=blank_>lavagna</a></td>
+		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-25-lezione.pdf" target=blank_>lavagna</a></td>
 		 </tr>
+
+		 <tr>
+		   <td>2022-03-30, 2h</td>
+		   <td>Scoperta del protone e del neutrone. Scoperta dell'elettrone.
+				 Esperimenti di Rutherford, Chadwick, Thompson, e Millikan.
+				 Interazioni nella materia. Calcolo classico di Bohr per la perdita di energia.
+		      (Dionisi-Longo cap 1,2,3)
+			 </td>
+			 <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-30-lezione.pdf" target=blank_></a></td>
+	 </tr>
+
+
+
 
 
 
@@ -207,12 +220,6 @@
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-26.pdf" target=blank_>pdf</a>)
  </li>
 
- <li>
- Lec 11, 31/3:
- Scoperta del protone e del neutrone. Scoperta dell'elettrone. Esperimenti di Rutherford, Chadwick, Thompson, e Millikan.
- (Dionisi-Longo cap 1,2,3)
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-31.pdf" target=blank_>lavagna</a>)
-</li>
 
 <li>
 Lec 12, 7/4:
