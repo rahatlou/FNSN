@@ -14,6 +14,10 @@
   <a href="index.php?link=Didattica&sublink=2020.FNSN">2020</a>,
 <!--a href="index.php?link=Didattica&sublink=2019.FNSN">2019</a--></p>
 
+<p>Programma del corso ed appelli d'esame:
+<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2021/30046/20210916103754/f3f180f6-5ec9-4154-815c-e2f83313823b/68f72759-7d11-41c3-a5c7-c41526bd695e/afc0a6b6-ccbb-4082-95a1-d5566c6aa1c6/0d916120-b464-4599-af0b-34fd24d2ead4?guid_cv=68f72759-7d11-41c3-a5c7-c41526bd695e&current_erogata=f3f180f6-5ec9-4154-815c-e2f83313823b">catalogo Sapienza</a>
+</p>
+
 <h2>Orario Ricevimento</h2>
   <ul>
     <li>Docente:
