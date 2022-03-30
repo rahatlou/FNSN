@@ -176,13 +176,35 @@
 		   <td>2022-03-30, 2h</td>
 		   <td>Scoperta del protone e del neutrone. Scoperta dell'elettrone.
 				 Esperimenti di Rutherford, Chadwick, Thompson, e Millikan.
-				 Interazioni nella materia. Calcolo classico di Bohr per la perdita di energia.
 		      (Dionisi-Longo cap 1,2,3)
 			 </td>
-			 <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-30-lezione.pdf" target=blank_></a></td>
-	 </tr>
+			 <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-30-lezione.pdf" target=blank_>lavagna</a></td>
+	   </tr>
 
+	   <tr>
+		   <td>2022-03-31, 1h</td>
+		   <td>
+				Interazioni delle particelle nella materia.
+				Urti contro elettroni e nuclei. Perdita di energia per ionizzazione per le particelle cariche.
+				Calcolo di Bohr dell'energia persa per ionizzazione. Formula di Bethe-Bloch.
+				(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
+				<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>)
+		 </td>
+		 <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-31-lezione.pdf" target=blank_></a></td>
+   </tr>
 
+	 <tr>
+		 <td>2022-04-01, 2h</td>
+		 <td>
+			 Identificazione di particelle con dE/dx.
+			 Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
+			 Diffusione coulombiana multipla nella materia.
+			 Traiettoria delle particelle cariche nel campo magnetico.
+			 Tracciatori e la misura dell'impulso.
+			 (Das-Ferbel cap 6.2; Longo-Dionisi cap 4, Jackson cap 13.1)
+	 </td>
+	 <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-01-lezione.pdf" target=blank_></a></td>
+ </tr>
 
 
 
@@ -211,14 +233,17 @@
 
 
 
+<li>
+Lec 24, 5/5:
 
- <li>
- Lec 10, 26/3:
- 12:15: prova in itinere. II ora: esercizio di esonero.
- Urti ed Energia di Soglia di reazione: produzione di anti-protone.
- (dispense relativita`, Griffiths: cap 3, Dionisi-Longo: cap 3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-26.pdf" target=blank_>pdf</a>)
- </li>
+Effetto Cerenkov. Identificazione delle particelle.
+(Das-Ferbel cap 6.2; Longo-Dionisi cap 4,
+<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-05.pdf" target=blank_>lavagna</a>)
+</li>
+
+
+
 
 
 <li>
@@ -300,40 +325,7 @@ II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 )
 </li>
 
-<li>
-Lec 21, 28/4: Interazioni delle particelle nella materia.
-Urti contro elettroni e nuclei. Perdita di energia per ionizzazione per le particelle cariche.
-Calcolo di Bohr dell'energia persa per ionizzazione.
-(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-28.pdf" target=blank_>lavagna</a>)
-</li>
 
-<li>
-Lec 22, 29/4:
-Perdita di energia per ionizzazione: formula di Bethe-Bloch.
-Identificazione di particelle con dE/dx.
-Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
-(Das-Ferbel cap 6.2; Longo-Dionisi cap 4, Jackson cap 13.1,
-<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-29.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 23, 30/4:
-Esercizi sull'interazione nella materia. Calcolo di dE/dx.
-Traiettoria delle particelle cariche nel campo magnetico.
-Tracciatori e la misura dell'impulso.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-30.pdf" target=blank_>pdf</a>)
-</li>
-
-<li>
-Lec 24, 5/5:
-Diffusione coulombiana multipla nella materia.
-Effetto Cerenkov. Identificazione delle particelle.
-(Das-Ferbel cap 6.2; Longo-Dionisi cap 4,
-<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-05.pdf" target=blank_>lavagna</a>)
-</li>
 
 <li>
 Lec 25, 6/5:
