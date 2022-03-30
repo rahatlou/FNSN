@@ -21,7 +21,7 @@
 			<h3 class="title">Date Prove in itinere</h3>
 
 			<ol>
-			  <li>Aprile 2022</li>
+			  <li>14 Aprile 2022, ore 11-14</li>
 
 			</ol>
 		</div>
@@ -30,7 +30,8 @@
 	<div class="entry">
 		<h2 class="title">Appelli di Esame</h2>
 
-	<p>Tutte le date sono disponibili su <a href="https://www.uniroma1.it/it/pagina-strutturale/studenti">infostud</a>.
+	<p>Tutte le date sono disponibili su <a href="https://www.uniroma1.it/it/pagina-strutturale/studenti">infostud</a>
+		 e riportate anche sul <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2021/30046/20210916103754/f3f180f6-5ec9-4154-815c-e2f83313823b/68f72759-7d11-41c3-a5c7-c41526bd695e/afc0a6b6-ccbb-4082-95a1-d5566c6aa1c6/0d916120-b464-4599-af0b-34fd24d2ead4?guid_cv=68f72759-7d11-41c3-a5c7-c41526bd695e&current_erogata=f3f180f6-5ec9-4154-815c-e2f83313823b">catalogo del corsi</a>.
 	</p>
 
 
