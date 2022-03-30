@@ -168,7 +168,7 @@
 						(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/Rutherford.pdf" target=blank_>pdf</a>)
 						Calcolo con la regola d'oro di Fermi.
 						(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/Rutherford-Fermi.pdf" target=blank_>pdf</a>)
-		    (Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)</td>
+		    (Das-Ferbel, cap 1; Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)</td>
 		    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-25-lezione.pdf" target=blank_>lavagna</a></td>
 		 </tr>
 
