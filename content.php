@@ -186,22 +186,24 @@
 		   <td>
 				Interazioni delle particelle nella materia.
 				Urti contro elettroni e nuclei. Perdita di energia per ionizzazione per le particelle cariche.
-				Calcolo di Bohr dell'energia persa per ionizzazione. Formula di Bethe-Bloch.
-				(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
-				<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>)
+
+				(Das-Ferbel cap 6; Longo-Dionisi cap 4)
 		 </td>
-		 <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-31-lezione.pdf" target=blank_></a></td>
+		 <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-03-31-lezione.pdf" target=blank_>lavagna</a></td>
    </tr>
 
 	 <tr>
 		 <td>2022-04-01, 2h</td>
 		 <td>
+			 Calcolo di Bohr dell'energia persa per ionizzazione. Formula di Bethe-Bloch.
 			 Identificazione di particelle con dE/dx.
 			 Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
 			 Diffusione coulombiana multipla nella materia.
 			 Traiettoria delle particelle cariche nel campo magnetico.
 			 Tracciatori e la misura dell'impulso.
-			 (Das-Ferbel cap 6.2; Longo-Dionisi cap 4, Jackson cap 13.1)
+			 (Das-Ferbel cap 6.2; Longo-Dionisi cap 4, Jackson cap 13.1
+			 <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>
+			 )
 	 </td>
 	 <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-01-lezione.pdf" target=blank_></a></td>
  </tr>
