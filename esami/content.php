@@ -12,16 +12,13 @@
 
 
 			<h2 class="title">Prove in itinere</h2>
-			<p>Ci sara` una prova in itinere per i 3 canali. La data e` in via di definizione.</p>
-			<p>Le prove in itinere servono per poter accedere alla prova orale senza
-			dover fare l'esercizio scritto. Per far cio` sara` necessario aver
-			sostenuto tutte e 4 le prove in itinere e aver ottenuto una media >= 5.</p>
+			<p>Ci sara` una prova in itinere per i 3 canali il giorno 28 aprile.</p>
 
 
 			<h3 class="title">Date Prove in itinere</h3>
 
 			<ol>
-			  <li>14 Aprile 2022, ore 11-14</li>
+			  <li>28 Aprile 2022, ore 11-14</li>
 
 			</ol>
 		</div>
