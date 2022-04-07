@@ -210,6 +210,8 @@
 		 Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
 		 Traiettoria delle particelle cariche nel campo magnetico.
 		 Tracciatori e la misura dell'impulso.
+		 Perdita di energia per radiazione di elettroni e positroni: Bremsstrahlung.
+		 Lunghezza di radiazione ed energia critica.
 		 (Das-Ferbel cap 6.2; Longo-Dionisi cap 4, Jackson cap 13.3, 14;
 		 <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>
 		 )
