@@ -228,7 +228,7 @@
 		 Esperimento di Anderson: La scoperta del positrone
 		 ( Jackson cap 13.7; Das-Ferbel cap 6.2; Longo-Dionisi cap 4; Cahn-Goldhaber cap 1)
    </td>
-   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-06-esercitazione.pdf" target=blank_></a></td>
+   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-08-esercitazione.pdf" target=blank_>pdf</a></td>
  </tr>
 
 
