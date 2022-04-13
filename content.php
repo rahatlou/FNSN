@@ -231,8 +231,33 @@
    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-08-esercitazione.pdf" target=blank_>pdf</a></td>
  </tr>
 
+ <tr>
+	 <td>2022-04-13, 2h</td>
+	 <td>
+		 Effetto Cerenkov. Identificazione delle particelle.
+		 Interazione dei fotoni nella materia effetto fotoelettrico, diffusione Compton, produzione di coppia. Cenni a sciami elettromagnetici.
+		 (Jackson 14.9; Das-Ferbel cap 6.3, 7.5; Longo-Dionisi cap 4 )
+		 <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>
+		 )
+   </td>
+   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-13-lezione.pdf" target=blank_>lavagna</a></td>
+ </tr>
 
+ <tr>
+	 <td>2022-04-20, 2h</td>
+	 <td>
+		 Esercizi per il primo esonero.
+   </td>
+   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-20-esercitazione.pdf" target=blank_></a></td>
+ </tr>
 
+ <tr>
+	 <td>2022-04-21, 1h</td>
+	 <td>
+		 Esercizi per il primo esonero.
+   </td>
+   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-21-esercitazione.pdf" target=blank_></a></td>
+ </tr>
 
 		</table>
 
@@ -254,18 +279,6 @@
 
 
 <?php /*
-
-
-
-
-<li>
-Lec 24, 5/5:
-
-Effetto Cerenkov. Identificazione delle particelle.
-(Das-Ferbel cap 6.2; Longo-Dionisi cap 4,
-<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-05.pdf" target=blank_>lavagna</a>)
-</li>
 
 
 
