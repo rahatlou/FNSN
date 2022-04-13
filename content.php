@@ -236,7 +236,7 @@
 	 <td>
 		 Effetto Cerenkov. Identificazione delle particelle.
 		 Interazione dei fotoni nella materia effetto fotoelettrico, diffusione Compton, produzione di coppia. Cenni a sciami elettromagnetici.
-		 (Jackson 14.9; Das-Ferbel cap 6.3, 7.5; Longo-Dionisi cap 4 )
+		 (Jackson 14.9; Das-Ferbel cap 6.3, 7.5; Longo-Dionisi cap 4;
 		 <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>
 		 )
    </td>
