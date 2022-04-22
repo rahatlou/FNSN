@@ -246,9 +246,9 @@
  <tr>
 	 <td>2022-04-20, 2h</td>
 	 <td>
-		 Esercizi per il primo esonero.
+		 Esercizi per il primo esonero. Esperimento di Anderson: la scoperta del positrone.
    </td>
-   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-20-esercitazione.pdf" target=blank_></a></td>
+   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-20-esercitazione.pdf" target=blank_>pdf</a></td>
  </tr>
 
  <tr>
