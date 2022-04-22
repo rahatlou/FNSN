@@ -256,7 +256,7 @@
 	 <td>
 		 Esercizi per il primo esonero.
    </td>
-   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-21-esercitazione.pdf" target=blank_></a></td>
+   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-21-esercitazione.pdf" target=blank_>pdf</a></td>
  </tr>
 
 		</table>
