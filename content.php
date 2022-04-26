@@ -259,6 +259,26 @@
    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-21-esercitazione.pdf" target=blank_>pdf</a></td>
  </tr>
 
+ <tr>
+	 <td>2022-04-27, 2h</td>
+	 <td>
+		 Caratteristiche degli sciami elettromagnetici.Rivelatori di particlle. Tracciatori. Calorimetri.
+		 Cenni a Acceleratori di particelle. Differenze tra acceleratori lineari
+		 e circolari. Ciclotrone e sincrotrone.
+		 (Das-Ferbel cap 7, 8; Longo-Dionisi cap 4,
+		 <a href="http://pdg.lbl.gov/2019/AtomicNuclearProperties/index.html" target="blank_">Atomic &amp; Nuclear properties</a>)
+   </td>
+   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-27-lezione.pdf" target=blank_></a></td>
+ </tr>
+
+ <tr>
+	 <td>2022-04-29, 2h</td>
+	 <td>
+		 Correzione esercizi esonero. Scoperta dell'antiprotone: esperimento di Segre` e Chamberlain.
+   </td>
+   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-29-esercitazione.pdf" target=blank_></a></td>
+ </tr>
+
 		</table>
 
 
@@ -281,23 +301,19 @@
 <?php /*
 
 
+ Introduzione a Fisica Nucleare.
+(Das-Ferbel cap 8; Longo-Dionisi cap 4)
+
 
 
 
 <li>
 Lec 12, 7/4:
-Classificazione delle particelle. barioni e mesoni. leptoni e quark. Conservazione del numero barionico e leptonico.
 Introduzione a Fisica  nucleare. Nuclidi e proprieta` dei nuclei. Energia di legame nucleare.
 (Bertulani cap 4, Dionisi-Longo cap 8)
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-07.pdf" target=blank_>lavagna</a>)
 </li>
 
-<li>
-Lec 13, 8/4:
-Esercizi: energia di soglia, urti elastici ed anelastici. Diffusione Compton.
-(dispense relativita`)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-08.pdf" target=blank_>pdf</a>)
-</li>
 
 <li>
 Lec 14, 9/4:
@@ -307,13 +323,6 @@ Stima dell'energia di legame con il modello a goccia.
 (Bertulani cap 4 e 5, Dionisi-Longo cap 8)
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-09.pdf" target=blank_>lavagna</a>)
 </li>
-
-<li>
-Lec 15, 14/4: esercizi di cinematica e sezione d'urto
-(dispense relativita`)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-14.pdf" target=blank_>pdf</a>)
-</li>
-
 
 <li>
 Lec 16, 15/4:
@@ -334,11 +343,6 @@ Fissione spontanea ed indotta.
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-16.pdf" target=blank_>lavagna</a>)
 </li>
 
-<li>
-Lec 18, 21/4: esercizi su urti, reazioni, e sezione d'urto.
-Cenni al problema della materia oscura.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-21.pdf" target=blank_>pdf</a>)
-</li>
 
 <li>
 Lec 19, 22/4:
@@ -364,38 +368,7 @@ II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 </li>
 
 
-
 <li>
-Lec 25, 6/5:
-Perdita di energia per elettroni e positroni.
-Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
-Energia critica e lunghezza di radiazione.
-Interazione dei fotoni nella materia. Sciami elettromagnetici.
-(Das-Ferbel cap 6.3; Longo-Dionisi cap 4,
-<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-06.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 26, 7/5:
-esercizi sull'interazione nella materia.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-05-07.pdf" target=blank_>pdf</a>)
-</li>
-
-<li>
-Lec 27, 12/5:
-Lunghezza di attenuazione dei fotoni.
-Caratteristiche degli sciami elettromagnetici. Cenni agli sciami adronici.
-Rivelatori di particlle. Tracciatori. Calorimetri.
-(Das-Ferbel cap 7; Longo-Dionisi cap 4,
-<a href="http://pdg.lbl.gov/2019/AtomicNuclearProperties/index.html" target="blank_">Atomic &amp; Nuclear properties</a>)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-12.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 28, 13/5:
-Acceleratori di particelle. Differenze tra acceleratori lineari
-e circolari. Ciclotrone e sincrotrone.
 Decadimento &beta;. Regola d'oro di Fermi. Teoria di Fermi per l'interazione debole.
 (Das-Ferbel cap8, Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-13.pdf" target=blank_>lavagna</a>)
