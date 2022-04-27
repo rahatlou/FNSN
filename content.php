@@ -262,13 +262,11 @@
  <tr>
 	 <td>2022-04-27, 2h</td>
 	 <td>
-		 Caratteristiche degli sciami elettromagnetici.Rivelatori di particlle. Tracciatori. Calorimetri.
-		 Cenni a Acceleratori di particelle. Differenze tra acceleratori lineari
-		 e circolari. Ciclotrone e sincrotrone.
-		 (Das-Ferbel cap 7, 8; Longo-Dionisi cap 4,
+		 Caratteristiche degli sciami elettromagnetici. Rivelatori di particlle. Tracciatori. Calorimetri.
+		 (Das-Ferbel cap 7; Longo-Dionisi cap 4,
 		 <a href="http://pdg.lbl.gov/2019/AtomicNuclearProperties/index.html" target="blank_">Atomic &amp; Nuclear properties</a>)
    </td>
-   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-27-lezione.pdf" target=blank_></a></td>
+   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-27-lezione.pdf" target=blank_>lavagna</a></td>
  </tr>
 
  <tr>
@@ -300,6 +298,8 @@
 
 <?php /*
 
+Cenni a Acceleratori di particelle. Differenze tra acceleratori lineari
+e circolari. Ciclotrone e sincrotrone.
 
  Introduzione a Fisica Nucleare.
 (Das-Ferbel cap 8; Longo-Dionisi cap 4)
