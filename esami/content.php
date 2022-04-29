@@ -34,6 +34,16 @@
 
 	  <ul>
 
+			<li><h2>Appello 2 Maggio 2022</h2>
+				<ul>
+          <li>La prova scritta si svolge in Aula Majorana, Edificio Marconi, il giorno 2/5/2022 dalle 10:30 alle 11:30</li>
+					<li>Come negli scrosi appelli dell'AA 2020/21 la prova consiste in un solo esercizio. La prova viene superata con un peunteggio &gt;5</li>
+					<li>Coloro che non possono sostenere la prova a causa di Covid (inviandomi la copia del tampone e certificato) o per motivi di fragilita` documentata sono pregati di contattarmi.</li>
+					<li>Il calendario delle prove oral sara` accordato con gli studenti al termine della prova scritta</li>
+        </ul>
+			</li>
+
+
 <?php /*
 			<li>
 				<h2>Appello 7 Feb 2022</h2>
