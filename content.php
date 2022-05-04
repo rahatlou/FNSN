@@ -272,10 +272,35 @@
  <tr>
 	 <td>2022-04-29, 2h</td>
 	 <td>
-		 Correzione esercizi esonero. Scoperta dell'antiprotone: esperimento di Segre` e Chamberlain.
+		 Correzione esercizi esonero. Scoperta dell'antiprotone: esperimento di Segre` e Chamberlain. (Cahn-Goldhaber cap 4)
    </td>
-   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-04-29-esercitazione.pdf" target=blank_></a></td>
+   <td></td>
  </tr>
+
+ <tr>
+	 <td>2022-05-04, 2h</td>
+	 <td>
+		 Introduzione a Fisica nucleare. Nuclidi e proprieta` dei nuclei.
+		 Q-value nella reazioni. Energia di legame nucleare.
+		 Stabilita` dei nuclei e carta di Segre`.
+		 Decadimenti &alpha; e &gamma;
+		 (Bertulani cap 4, Dionisi-Longo cap 8)
+   </td>
+   <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-04-lezione.pdf" target=blank_>lavagna</a></td>
+ </tr>
+
+
+  <tr>
+ 	 <td>2022-05-05, 1h</td>
+ 	 <td>
+ 		 Decadimenti &alpha; e &beta; Formula di Bethe-Weizsacker per la massa. Cenni alla stima dell'energia di legame
+		 con il modello a goccia.
+ 		 (Bertulani cap 4 e 5, Dionisi-Longo cap 8)
+    </td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-05-lezione.pdf" target=blank_></a></td>
+  </tr>
+
+
 
 		</table>
 
@@ -301,23 +326,9 @@
 Cenni a Acceleratori di particelle. Differenze tra acceleratori lineari
 e circolari. Ciclotrone e sincrotrone.
 
- Introduzione a Fisica Nucleare.
-(Das-Ferbel cap 8; Longo-Dionisi cap 4)
-
-
-
-
-<li>
-Lec 12, 7/4:
-Introduzione a Fisica  nucleare. Nuclidi e proprieta` dei nuclei. Energia di legame nucleare.
-(Bertulani cap 4, Dionisi-Longo cap 8)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-07.pdf" target=blank_>lavagna</a>)
-</li>
-
 
 <li>
 Lec 14, 9/4:
-Stabilita` dei nuclei e carta di Segre`. Decadimenti ed &alpha;, &beta; e &gamma;. Q-value nelle reazioni.
 Buca di potenziale e il potenziale nucleare. Impulso di Fermi dei nucleoni(Bertulani 5.3, <a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/impulso-di-fermi.pdf"  target=blank_>pdf</a>).
 Stima dell'energia di legame con il modello a goccia.
 (Bertulani cap 4 e 5, Dionisi-Longo cap 8)
