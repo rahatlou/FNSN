@@ -303,6 +303,14 @@
     <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-05-lezione.pdf" target=blank_></a></td>
   </tr>
 
+	<tr>
+ 	 <td>2022-05-06, 2h</td>
+ 	 <td>
+ 		 Esercizi sull'interazione nella materia.
+    </td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-06-esercitazione.pdf" target=blank_></a></td>
+  </tr>
+
 
 
 		</table>
