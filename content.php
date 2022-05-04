@@ -286,8 +286,8 @@
 		 Decadimenti &alpha; e &gamma;
 		 (Bertulani cap 4, Dionisi-Longo cap 8)
 		 (<a href="https://www.ptable.com" target=blank_>Tavola periodica interattiva</a>,
-		 <a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica e l'orgine degli elementi</a>,
-		 <a href="https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html">carta di segre` interattiva</a>)
+		 <a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf" target=blank_>tavola periodica e l'orgine degli elementi</a>,
+		 <a href="https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html" target=blank_>carta di segre` interattiva</a>)
    </td>
    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-04-lezione.pdf" target=blank_>lavagna</a></td>
  </tr>
