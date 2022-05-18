@@ -296,9 +296,10 @@
   <tr>
  	 <td>2022-05-05, 1h</td>
  	 <td>
- 		 Decadimenti &alpha; e &beta; Formula di Bethe-Weizsacker per la massa. Cenni alla stima dell'energia di legame
-		 con il modello a goccia.
- 		 (Bertulani cap 4 e 5, Dionisi-Longo cap 8)
+ 		 Decadimenti &beta;+ e &beta;-. Cenni alla stima dell'energia cinetica media dei nucleoni con il modello di Gas di Fermi.
+		 Impulso di Fermi dei nucleoni.
+		 Stima dell'energia di legame nucleare.
+ 		 (Bertulani cap 5.3 e 8, Dionisi-Longo cap 8)
     </td>
     <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-05-lezione.pdf" target=blank_></a></td>
   </tr>
@@ -310,6 +311,72 @@
     </td>
     <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-06-esercitazione.pdf" target=blank_></a></td>
   </tr>
+
+	<tr>
+ 	 <td>2022-05-11, 2h</td>
+ 	 <td>
+		 Formula di Bethe-Weizsacker per la massa. Stima dell'energia di legame
+		 con il modello a goccia. Decadimento &alpha;.
+		 Cinematica del decadimento e soglia di instabilita`. Modello di Gamow.
+		 Legge di Geiger-Nuttal.
+		 (Bertulani cap 5 e 7)
+    </td>
+
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-11-lezione.pdf" target=blank_></a></td>
+  </tr>
+
+	<tr>
+ 	 <td>2022-05-12, 1h</td>
+ 	 <td>
+	  Reazioni nucleari e Q value. Reazioni esotermiche ed endotermiche. Sezione d'urto dei neutroni.
+		Fissione indotta e spontanea. Energia di attivazione. Variazione di nergia di legame.
+		(Bertulani cap 10.1, 10.2,  11.5, 11.7)
+    </td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-12-lezione.pdf" target=blank_>lavagna</a></td>
+  </tr>
+
+	<tr>
+ 	 <td>2022-05-13, 2h</td>
+ 	 <td>
+ 		 Esercizi sull'interazione nella materia. Esperimento di Conversi, Piccioni, Pancioni.
+    </td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-13-esercitazione.pdf" target=blank_>pdf</a></td>
+  </tr>
+
+	<tr>
+ 	 <td>2022-05-18, 2h</td>
+ 	 <td>
+    Fissione dell'uranio. Cenni a reattori nucleari.
+		Fusione. Cicli primari di fusione nel sole. Cenni a nucleosintesi.
+		(Bertulani cap 11.5, 11.7, 12)
+		(Articoli da <a href="https://www.asimmetrie.it" target=blank_>asimmetrie.it</a>:
+			<a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
+			<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-02.pdf" target=blank_>elementi leggeri</a>,
+			<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-03.pdf" target=blank_>elementi pesanti</a>,
+			<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf" target=blank_>reazioni nucleari nel sole</a>,
+			<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf" target=blank_>nascita delle stelle</a>
+			)
+    </td>
+
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-18-lezione.pdf" target=blank_>lavagna</a></td>
+  </tr>
+
+	<tr>
+ 	 <td>2022-05-19, 1h</td>
+ 	 <td>
+   Decadimento &beta;. Interazione debole. Teoria di Fermi. La scoperta del neutrino. Calcolo della larghezza di decadimento.
+    </td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-19-lezione.pdf" target=blank_></a></td>
+  </tr>
+
+	<tr>
+ 	 <td>2022-05-20, 2h</td>
+ 	 <td>
+    Diffusione del neutrino sul protone. Calcolo della sezione d'urto. Esperimento to Reines e Cowan.
+    </td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-20-lezione.pdf" target=blank_></a></td>
+  </tr>
+
 
 
 
@@ -366,28 +433,6 @@ Fissione spontanea ed indotta.
 </li>
 
 
-<li>
-Lec 19, 22/4:
-Fissione indotta e spontanea. Termalizzazione di neutroni tramite urti.
-Fissione dell'uranio. Cenni a reattori nucleari.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-22.pdf" target=blank_>lavagna</a>)
-(Bertulani cap 10.1, 10.2,  11.5, 11.7)
-</li>
-
-<li>
-Lec 20, 23/4: 12:15: prova in itinere.
-II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
-(Bertulani cap 12)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-23.pdf" target=blank_>lavagna</a>)
-(<a href="https://www.ptable.com" target=blank_>Tavola periodica interattiva</a>)
-(Articoli da <a href="https://www.asimmetrie.it" target=blank_>asimmetrie.it</a>:
-<a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
-<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-02.pdf" target=blank_>elementi leggeri</a>,
-<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-03.pdf" target=blank_>elementi pesanti</a>,
-<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf" target=blank_>reazioni nucleari nel sole</a>,
-<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf" target=blank_>nascita delle stelle</a>
-)
-</li>
 
 
 <li>
@@ -396,13 +441,6 @@ Decadimento &beta;. Regola d'oro di Fermi. Teoria di Fermi per l'interazione deb
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-13.pdf" target=blank_>lavagna</a>)
 </li>
 
-<li>
-Lec 29, 14/5:
-12:10: terza prova in itinere.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/esercizi/20210514-soluzioni.pdf" target=blank_>pdf</a>)
-II ora: Esperimento di Anderson e la scoperta del positrone. (Cahn-Goldhaber cap 1)
-Esperimento di Segre` e la scoperta dell'antiprotone. (Cahn-Goldhaber cap 4)
-</li>
 
 <li>
 Lec 30, 19/5:
@@ -462,14 +500,6 @@ Lec 35, 11/6: IV prova in itinere.
 <?php /*
 
 
-	<li>
-	Lec 20, 29/4:
-	Larghezza di decadimento e distribuzione di Breit-Wigner.
-	La regola d'oro di Fermi. Calcolo larghezza di decadimento beta.
-	La scoperta del neutrino. Massa del neutrino e grafico di Kurie.
-	(Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-29.pdf">lavagna</a>)
-	</li>
 
 
 	<li>
