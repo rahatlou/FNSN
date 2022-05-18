@@ -301,7 +301,7 @@
 		 Stima dell'energia di legame nucleare.
  		 (Bertulani cap 5.3 e 8, Dionisi-Longo cap 8)
     </td>
-    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-05-lezione.pdf" target=blank_></a></td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-05-lezione.pdf" target=blank_>lavagna</a></td>
   </tr>
 
 	<tr>
@@ -309,7 +309,7 @@
  	 <td>
  		 Esercizi sull'interazione nella materia.
     </td>
-    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-06-esercitazione.pdf" target=blank_></a></td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-06-esercitazione.pdf" target=blank_>pdf</a></td>
   </tr>
 
 	<tr>
@@ -405,34 +405,6 @@ Cenni a Acceleratori di particelle. Differenze tra acceleratori lineari
 e circolari. Ciclotrone e sincrotrone.
 
 
-<li>
-Lec 14, 9/4:
-Buca di potenziale e il potenziale nucleare. Impulso di Fermi dei nucleoni(Bertulani 5.3, <a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/impulso-di-fermi.pdf"  target=blank_>pdf</a>).
-Stima dell'energia di legame con il modello a goccia.
-(Bertulani cap 4 e 5, Dionisi-Longo cap 8)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-09.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 16, 15/4:
-Formula di Bethe-Weizsacker per la massa. Decadimento &alpha;.
-Cinematica del decadimento e soglia di instabilita`. Modello di Gamow.
-Legge di Geiger-Nuttal.
-(Bertulani cap 5 e 7)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-15.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 17, 16/4:
-Decadimento &alpha;. Modello di Gamow.
-Legge di Geiger-Nuttal.
-Reazioni nucleari. Reazioni esotermiche ed endotermiche.
-Fissione spontanea ed indotta.
-(Bertulani cap 7, 10.1, 10.2, 10.3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-16.pdf" target=blank_>lavagna</a>)
-</li>
-
-
 
 
 <li>
@@ -451,9 +423,7 @@ Esperimento di Segre` e Chamberlain: La scoperta dell'antiprotone.
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-19.pdf" target=blank_>lavagna</a>)
 </li>
 
-<li>
-21/5: non c'e` lezione
-</li>
+
 
 <li>
 Lec 31, 26/5:
