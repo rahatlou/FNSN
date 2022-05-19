@@ -318,7 +318,8 @@
 		 Formula di Bethe-Weizsacker per la massa. Stima dell'energia di legame
 		 con il modello a goccia. Decadimento &alpha;.
 		 Cinematica del decadimento e soglia di instabilita`. Modello di Gamow.
-		 Legge di Geiger-Nuttal.
+		 Legge di Geiger-Nuttal. Calcolo completo del modello Gamow del Prof. Contino
+		 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/alpha-decay-contino.pdf">pdf</a>)
 		 (Bertulani cap 5 e 7)
     </td>
 
@@ -376,6 +377,7 @@
 		Calcolo della larghezza di decadimento. Misura della larghezza dalla vita media.
 		La scoperta del neutrino.
     Diffusione del neutrino sul protone. Calcolo della sezione d'urto. Esperimento di Reines e Cowan.
+		(Perkins 7.3, 7.4; Longo-Dionisi cap 5)
     </td>
     <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-20-lezione.pdf" target=blank_></a></td>
   </tr>
