@@ -364,15 +364,17 @@
 	<tr>
  	 <td>2022-05-19, 1h</td>
  	 <td>
-   Decadimento &beta;. Interazione debole. Teoria di Fermi. La scoperta del neutrino. Calcolo della larghezza di decadimento.
+    Decadimento &beta;. Ipotesi del neutrino. Interazione debole. Teoria di Fermi. Calcolo della larghezza di decadimento.
     </td>
-    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-19-lezione.pdf" target=blank_></a></td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-19-lezione.pdf" target=blank_>lavagna</a></td>
   </tr>
 
 	<tr>
  	 <td>2022-05-20, 2h</td>
  	 <td>
-    Diffusione del neutrino sul protone. Calcolo della sezione d'urto. Esperimento to Reines e Cowan.
+		Calcolo della larghezza di decadimento. Misura della larghezza dalla vita media.
+		La scoperta del neutrino.
+    Diffusione del neutrino sul protone. Calcolo della sezione d'urto. Esperimento di Reines e Cowan.
     </td>
     <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-20-lezione.pdf" target=blank_></a></td>
   </tr>
