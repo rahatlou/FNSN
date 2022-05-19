@@ -365,6 +365,7 @@
  	 <td>2022-05-19, 1h</td>
  	 <td>
     Decadimento &beta;. Ipotesi del neutrino. Interazione debole. Teoria di Fermi. Calcolo della larghezza di decadimento.
+		(Bertulani cap 8.1 - 8.3, Perkins cap 7.1 - 7.3; Longo-Dionisi cap 6,5)
     </td>
     <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-19-lezione.pdf" target=blank_>lavagna</a></td>
   </tr>
