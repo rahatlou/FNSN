@@ -379,9 +379,17 @@
     Diffusione del neutrino sul protone. Calcolo della sezione d'urto. Esperimento di Reines e Cowan.
 		(Perkins 7.3, 7.4; Longo-Dionisi cap 5)
     </td>
-    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-20-lezione.pdf" target=blank_></a></td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-20-lezione.pdf" target=blank_>lavagna</a></td>
   </tr>
 
+	<tr>
+ 	 <td>2022-05-25, 2h</td>
+ 	 <td>
+    Esperimento di Reines-Cowan. Potenziale di Yukawa. Interazioni a corto raggio con mediatori massivi.
+		Costante di Fermi e la relazione con la massa del bosone W. La scoperta del bosone W.
+    </td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-25-lezione.pdf" target=blank_></a></td>
+  </tr>
 
 
 
