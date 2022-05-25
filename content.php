@@ -386,7 +386,7 @@
  	 <td>2022-05-25, 2h</td>
  	 <td>
     Esperimento di Reines-Cowan. Mediatori di forza e il propagatore del fotone. Cenni ai diagrammi di Feynman
-		perocessi EM.
+		nei processi EM.
 			(Perkins 7.3, 7.4; Longo-Dionisi cap 5)
     </td>
     <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-25-lezione.pdf" target=blank_>lavagna</a></td>
