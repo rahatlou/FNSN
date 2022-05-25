@@ -385,12 +385,32 @@
 	<tr>
  	 <td>2022-05-25, 2h</td>
  	 <td>
-    Esperimento di Reines-Cowan. Potenziale di Yukawa. Interazioni a corto raggio con mediatori massivi.
-		Costante di Fermi e la relazione con la massa del bosone W. La scoperta del bosone W.
+    Esperimento di Reines-Cowan. Mediatori di forza e il propagatore del fotone. Cenni ai diagrammi di Feynman
+		perocessi EM.
+			(Perkins 7.3, 7.4; Longo-Dionisi cap 5)
     </td>
-    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-25-lezione.pdf" target=blank_></a></td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-25-lezione.pdf" target=blank_>lavagna</a></td>
   </tr>
 
+	<tr>
+ 	 <td>2022-05-26, 1h</td>
+ 	 <td>
+    Potenziale di Yukawa. Interazioni a corto raggio con mediatori massivi.
+		Costante di Fermi e la relazione con la massa del bosone W. La scoperta del bosone W.
+		(Longo-Dionisi cap 5)
+    </td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-26-lezione.pdf" target=blank_></a></td>
+  </tr>
+
+	<tr>
+ 	 <td>2022-05-27, 2h</td>
+ 	 <td>
+		Simmetrie discrete. Isospin: dalla ipotesi teorica alle verifiche sperimentali.
+ 		Sezioni d'urto di nucleoni e l'impatto di isospin.
+		(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
+    </td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-27-lezione.pdf" target=blank_></a></td>
+  </tr>
 
 
 		</table>
@@ -418,36 +438,6 @@ Cenni a Acceleratori di particelle. Differenze tra acceleratori lineari
 e circolari. Ciclotrone e sincrotrone.
 
 
-
-
-<li>
-Decadimento &beta;. Regola d'oro di Fermi. Teoria di Fermi per l'interazione debole.
-(Das-Ferbel cap8, Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-13.pdf" target=blank_>lavagna</a>)
-</li>
-
-
-<li>
-Lec 30, 19/5:
-Regola d'oro di Fermi. Spazio delle fasi. Larghezza del decadimento &beta;.
-Massa del neutrino e grafico di Kurie.
-Esperimento di Segre` e Chamberlain: La scoperta dell'antiprotone.
-(Bertulani cap 6.9, 8.3, Perkins cap 7.2, 7.3; Longo-Dionisi cap 6,5)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-19.pdf" target=blank_>lavagna</a>)
-</li>
-
-
-
-<li>
-Lec 31, 26/5:
-Larghezza di decadimento e distribuzione di Breit-Wigner.
-Diffusione del neutrino sul protone.
-Calcolo della sezione d'urto con la regola d'oro di Fermi.
-La scoperta del neutrino. Esperimento di Reines-Cowan.
-(Dionisi-Longo cap 5; Perkins cap 7.3, 7.4)
-
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-26.pdf" target=blank_>lavagna</a>)
-</li>
 
 <li>
 Lec 32, 28/5:
