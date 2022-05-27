@@ -396,21 +396,31 @@
  	 <td>2022-05-26, 1h</td>
  	 <td>
     Potenziale di Yukawa. Interazioni a corto raggio con mediatori massivi.
-		Costante di Fermi e la relazione con la massa del bosone W. La scoperta del bosone W.
 		(Longo-Dionisi cap 5)
     </td>
-    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-26-lezione.pdf" target=blank_></a></td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-26-lezione.pdf" target=blank_>lavagna</a></td>
   </tr>
 
 	<tr>
  	 <td>2022-05-27, 2h</td>
  	 <td>
-		Simmetrie discrete. Isospin: dalla ipotesi teorica alle verifiche sperimentali.
- 		Sezioni d'urto di nucleoni e l'impatto di isospin.
-		(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
+		Propagatore del bosone massivo. Costante di Fermi e la relazione con la massa del bosone W. La scoperta del bosone W.
+		Leggi di conservazioni e simmetrie. Simmetrie discrete. Numero barionico e leptonico.
+		Isospin: dalla ipotesi teorica alle verifiche sperimentali.
+ 		(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
     </td>
     <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-05-27-lezione.pdf" target=blank_></a></td>
   </tr>
+
+	<tr>
+ 	 <td>2022-06-01, 2h</td>
+ 	 <td>
+	  Sezioni d'urto di nucleoni e l'impatto di isospin.
+		(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
+    </td>
+    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-06-01-lezione.pdf" target=blank_></a></td>
+  </tr>
+
 
 
 		</table>
