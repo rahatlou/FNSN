@@ -427,7 +427,7 @@
 	 	 <td>
 			Simmetrie discrete: parita`. Esperimento di Wu e la violazione della parita` nelle interazioni deboli.
 	    </td>
-	    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-06-08-lezione.pdf" target=blank_></a></td>
+	    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-06-08-esercitazione.pdf" target=blank_>pdf</a></td>
 	  </tr>
 
 		<tr>
@@ -435,7 +435,7 @@
 	 	 <td>
 			Esercizi di ripasso.
 	    </td>
-	    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-06-09-esercitazione.pdf" target=blank_></a></td>
+	    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-06-09-esercitazione.pdf" target=blank_>pdf</a></td>
 	  </tr>
 
 		<tr>
