@@ -12,13 +12,15 @@
 
 
 			<h2 class="title">Prove in itinere</h2>
-			<p>Ci sara` una prova in itinere per i 3 canali il giorno 28 aprile.</p>
+			<p>Ci sara` una prova in itinere per i 3 canali il giorno 28 aprile. Alla prova scritta del 21 giugno si puo` scegliere se svolgere solo la seconda prova di esonero oppure la prova scritta completa.
+			</p>
 
 
 			<h3 class="title">Date Prove in itinere</h3>
 
 			<ol>
 			  <li>28 Aprile 2022, ore 11-14</li>
+				<li>21 Giugno 2022, ore 14-17</li>
 
 			</ol>
 		</div>
@@ -30,6 +32,16 @@
 	<p>Tutte le date sono disponibili su <a href="https://www.uniroma1.it/it/pagina-strutturale/studenti">infostud</a>
 		 e riportate anche sul <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2021/30046/20210916103754/f3f180f6-5ec9-4154-815c-e2f83313823b/68f72759-7d11-41c3-a5c7-c41526bd695e/afc0a6b6-ccbb-4082-95a1-d5566c6aa1c6/0d916120-b464-4599-af0b-34fd24d2ead4?guid_cv=68f72759-7d11-41c3-a5c7-c41526bd695e&current_erogata=f3f180f6-5ec9-4154-815c-e2f83313823b">catalogo del corsi</a>.
 	</p>
+
+	<ul>
+		<li>Alla prova scritta del 21 giugno si puo` scegliere se svolgere solo la seconda prova di esonero oppure la prova scritta completa</li>
+		<li>Il voto dell'esonero e` valido fino alla fine della sessione invernale 2023 (Febbraio 2023)<li>
+		<li>Il voto di una prova scritta superata e` valido fino alla fine della sessione invernale 2023 (Febbraio 2023)<li>
+		<li>E` possibile sostenere la prova orale in un appello qualsiasi dopo aver superato la prova scritta. Ad esempio, la prova scritta a giugno
+			e la prova orale a luglio.</li>
+		<li>Se la prova orale non viene superata oppure il voto della prova non e` accettato, bisogna sostenere e superare una nuova prova scritta.</li>
+
+	</ul>
 
 
 	  <ul>
