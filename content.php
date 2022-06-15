@@ -426,6 +426,7 @@
 	 	 <td>2022-06-08, 2h</td>
 	 	 <td>
 			Simmetrie discrete: parita`. Esperimento di Wu e la violazione della parita` nelle interazioni deboli.
+			(Perkins cap 3; Goldhaber cap 6)
 	    </td>
 	    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-06-08-esercitazione.pdf" target=blank_>pdf</a></td>
 	  </tr>
@@ -441,9 +442,10 @@
 		<tr>
 	 	 <td>2022-06-10, 2h</td>
 	 	 <td>
-			Esercizi di ripasso.
+			Stranezza. Elicita`. Esperimento di Goldhaber.
+			(Goldhaber cap 3, 6; Perkins cap 3)
 	    </td>
-	    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-06-10-esercitazione.pdf" target=blank_></a></td>
+	    <td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-06-10-lezione.pdf" target=blank_>pdf</a></td>
 	  </tr>
 
 		</table>
