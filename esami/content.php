@@ -50,6 +50,8 @@
           <li>La prova scritta si svolge in Aula III del Dipartimento di Matematica, il giorno 21/6/2022 dalle 14 alle 17</li>
 					<li>Il calendario delle prove orali viene accordato con coloro che avranno suprato la prova scritta.
 					Le prove orali si svolgeranno nei giorni 24,27,28,30 giugno e 4 e 5 luglio.</li>
+					<li>Risultati della prova scritta: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzeImW1jzqoq2yTbIpQqBNx9YSVIJKoKWQSUv9A7LZDpScv-_L-3D7vATDMZ3XOOzKK8OGzRRh4uuo/pubhtml?gid=861474194&single=true" target="_blank">link</a></li>
+					<li>Calendario delle prove orali: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQuFPiOxRp-UtPop2rFFDt_cMkyc8xHFpGvY_nOeynUl3CunmzSwnLroWjW8ac70xyBgJ3xTEflVKr0/pubhtml?gid=644162671&single=true" target="_blank">link</a></li>
         </ul>
 			</li>
 
