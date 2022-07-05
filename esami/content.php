@@ -47,15 +47,14 @@
 	  <ul>
 			<li><h2>Appello 7 Luglio 2022</h2>
 				<ul>
-          <li>La prova scritta si svolge il giorno 7/7/2022 dalle 14 alle 17. Le aule saranno comunicate su questo sito entro il giorno 6/7/2022 in base
-					al numero di prenotazioni.</li>
+          <li>La prova scritta si svolge il giorno 7/7/2022 dalle 14 alle 17 in Aula La Ginestra del Dipartimento di Chimica.</li>
 					<li>Il calendario delle prove orali verra` accordato con coloro che avranno suprato la prova scritta.
-					Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 11-15 e 19-20 Luglio.</li>
+					Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 11-15 e 19-21 Luglio.</li>
 					<li>Risultati della prova scritta: <a href="" target="_blank"></a></li>
 					<li>Calendario delle prove orali: <a href="" target="_blank"></a></li>
         </ul>
 			</li>
-			
+
 			<li><h2>Appello 21 Giugno 2022</h2>
 				<ul>
           <li>La prova scritta si svolge in Aula III del Dipartimento di Matematica, il giorno 21/6/2022 dalle 14 alle 17</li>
