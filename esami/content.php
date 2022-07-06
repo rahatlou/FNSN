@@ -51,7 +51,9 @@
 					<li>Il calendario delle prove orali verra` accordato con coloro che avranno suprato la prova scritta.
 					Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 11-15 e 19-21 Luglio.</li>
 					<li>Risultati della prova scritta: <a href="" target="_blank"></a></li>
-					<li>Calendario delle prove orali: <a href="" target="_blank"></a></li>
+					<li>Calendario provvisorio delle prove orali: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqqu9Qq_ck1j8W7XuZ1ZfnAubONWR-IOdPbOiGFuFhtRDd8u2p10b_hkdtoTD0M4qpe3S3pgxDcyYh/pubhtml?gid=909752346&single=true" target="_blank">link</a>.
+					Dato il numero elevatissimo di prenotazioni per le prove orali, in base all'esito delle prove scritte potrebbe essere necessario
+				  fare ulteriori modifiche per terminare tutte le prove entro il giorno 21/7.</li>
         </ul>
 			</li>
 
