@@ -49,8 +49,8 @@
 				<ul>
 					<li>Le prenotazioni su infostud sono aperte fino al 30 agosto</li>
           <li>La prova scritta si svolge il giorno 5/9/2022 dalle 9 alle 12. Le aule saranno comunicate entro il giorno 2 settembre su questo sito.</li>
-					<li>Il calendario delle prove orali verra` accordato con coloro che avranno suprato la prova scritta.
-					Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 12-16 Settembre.</li>
+					<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
+					Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 9-16 Settembre.</li>
 					<li>Risultati della prova scritta: <a href="" target="_blank"></a></li>
 					<li>Calendario delle prove orali: <a href="" target="_blank"></a>.</li>
         </ul>
