@@ -52,7 +52,7 @@
 					<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
 					Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 9-16 Settembre.</li>
 					<li>Risultati della prova scritta: <a href="" target="_blank"></a></li>
-					<li>Calendario delle prove orali: <a href="" target="_blank"></a>.</li>
+					<li>Calendario delle prove orali: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQ_peEopnqFqGhKLKGKcGAX388JlbGCcGckrtNwaP-rGjcJqROOzHO32r7vAiC9BkMimtwcRcBh1cQ/pubhtml?gid=1502347602&single=true" target="_blank">link</a>.</li>
         </ul>
 			</li>
 
