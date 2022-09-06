@@ -51,7 +51,7 @@
           <li>La prova scritta avra` inizio in <b>Aula Amaldi</b>, edificio Marconi (CU013) alle ore <b>10:00 il giorno 5/9/2022</b>. </li>
 					<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
 					Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 9-16 Settembre.</li>
-					<li>Risultati della prova scritta: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi7ozfa0oFnl9vV7w1YQCI5odpxSFERzfP0cWivVLvhNpoFA69oSx7_2Ub4frQlOfP6LnCQOoVIED-/pubhtml?gid=61367816&single=true" target="_blank"></a></li>
+					<li>Risultati della prova scritta: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi7ozfa0oFnl9vV7w1YQCI5odpxSFERzfP0cWivVLvhNpoFA69oSx7_2Ub4frQlOfP6LnCQOoVIED-/pubhtml?gid=61367816&single=true" target="_blank">link</a></li>
 					<li>Calendario delle prove orali: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQ_peEopnqFqGhKLKGKcGAX388JlbGCcGckrtNwaP-rGjcJqROOzHO32r7vAiC9BkMimtwcRcBh1cQ/pubhtml?gid=1502347602&single=true" target="_blank">link</a>.</li>
         </ul>
 			</li>
