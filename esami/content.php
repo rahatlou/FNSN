@@ -44,8 +44,10 @@
 	</ul>
 
 	<ul>
-		<li><h2>Appello Straordionario Novembre 2022</h2>
+		<li><h2>Appello Straordinario Novembre 2022</h2>
 			<ul>
+				<li>L'appello e` riservato soltanto a coloro che hanno i requisiti in termini di CFU e dell'anno di iscrizione. Tali requisiti verranno verificati
+				prima della prova scritta o/e orale.</li>
 				<li>Le prenotazioni su infostud sono aperte fino al 30 ottobre 2022</li>
 				<li>La data e l'orario della prova scritta saranno decise in base al numero di prenotazioni e la disponibilita` delle aule nel mese di Novembre
 				evitano sovrapposizioni con le altre prove scritte di esami del terzo anno. </li>
