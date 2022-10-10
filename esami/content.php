@@ -43,6 +43,19 @@
 
 	</ul>
 
+	<ul>
+		<li><h2>Appello Straordionario Novembre 2022</h2>
+			<ul>
+				<li>Le prenotazioni su infostud sono aperte fino al 30 ottobre 2022</li>
+				<li>La data e l'orario della prova scritta saranno decise in base al numero di prenotazioni e la disponibilita` delle aule nel mese di Novembre
+				evitano sovrapposizioni con le altre prove scritte di esami del terzo anno. </li>
+				<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
+				Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nel mese di Novembre.</li>
+				<li>Risultati della prova scritta: <a href="" target="_blank">link</a></li>
+				<li>Calendario delle prove orali: <a href="" target="_blank">link</a>.</li>
+			</ul>
+		</li>
+
 
 	  <ul>
 			<li><h2>Appello 5 Settembre 2022</h2>
