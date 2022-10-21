@@ -49,8 +49,10 @@
 				<li>L'appello e` riservato soltanto a coloro che hanno i requisiti in termini di CFU e dell'anno di iscrizione. Tali requisiti verranno verificati
 				prima della prova scritta o/e orale.</li>
 				<li>Le prenotazioni su infostud sono aperte fino al 30 ottobre 2022</li>
-				<li>La data e l'orario della prova scritta saranno decise in base al numero di prenotazioni e la disponibilita` delle aule nel mese di Novembre
+			<?php /*	<li>La data e l'orario della prova scritta saranno decise in base al numero di prenotazioni e la disponibilita` delle aule nel mese di Novembre
 				evitano sovrapposizioni con le altre prove scritte di esami del terzo anno. </li>
+				*/ ?>
+				<li>La prova scritta si svolgera` in <b>Aula Cabibbo, Edificio Fermi (CU033)</b> alle <b>ore 14</b> del giorno <b>18 novembre</b>.</li>
 				<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
 				Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nel mese di Novembre.</li>
 				<li>Risultati della prova scritta: <a href="" target="_blank">link</a></li>
