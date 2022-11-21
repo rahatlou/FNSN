@@ -55,7 +55,7 @@
 				<li>La prova scritta si svolgera` in <b>Aula Cabibbo, Edificio Fermi (CU033)</b> alle <b>ore 14</b> del giorno <b>18 novembre</b>.</li>
 				<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
 				Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nel mese di Novembre.</li>
-				<li>Risultati della prova scritta: <a href="" target="_blank">link</a></li>
+				<li>Risultati della prova scritta: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIaiqrwnU121c24qXgZxd5XhXuIYbHQx8hOuFpbsC--Lh7KSb5HYX-kxLSTPQKxRi7e3R5nbmDyS0o/pubhtml?gid=835685081&single=true" target="_blank">link</a></li>
 				<li>Calendario delle prove orali: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSIaiqrwnU121c24qXgZxd5XhXuIYbHQx8hOuFpbsC--Lh7KSb5HYX-kxLSTPQKxRi7e3R5nbmDyS0o/pubhtml?gid=1811424970&single=true" target="_blank">link</a>.</li>
 			</ul>
 		</li>
