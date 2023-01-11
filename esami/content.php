@@ -44,6 +44,19 @@
 	</ul>
 
 	<ul>
+		<li><h2>Appello 16 Gennaio 2023</h2>
+			<ul>
+				<li>Le prenotazioni su infostud sono aperte fino al 9 gennaio </li>
+				<li>La prova scritta avra` inizio in <b>Aula Conversi</b>, edificio Marconi (CU013) alle ore <b>9:00 il giorno 16/1/2023</b>. </li>
+				<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
+				Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 9-16 Settembre.</li>
+				<li>Risultati della prova scritta: <a href="" target="_blank"></a></li>
+				<li>Calendario delle prove orali: <a href=""></a></li>
+			</ul>
+		</li>
+
+
+	<ul>
 		<li><h2>Appello Straordinario Novembre 2022</h2>
 			<ul>
 				<li>L'appello e` riservato soltanto a coloro che hanno i requisiti in termini di CFU e dell'anno di iscrizione. Tali requisiti verranno verificati
