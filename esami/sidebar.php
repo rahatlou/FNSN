@@ -6,7 +6,7 @@
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
 
  <p>
-  <a href="https://github.com/rahatlou/FNSN/tree/FNSN2020/esami/testi" target="_blank">Testi d'esame 2016-</a><br>
+  <a href="https://github.com/rahatlou/FNSN/tree/FNSN2022/esami/testi" target="_blank">Testi d'esame 2016-</a><br>
   <a href="http://www.roma1.infn.it/~ippolitv/fns1_compiti/" target="_blank">Testi d'esame 2012-2016</a>
 </p>
 
