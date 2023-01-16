@@ -53,7 +53,7 @@
 				<li>La prova scritta avra` inizio in <b>Aula Conversi</b>, edificio Marconi (CU013) alle ore <b>9:00 il giorno 16/1/2023</b>. </li>
 				<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
 				Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 9-16 Settembre.</li>
-				<li>Risultati della prova scritta: <a href="" target="_blank"></a></li>
+				<li>Risultati della prova scritta: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi7ozfa0oFnl9vV7w1YQCI5odpxSFERzfP0cWivVLvhNpoFA69oSx7_2Ub4frQlOfP6LnCQOoVIED-/pubhtml?gid=368747608&single=true" target="_blank">risultati scritto</a></li>
 				<li>Calendario delle prove orali: <a href=""></a></li>
 			</ul>
 		</li>
