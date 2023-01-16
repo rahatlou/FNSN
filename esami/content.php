@@ -47,13 +47,24 @@
 
 	<ul>
 
+		<li><h2>Appello 6 Febbraio 2023</h2>
+			<ul>
+				<li>Le prenotazioni su infostud sono aperte fino al 30 gennaio </li>
+				<li>La prova scritta avra` inizio in <b>Aula 3</b>, edificio Fermi (CU033) alle ore <b>9:00 il giorno 6/2/2023</b>. </li>
+				<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
+				Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi a partire dal 7 febbraio.</li>
+				<li>Risultati della prova scritta: <a href="" target="_blank"></a></li>
+				<li>Calendario delle prove orali: <a href=""></a></li>
+			</ul>
+		</li>
+
 		<li><h2>Appello 16 Gennaio 2023</h2>
 			<ul>
 				<li>Le prenotazioni su infostud sono aperte fino al 9 gennaio </li>
 				<li>La prova scritta avra` inizio in <b>Aula Conversi</b>, edificio Marconi (CU013) alle ore <b>9:00 il giorno 16/1/2023</b>. </li>
 				<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
-				Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 9-16 Settembre.</li>
-				<li>Risultati della prova scritta: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi7ozfa0oFnl9vV7w1YQCI5odpxSFERzfP0cWivVLvhNpoFA69oSx7_2Ub4frQlOfP6LnCQOoVIED-/pubhtml?gid=368747608&single=true" target="_blank">risultati scritto</a></li>
+				Le prove orali si svolgeranno nella stanza 241, piano 2, edificio Marconi nei giorni 18-31 gennaio .</li>
+				<li>Risultati della prova scritta: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQi7ozfa0oFnl9vV7w1YQCI5odpxSFERzfP0cWivVLvhNpoFA69oSx7_2Ub4frQlOfP6LnCQOoVIED-/pubhtml?gid=368747608&single=true" target="_blank">link</a></li>
 				<li>Calendario delle prove orali: <a href=""></a></li>
 			</ul>
 		</li>
