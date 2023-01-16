@@ -43,7 +43,10 @@
 
 	</ul>
 
+
+
 	<ul>
+
 		<li><h2>Appello 16 Gennaio 2023</h2>
 			<ul>
 				<li>Le prenotazioni su infostud sono aperte fino al 9 gennaio </li>
@@ -56,7 +59,6 @@
 		</li>
 
 
-	<ul>
 		<li><h2>Appello Straordinario Novembre 2022</h2>
 			<ul>
 				<li>L'appello e` riservato soltanto a coloro che hanno i requisiti in termini di CFU e dell'anno di iscrizione. Tali requisiti verranno verificati
