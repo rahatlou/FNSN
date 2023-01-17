@@ -49,6 +49,11 @@
 
 		<li><h2>Appello 6 Febbraio 2023</h2>
 			<ul>
+				<li>Come annunciato un anno fa all'inizio del corso e riportato sul sito,questo sara` l'ultimo appello per
+					utilizzare il voto delle prove di esonero o di prove scritte sostenute finora per fare la prova orale. Sara` anche
+					l'ultimo appello di questo corso aperto da me come docente. A partire da maggio sara` possibile sostenere
+					le prove con uno dei tre docenti Prof. Bellini, Prof. Bini, Prof. del Re.
+				</li>
 				<li>Le prenotazioni su infostud sono aperte fino al 30 gennaio </li>
 				<li>La prova scritta avra` inizio in <b>Aula 3</b>, edificio Fermi (CU033) alle ore <b>9:00 il giorno 6/2/2023</b>. </li>
 				<li>Il calendario delle prove orali verra` accordato con coloro che avranno superato la prova scritta.
