@@ -36,7 +36,7 @@
 	<ul>
 		<li>Alla prova scritta del 21 giugno si puo` scegliere se svolgere solo la seconda prova di esonero oppure la prova scritta completa</li>
 		<li>Il voto dell'esonero e` valido fino alla fine della sessione invernale 2023 (Febbraio 2023)</li>
-		<li>Il voto di una prova scritta superata e` valido fino alla fine della sessione invernale 2023 (Febbraio 2023)</li>
+		<li><b>Il voto di una prova scritta superata e` valido fino alla fine della sessione invernale 2023 (Febbraio 2023)</b></li>
 		<li>E` possibile sostenere la prova orale in un appello qualsiasi dopo aver superato la prova scritta. Ad esempio, la prova scritta a giugno
 			e la prova orale a luglio.</li>
 		<li>Se la prova orale non viene superata oppure il voto della prova non e` accettato, bisogna sostenere e superare una nuova prova scritta.</li>
