@@ -19,8 +19,8 @@ Tutte le informzioni sono disponibili sul <a href="https://corsidilaurea.uniroma
 
 <h2>Orario Ricevimento</h2>
   <ul>
-    <li>Docente: Mercoledi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 251-B, Piano 2, Edificio Marconi (CU013)</a>, oppure per appuntamento gli altri giorni </li>
-    <li>Francesco Pandolfi: Venerdi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 245-b, Piano 2, Edificio Marconi (CU013)</a> </li>
+    <li>Docente: Mercoledi` 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 251-B, Piano 2, Edificio Marconi (CU013)</a>, gli altri giorni per appuntamento  </li>
+    <li>Francesco Pandolfi: <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 245-b, Piano 2, Edificio Marconi (CU013)</a> </li>
   </ul>
 
 
