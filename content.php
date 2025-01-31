@@ -6,7 +6,7 @@
 	<div class="post">
 
 	<h2 class="title">Orario Lezioni</h2>
-	<p><b>Le lezioni iniziano il giorno mercoledi` 26 Febbraio 2025</b>
+	<p><b>Inizio lezioni: mercoledì 26 Febbraio 2025</b>
 		<p><a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s2_2425-v16.html#M1">orario II semestre</a></p>
 	<div class="entry">
 			<ul>
@@ -31,7 +31,7 @@
 
 	<li>
 	Lec 01, 26/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/Videolezione-2021-02-24.pdf" target=blank_></a>)
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/" target=blank_></a>)
 	</li>
 <?php /*
 
