@@ -8,6 +8,10 @@
 <p>
 <a href="https://classroom.google.com/c/MjI5MzIyNTU5NTVa?cjc=yru3x3b"  target="_blank">Google classroom: yru3x3b</a><br>
 <a href="https://github.com/rahatlou/FNSN/tree/master/esami"  target="_blank">Esami ed esoneri passati</a></p>
+
+<h2>Programma, Requisiti, e Modalità</h2>
+Tutte le informzioni sono disponibili sul <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/30046/20220331104432/6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5/6d350e0a-d015-47b3-a250-99be99282262/afc0a6b6-ccbb-4082-95a1-d5566c6aa1c6/0d916120-b464-4599-af0b-34fd24d2ead4?guid_cv=6d350e0a-d015-47b3-a250-99be99282262&current_erogata=6d3b0eba-4c04-4faf-8ba5-f9deaa6a0ab5" target="_blank">catalogo dei corsi</a>
+
 <p>Sito anni passati:
 <a href="index.php?link=Didattica&sublink=2022.FNSN"  target="_blank">2022</a>,
 <a href="index.php?link=Didattica&sublink=2021.FNSN"  target="_blank">2021</a>,
