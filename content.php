@@ -1,43 +1,27 @@
 <div id="content">
 	<h1>Fisica Nucleare e Subnucleare</h1>
-  <h3>Canale MF-Z, A.A. 2020-21</h3>
+  <h3>Canale A-F, A.A. 2024-25</h3>
 
-	<div class="post news-cont">
-	   <?php include("Didattica/FNSN/news.html") ?>
-	</div>
 
 	<div class="post">
-		<p><b>Il corso dell'anno accademico 2020/21 inizia il giorno mercoledi` 24 Febbraio 2021</b>
-			<p>Le lezioni  si svolgeranno in modalita` mista come previsto dall'ateneo.
-				 Tutte le lezioni saranno trasmesse in diretta sulla piattaforma Google meet.</p>
-
-				 <p>Per seguire le lezioni in presenza e` richiesta la prenotazione su
-					 <a href="https://prodigit.uniroma1.it/">prodigit</a>.
-					 Sara` effettutato l'appello all'inizio di ogni lezione.</p>
-
-			<p>Tutte le informazioni ed avvisi relativi alle videolezioni verranno comunicati tramite Google Classroom.
-				Tutti gli studenti di questo canale devono registrarsi su
-					<a href="https://classroom.google.com/c/Mjc4MTY5NzM0NTkx?cjc=xpocvet"  target="_blank">google classroom</a> per la classe con il codice
-					<a href="https://classroom.google.com/c/Mjc4MTY5NzM0NTkx?cjc=xpocvet"  target="_blank">xpocvet</a>.
-			  La registrazione e` possibile <b>esclusivamente</b> con le credenziali di uniroma1.
-			</p>
-
-<?php /*
-<p>Si puo` richiedere l'accesso alla registrazione di singole lezioni tramite questa
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf3SxqXdfrWfspBT7wWdodC2sYLiyN4jlWjnwcFNZJ51V7Xew/viewform?usp=sf_link">google form</a>.</p>
-*/?>
-				<p>Il ricevimento si volge tramite Meet nell'orario indicato oppure in presenza per appuntamento.</p>
-
 
 	<h2 class="title">Orario Lezioni</h2>
+	<p><b>Le lezioni iniziano il giorno mercoledi` 26 Febbraio 2025</b>
+		<p><a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s2_2425-v16.html#M1">orario II semestre</a></p>
 	<div class="entry">
 			<ul>
-	  	<li> Mercoledi` 8-10, Aula 6 , Edificio Fermi (CU033). Inizio ore 8:30 (90 min senza pausa) </li>
-	  	<li> Venerdi`  12-14, Aula 6 , Edificio Fermi (CU033) </li>
-	  	<li> <b>Dal 8/4 al 13/5 (inclusi)</b>: Giovedi`  12-14, Aula 6 , Edificio Fermi (CU033)</li>
-			<li>Dal 17/3 e fino al 31/3  le lezioni si svolgono per via telematica.</li>
+	  	<li> Lunedì 8-10, Aula 3 "Nella Mortara" , Edificio Fermi (CU033). Inizio ore 8:30 (90 min senza pausa) </li>
+	  	<li> Martedì  14-16, Aula 3 "Nella Mortara" , Edificio Fermi (CU033) </li>
+			<li> Mercoledì  12-13, Aula 3 "Nella Mortara" , Edificio Fermi (CU033) </li>
 		</ul>
 	</div>
+
+	<h2  class="title">Avvisi</h2>
+	<div class="entry">
+
+	Tutte le comunicazioni saranno inviate esclusivamente tramite google classroom (<a href="https://classroom.google.com/c/MjI5MzIyNTU5NTVa?cjc=yru3x3b"  target="_blank">codice: yru3x3b</a>).
+	È necessario registrarsi con le credenziali istituzionali uniroma1 per ricevere avvisi e materiale aggiuntivo relativo al corso.
+ </div>
 
 	<h2 class="title">Lezioni</h2>
 	<div class="entry">
@@ -46,9 +30,10 @@
 	<ul>
 
 	<li>
-	Lec 01, 24/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-02-24.pdf" target=blank_>lavagna</a>)
+	Lec 01, 26/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/Videolezione-2021-02-24.pdf" target=blank_></a>)
 	</li>
+<?php /*
 
 	<li>
 	Lec 02, 26/2: Dilatazione temporale e contrazione delle lunghezze.
@@ -340,40 +325,8 @@ Esperimento di Conversi.
 Lec 35, 11/6: IV prova in itinere.
 </li>
 
-
-
-
-
-<?php /*
-
-
-	<li>
-	Lec 20, 29/4:
-	Larghezza di decadimento e distribuzione di Breit-Wigner.
-	La regola d'oro di Fermi. Calcolo larghezza di decadimento beta.
-	La scoperta del neutrino. Massa del neutrino e grafico di Kurie.
-	(Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-04-29.pdf">lavagna</a>)
-	</li>
-
-
-	<li>
-	Lec 32, 3/6: Interazioni mediate da particelle. Il propagatore del fotone. Mediatori di forza EM, debole, e forte.
-	Cenni ai diagrammi di Feynman. Teoria di Yukawa.
-	(Dionisi-Longo cap 5, Perkins cap 2)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-03.pdf">lavagna</a>)
-	</li>
-
-	<li>
-	Lec 33, 5/6: Teoria di Yukawa. Mediatori di forza nucleare e debole.
-  Costante di fermi e la stima della massa dei bosoni W e Z.
-	La scoperta del bosone W.
-	Simmetrie, invarianze, e leggi di conservazione. Numero leptonico e barionico.
-	Isospin.
-	(Dionisi-Longo cap 5,7; Griffiths cap 4, Perkins cap 3)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2020/materiale/Videolezione-2020-06-05.pdf">lavagna</a>)
-  </li>
 */ ?>
+
 
 	</ul> <!-- end of lectures -->
 	</div> <!--- end of entry -->
