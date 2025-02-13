@@ -26,15 +26,15 @@
 	<h2 class="title">Lezioni</h2>
 	<div class="entry">
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlDh982if4vN9GndhlkfSzLARf6BIN5AI7HJ5XrzcmgKOd_J1Pp_xwZFXQGrCSk8EIPtknO8wQtOob/pubhtml?gid=1450387565&amp;single=true&amp;widget=true&amp;headers=false" width=820 height=1000></iframe>
+<!--iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlDh982if4vN9GndhlkfSzLARf6BIN5AI7HJ5XrzcmgKOd_J1Pp_xwZFXQGrCSk8EIPtknO8wQtOob/pubhtml?gid=1450387565&amp;single=true&amp;widget=true&amp;headers=false" width=820 height=1000></iframe-->
 	<!-- begin lectures -->
 	<ul>
+		<li>
+		Lec 01, 26/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
+		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/" target=blank_></a>)
+		</li>
 
 <?php /*
-<li>
-Lec 01, 26/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/" target=blank_></a>)
-</li>
 
 	<li>
 	Lec 02, 26/2: Dilatazione temporale e contrazione delle lunghezze.
