@@ -30,23 +30,28 @@
 	<!-- begin lectures -->
 	<ul>
 		<li>
-		Lec 01, 26/2: Introduzione.   Interazioni fondamentali. Unita` di misura nelle interazioni fondamentali.
-		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/" target=blank_></a>)
+		Lec 01, 26/2: Introduzione.
+		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-02-26-lezione-01.pdf" target=blank_>lavagna</a>)
 		</li>
+
+		<li>
+		Lec 02, 3/3: Interazioni fondamentali. Unita` naturali. Dilatazione temporale e contrazione delle lunghezze.
+		Trasformazioni di Lorentz. Calcolo di &beta; e &gamma;.
+		Definizione di energia e impulso delle particelle relativistiche libere. Massa a riposo.
+		Quadrimpulso e Quadrivelocita`.
+		(Dispense relativita`, Griffiths Cap 3)
+
+		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-03-lezione-02.pdf" target=blank_></a>)
+		</li>
+
+
 
 <?php /*
 
-	<li>
-	Lec 02, 26/2: Dilatazione temporale e contrazione delle lunghezze.
-	Trasformazioni di Lorentz. Calcolo di &beta; e &gamma;.(Dispense relativita)
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-02-26.pdf" target=blank_>pdf</a>)
- </li>
+
 
  <li>
-   Lec 03, 3/3: Esperimento di Michelson-Morley. Il tempo proprio. Definizione di energia e
-   impulso delle particelle relativistiche libere. Massa a riposo.
-   Quadrimpulso e Quadrivelocita`.
-   (Dispense relativita`, Griffiths Cap 3)
+   Lec 03, 3/3: Esperimento di Michelson-Morley. Il tempo proprio.
 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-03.pdf" target=blank_>lavagna</a>)
  </li>
 
