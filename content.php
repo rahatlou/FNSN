@@ -37,32 +37,30 @@
 		<li>
 		Lec 02, 3/3: Interazioni fondamentali. Unita` naturali. Dilatazione temporale e contrazione delle lunghezze.
 		Trasformazioni di Lorentz. Calcolo di &beta; e &gamma;.
-		Definizione di energia e impulso delle particelle relativistiche libere. Massa a riposo.
-		Quadrimpulso e Quadrivelocita`.
+		Definizione di energia e impulso delle particelle relativistiche libere. Massa a riposo. Particelle senza massa.
+		Quadrimpulso.
 		(Dispense relativita`, Griffiths Cap 3)
-
-		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-03-lezione-02.pdf" target=blank_></a>)
+		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-03-lezione-02.pdf" target=blank_>lavagna</a>)
 		</li>
 
+		<li>
+	    Lec 03, 4/3:  Quadrivelocita`. Particelle e Antiparticelle.
+	    Decadimenti. Vita media propria delle particelle instabili.
+	    Significato e misura della vita media.
+	    Larghezza di decadimento. Branching ratio.
+	    (Dispense relativita`, Griffiths Cap 3)
+	 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-04-lezione-03.pdf" target=blank_></a>)
+	  </li>
+
+		<li>
+			Esercitazione 01, 5/3:  Esercizi di cienmatica e relatività.
+    </li>
 
 
 <?php /*
 
 
 
- <li>
-   Lec 03, 3/3: Esperimento di Michelson-Morley. Il tempo proprio.
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-03.pdf" target=blank_>lavagna</a>)
- </li>
-
- <li>
-   Lec 04, 5/3:  Particelle senza massa. Antiparticelle.
-   Decadimenti. Vita media propria delle particelle instabili.
-   Significato e misura della vita media.
-   Larghezza di decadimento. Branching ratio.
-   (Dispense relativita`, Griffiths Cap 3)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-05.pdf" target=blank_>lavagna</a>)
- </li>
 
  <li>
  Lec 05, 10/3:
