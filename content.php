@@ -45,10 +45,8 @@
 
 		<li>
 	    Lec 03, 4/3 (2h):  Quadrivelocita`. Particelle e Antiparticelle. Equazione di Dirac e di Klein-Gordon.
-			Adroni, letoni e quark. 
+			Adroni, letoni e quark.
 	    Decadimenti. Vita media propria delle particelle instabili. Tempo di dimezzamento.
-	    Significato e misura della vita media.
-	    Larghezza di decadimento. Branching ratio.
 	    (Dispense relativita`, Terranova cap. 1 e 2, Griffiths Cap 3)
 	 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-04-lezione-03.pdf" target=blank_>lavagna</a>)
 	  </li>
