@@ -35,27 +35,36 @@
 		</li>
 
 		<li>
-		Lec 02, 3/3: Interazioni fondamentali. Unita` naturali. Dilatazione temporale e contrazione delle lunghezze.
+		Lec 02, 3/3 (2h): Interazioni fondamentali. Unita` naturali. Dilatazione temporale e contrazione delle lunghezze.
 		Trasformazioni di Lorentz. Calcolo di &beta; e &gamma;.
 		Definizione di energia e impulso delle particelle relativistiche libere. Massa a riposo. Particelle senza massa.
 		Quadrimpulso.
-		(Dispense relativita`, Griffiths Cap 3)
+		(Dispense relativita`, Terranova cap. 2, Griffiths Cap 3)
 		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-03-lezione-02.pdf" target=blank_>lavagna</a>)
 		</li>
 
 		<li>
-	    Lec 03, 4/3:  Quadrivelocita`. Particelle e Antiparticelle.
-	    Decadimenti. Vita media propria delle particelle instabili.
+	    Lec 03, 4/3 (2h):  Quadrivelocita`. Particelle e Antiparticelle. Equazione di Dirac e di Klein-Gordon.
+			Adroni, letoni e quark. 
+	    Decadimenti. Vita media propria delle particelle instabili. Tempo di dimezzamento.
 	    Significato e misura della vita media.
 	    Larghezza di decadimento. Branching ratio.
-	    (Dispense relativita`, Griffiths Cap 3)
-	 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-04-lezione-03.pdf" target=blank_></a>)
+	    (Dispense relativita`, Terranova cap. 1 e 2, Griffiths Cap 3)
+	 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-04-lezione-03.pdf" target=blank_>lavagna</a>)
 	  </li>
 
 		<li>
-			Esercitazione 01, 5/3:  Esercizi di cienmatica e relatività.
+			Esercitazione 01, 5/3 (1h):  Esercizi di cienmatica e relatività.
     </li>
 
+		<li>
+	    Lec 04, 10/3 (2h):
+	    Significato e misura della vita media.
+	    Larghezza di decadimento. Branching ratio.
+			Decadimenti a due corpi.
+	    (Dispense relativita`, Terranova cap. 1 e 2, Griffiths Cap 3)
+	 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-10-lezione-04.pdf" target=blank_></a>)
+	  </li>
 
 <?php /*
 
