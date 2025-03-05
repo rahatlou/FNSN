@@ -52,15 +52,17 @@
 	  </li>
 
 		<li>
-			Esercitazione 01, 5/3 (1h):  Esercizi di cienmatica e relatività.
+			Esercitazione 01, 5/3 (1h):  Esercizi di relatività e cinematica.
+			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_05.pdf" target=blank_>pdf</a>)
+
     </li>
 
 		<li>
 	    Lec 04, 10/3 (2h):
 	    Significato e misura della vita media.
 	    Larghezza di decadimento. Branching ratio.
-			Decadimenti a due corpi.
-	    (Dispense relativita`, Terranova cap. 1 e 2, Griffiths Cap 3)
+			Decadimenti a due corpi. Decadimenti &alpha; e &beta;
+	    (Terranova cap. 1 e 2, Griffiths Cap 3)
 	 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-10-lezione-04.pdf" target=blank_></a>)
 	  </li>
 
