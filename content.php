@@ -61,13 +61,44 @@
 	    Lec 04, 10/3 (2h):
 	    Significato e misura della vita media.
 	    Larghezza di decadimento. Branching ratio.
-			Decadimenti a due corpi. Decadimenti &alpha; e &beta;
+			Decadimenti a due corpi. Decadimenti &alpha;, &beta;- e &beta;+. Cinematica del decadimento in due corpi.
+			Q-value di un decadimento.
+			Massa invariante. Distribuzione di Breit-Wigner.
 	    (Terranova cap. 1 e 2, Griffiths Cap 3)
-	 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-10-lezione-04.pdf" target=blank_></a>)
+	 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-10-lezione-04.pdf" target=blank_>lavagna</a>)
 	  </li>
+
+		<li>
+			Esercitazione 02, 11/3 (2h):  Esercizi di relatività e cinematica.
+			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_11.pdf" target=blank_></a>)
+
+    </li>
+
+		<li>
+	  Lec 05, 12/3 (1h):
+		Distribuzione di Breit-Wigner.
+	  Esperimenti di diffusione. Definizione operativa di Sezione d'urto. Collisioni a bersaglio fisso.
+	  Coefficiente di assorbimento. Misura della sezione d'urto.
+	  (Terranova cap 2, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-12-lezione-05.pdf" target=blank_></a>)
+	  </li>
+
+
 
 <?php /*
 
+
+<li>
+Lec 06 17/3 (2h):
+Fasci collidenti e luminosita` istantanea e integrata. Acceleratori di particelle.
+Esempio del bosone di Higgs ad LHC.
+Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
+Accettanza e efficienza e numero di eventi osservati. Massa invariante dei prodotti
+di decadimento.
+Sezione d'urto differenziale e la sua misura.
+(Terranova cap 2, Griffiths: cap 6, Dionisi-Longo: cap 3)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-17-lezione-06.pdf" target=blank_></a>)
+</li>
 
 
 
@@ -78,22 +109,10 @@
  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-10.pdf" target=blank_>pdf</a>)
  </li>
 
- <li>
- Lec 06, 12/3:
- Esperimenti di diffusione. Definizione operativa di Sezione d'urto. Collisioni a bersaglio fisso.
- Coefficiente di assorbimento. Misura della sezione d'urto.
- Fasci collidenti e luminosita` istantanea e integrata. Esempio del bosone di Higgs ad LHC.
- (Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-12.pdf" target=blank_>lavagna</a>)
- </li>
-
 
  <li>
  Lec 07, 17/3:
- Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
- Accettanza e efficienza e numero di eventi osservati. Massa invariante dei prodotti
- di decadimento.
- Sezione d'urto differenziale e la sua misura. Calcolo della sezione d'urto:
+  Calcolo della sezione d'urto:
  esempio della sfera rigida.
  (Dionisi-Longo: cap 3, Griffiths: cap 6)
  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-17.pdf" target=blank_>lavagna</a>)
