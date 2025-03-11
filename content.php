@@ -70,15 +70,23 @@
 
 		<li>
 			Esercitazione 02, 11/3 (2h):  Esercizi di relatività e cinematica.
-			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_11.pdf" target=blank_></a>)
+			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_11.pdf" target=blank_>pdf</a>)
 
     </li>
 
 		<li>
-	  Lec 05, 12/3 (1h):
+			Esercitazione 03, 12/3 (1h):  Esercizi di relatività e cinematica.
+			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_12.pdf" target=blank_></a>)
+
+    </li>
+
+		<li>
+	  Lec 05, 17/3 (2h):
 		Distribuzione di Breit-Wigner.
 	  Esperimenti di diffusione. Definizione operativa di Sezione d'urto. Collisioni a bersaglio fisso.
 	  Coefficiente di assorbimento. Misura della sezione d'urto.
+		Fasci collidenti e luminosita` istantanea e integrata. Acceleratori di particelle.
+		Sezione d'urto differenziale e la sua misura.
 	  (Terranova cap 2, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-12-lezione-05.pdf" target=blank_></a>)
 	  </li>
@@ -102,12 +110,6 @@ Sezione d'urto differenziale e la sua misura.
 
 
 
- <li>
- Lec 05, 10/3:
- Esercizi di cinematica e decadimenti. Decadimenti a due corpi. Decadimento del pione carico. Angolo di apertura nei decadimenti. sistemi di riferimento.
- (dispense relativita`)
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-10.pdf" target=blank_>pdf</a>)
- </li>
 
 
  <li>
