@@ -75,8 +75,8 @@
     </li>
 
 		<li>
-			Esercitazione 03, 12/3 (1h):  Esercizi di relatività e cinematica.
-			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_12.pdf" target=blank_></a>)
+			Esercitazione 03, 12/3 (1h):  Esercizi di cinematica, decadimento in 2 corpi e massa invariante.
+			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_12.pdf" target=blank_>pdf</a>)
 
     </li>
 
