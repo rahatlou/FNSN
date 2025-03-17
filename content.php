@@ -88,6 +88,14 @@
 		Fasci collidenti e luminosita` istantanea e integrata. Acceleratori di particelle.
 		Sezione d'urto differenziale e la sua misura.
 	  (Terranova cap 2, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-12-lezione-05.pdf" target=blank_>lavagna</a>)
+	  </li>
+
+		<li>
+	  Lec 05, 178/3 (2h):
+		Fasci collidenti e luminosita` istantanea e integrata. Acceleratori di particelle.
+		Sezione d'urto differenziale e la sua misura.
+	  (Terranova cap 2, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-12-lezione-05.pdf" target=blank_></a>)
 	  </li>
 
