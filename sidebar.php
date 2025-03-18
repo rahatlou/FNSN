@@ -27,7 +27,7 @@ Tutte le informzioni sono disponibili sul <a href="https://corsidilaurea.uniroma
   <h2>Libri e referenze utili</h2>
   <div style="height: 400px; overflow: auto">
   <ul>
-    <li>R. Paramatti, <a href="http://cern.ch/ric/cinematica.pdf">Dispense di cinematica relativistica</a></li>
+    <li>R. Paramatti, <a href="https://riccardo.web.cern.ch/cinematica.pdf">Dispense di cinematica relativistica</a></li>
     <li>Terranova, <a href="https://global.oup.com/academic/product/a-modern-primer-in-particle-and-nuclear-physics-9780192845245?cc=it&lang=en&" target="_blank">A modern primer in particle and nuclear physics</a></li>
     <li>Ceradini, <a href="http://webusers.fis.uniroma3.it/~ceradini/dispense.pdf" target="_blank">Dispense di fisica nucleare e subnuclare</a>,</li>
     <li>Cahn and Goldhaber, <a href="https://doi.org/10.1017/CBO9780511609923">The experimental foundation of Particle Physics</a>, 2nd Ed.</li>
