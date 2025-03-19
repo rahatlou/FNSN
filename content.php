@@ -96,7 +96,7 @@
 		Fasci collidenti e luminosita` istantanea e integrata. Acceleratori di particelle.
 		Esempio del bosone di Higgs ad LHC.
 		Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
-		Massa invariante dei prodotti di decadimento.
+		Massa invariante dei prodotti di decadimento. Esempio di H&rightarrow;&gamma;&gamma; e H&rightarrow;ZZ&rightarrow;llll.
 		Sezione d'urto e la regola d'oro di Fermi.
 	  (Terranova cap 2, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-18-lezione-06.pdf" target=blank_>lavagna</a>)
@@ -111,9 +111,10 @@
 
 		<li>
 	  Lec 08, 24/3:
-	  Particelle alfa: origine e caratteristiche cinematiche.
+	  Particelle &alpha;: origine e caratteristiche cinematiche.
 	  Diffusione di Rutherford e scoperta del nucleo. Calcolo della sezione d'urto differenziale con la regola d'oro di Fermi.
 		Calcolo classico della sezione d'urto.
+		Esperimenti di Rutheford and Chadwick: Scperta del protone e del neutrone.
 		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-24-lezione-08.pdf" target=blank_></a>)
 
 	 </li>
