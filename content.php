@@ -88,34 +88,40 @@
 		Fasci collidenti e luminosita` istantanea e integrata. Acceleratori di particelle.
 		Sezione d'urto differenziale e la sua misura.
 	  (Terranova cap 2, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
-	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-12-lezione-05.pdf" target=blank_>lavagna</a>)
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-17-lezione-05.pdf" target=blank_>lavagna</a>)
 	  </li>
 
 		<li>
-	  Lec 05, 178/3 (2h):
+	  Lec 06, 18/3 (2h):
 		Fasci collidenti e luminosita` istantanea e integrata. Acceleratori di particelle.
-		Sezione d'urto differenziale e la sua misura.
+		Esempio del bosone di Higgs ad LHC.
+		Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
+		Massa invariante dei prodotti di decadimento.
+		Sezione d'urto e la regola d'oro di Fermi.
 	  (Terranova cap 2, Griffiths: cap 3 e 6, Dionisi-Longo: cap 3)
-	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-12-lezione-05.pdf" target=blank_></a>)
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-18-lezione-06.pdf" target=blank_>lavagna</a>)
 	  </li>
+
+		<li>
+	  Lec 07, 19/3 (1h):
+		Sezione d'urto differenziale e la sua misura. Esperimento di Rutherford.
+	  (Terranova cap 2, Griffiths: cap 6, Dionisi-Longo: cap 3)
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-19-lezione-07.pdf" target=blank_>lavagna</a>)
+	  </li>
+
+		<li>
+	  Lec 08, 24/3:
+	  Particelle alfa: origine e caratteristiche cinematiche.
+	  Diffusione di Rutherford e scoperta del nucleo. Calcolo della sezione d'urto differenziale con la regola d'oro di Fermi.
+		Calcolo classico della sezione d'urto.
+		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-24-lezione-08.pdf" target=blank_></a>)
+
+	 </li>
+
 
 
 
 <?php /*
-
-
-<li>
-Lec 06 17/3 (2h):
-Fasci collidenti e luminosita` istantanea e integrata. Acceleratori di particelle.
-Esempio del bosone di Higgs ad LHC.
-Sezione d'urto di produzione e branching ratio di decadimento dell'Higgs.
-Accettanza e efficienza e numero di eventi osservati. Massa invariante dei prodotti
-di decadimento.
-Sezione d'urto differenziale e la sua misura.
-(Terranova cap 2, Griffiths: cap 6, Dionisi-Longo: cap 3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-17-lezione-06.pdf" target=blank_></a>)
-</li>
-
 
 
 
