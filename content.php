@@ -124,7 +124,7 @@
   	 Lec 09, 25/3 (1h):
 	   Esperimento di Chadwick: Scoperta del neutrone. Urti anelastici ed energia di soglia.
 		 (Cahn-Goldhaber cap 1, Dionisi-Longo cap 3)
-	   (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-24-lezione-09.pdf" target=blank_></a>)
+	   (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-25-lezione-09.pdf" target=blank_>lavagna</a>)
 	   Esercitazione 04, 25/3 (1h): esercizi di cinematica degli urti.
 		 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_25.pdf" target=blank_></a>)
 	</li>
