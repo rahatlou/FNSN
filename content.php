@@ -130,8 +130,8 @@
 	</li>
 
 <li>
-	Esercitazione 05, 26/3 (1h): esercizi di cinematica degli urti.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_26.pdf" target=blank_></a>)
+	Esercitazione 05, 26/3 (1h): esercizi di cinematica degli urti. Energia di soglia e l'effetto dell'impulso di Fermi nei nuclei.
+	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_26.pdf" target=blank_>pdf</a>)
 </li>
 
 
