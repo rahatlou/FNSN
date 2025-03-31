@@ -127,13 +127,37 @@
 	   (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-25-lezione-09.pdf" target=blank_>lavagna</a>)
 	   Esercitazione 04, 25/3 (1h): esercizi di cinematica degli urti.
 		 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_25.pdf" target=blank_>pdf</a>)
-	</li>
+	 </li>
 
-<li>
-	Esercitazione 05, 26/3 (1h): esercizi di cinematica degli urti. Energia di soglia e l'effetto dell'impulso di Fermi nei nuclei.
-	(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_26.pdf" target=blank_>pdf</a>)
-</li>
+   <li>
+	  Esercitazione 05, 26/3 (1h): esercizi di cinematica degli urti. Energia di soglia e l'effetto dell'impulso di Fermi nei nuclei.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_26.pdf" target=blank_>pdf</a>)
+   </li>
 
+	 <li>
+  	 Lec 10, 31/3:
+		 Esperimento di Millikan: Misura della carica e dell'elettrone.
+		 Interazioni delle particelle nella materia.
+	   Urti contro elettroni e nuclei. Perdita di energia per ionizzazione per le particelle cariche.
+	   Calcolo classico dell'energia persa per ionizzazione.
+  	 (Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1)
+		 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-31-lezione-10.pdf" target=blank_>lavagna</a>)
+	 </li>
+
+	 <li>
+	   Lec 11, 1/4:
+  	 Perdita di energia per ionizzazione: formula di Bethe-Bloch.
+	   Identificazione di particelle con dE/dx.
+	   Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
+	   (Das-Ferbel cap 6.2; Longo-Dionisi cap 4, Jackson, Classical Electrodynamics cap 13.1,
+	    <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-01-lezione-11.pdf" target=blank_></a>)
+	 </li>
+
+	 <li>
+	  Esercitazione 06, 2/4 (1h): esercizi.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_02.pdf" target=blank_></a>)
+   </li>
 
 
 <?php /*
