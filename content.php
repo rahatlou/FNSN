@@ -150,7 +150,7 @@
 	   Identificazione di particelle con dE/dx.
 	   Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
 	   (Torrenova cap 3, Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson, Classical Electrodynamics cap 13.1,
-	    <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>)
+	    <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="https://pdg.lbl.gov/2024/reviews/rpp2024-rev-passage-particles-matter.pdf" target=blank_>cap 34</a>)
 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-01-lezione-11.pdf" target=blank_></a>)
 	 </li>
 
