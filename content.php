@@ -34,6 +34,7 @@
 		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-02-26-lezione-01.pdf" target=blank_>lavagna</a>)
 		</li>
 
+		<hr>
 		<li>
 		Lec 02, 3/3 (2h): Interazioni fondamentali. Unita` naturali. Dilatazione temporale e contrazione delle lunghezze.
 		Trasformazioni di Lorentz. Calcolo di &beta; e &gamma;.
@@ -43,6 +44,7 @@
 		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-03-lezione-02.pdf" target=blank_>lavagna</a>)
 		</li>
 
+		<hr>
 		<li>
 	    Lec 03, 4/3 (2h):  Quadrivelocita`. Particelle e Antiparticelle. Equazione di Dirac e di Klein-Gordon.
 			Adroni, letoni e quark.
@@ -51,12 +53,14 @@
 	 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-04-lezione-03.pdf" target=blank_>lavagna</a>)
 	  </li>
 
+		<hr>
 		<li>
 			Esercitazione 01, 5/3 (1h):  Esercizi di relatività e cinematica.
 			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_05.pdf" target=blank_>pdf</a>)
 
     </li>
 
+		<hr>
 		<li>
 	    Lec 04, 10/3 (2h):
 	    Significato e misura della vita media.
@@ -68,18 +72,21 @@
 	 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-10-lezione-04.pdf" target=blank_>lavagna</a>)
 	  </li>
 
+		<hr>
 		<li>
 			Esercitazione 02, 11/3 (2h):  Esercizi di relatività e cinematica.
 			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_11.pdf" target=blank_>pdf</a>)
 
     </li>
 
+		<hr>
 		<li>
 			Esercitazione 03, 12/3 (1h):  Esercizi di cinematica, decadimento in 2 corpi e massa invariante.
 			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_12.pdf" target=blank_>pdf</a>)
 
     </li>
 
+		<hr>
 		<li>
 	  Lec 05, 17/3 (2h):
 		Distribuzione di Breit-Wigner.
@@ -91,6 +98,7 @@
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-17-lezione-05.pdf" target=blank_>lavagna</a>)
 	  </li>
 
+		<hr>
 		<li>
 	  Lec 06, 18/3 (2h):
 		Fasci collidenti e luminosita` istantanea e integrata. Acceleratori di particelle.
@@ -102,6 +110,7 @@
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-18-lezione-06.pdf" target=blank_>lavagna</a>)
 	  </li>
 
+		<hr>
 		<li>
 	  Lec 07, 19/3 (1h):
 		Sezione d'urto differenziale e la sua misura. Esperimento di Rutherford.
@@ -109,6 +118,7 @@
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-19-lezione-07.pdf" target=blank_>lavagna</a>)
 	  </li>
 
+		<hr>
 		<li>
 	  Lec 08, 24/3 (2h):
 	  Particelle &alpha;: origine e caratteristiche cinematiche.
@@ -120,88 +130,137 @@
 
 	 </li>
 
+	 <hr>
 	 <li>
   	 Lec 09, 25/3 (1h):
 	   Esperimento di Chadwick: Scoperta del neutrone. Urti anelastici ed energia di soglia.
 		 (Cahn-Goldhaber cap 1, Dionisi-Longo cap 3)
 	   (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-25-lezione-09.pdf" target=blank_>lavagna</a>)
+  </li>
+
+	<hr>
+	<li>
 	   Esercitazione 04, 25/3 (1h): esercizi di cinematica degli urti.
 		 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_25.pdf" target=blank_>pdf</a>)
 	 </li>
 
+	 <hr>
    <li>
 	  Esercitazione 05, 26/3 (1h): esercizi di cinematica degli urti. Energia di soglia e l'effetto dell'impulso di Fermi nei nuclei.
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_03_26.pdf" target=blank_>pdf</a>)
    </li>
 
+	 <hr>
 	 <li>
   	 Lec 10, 31/3:
 		 Esperimento di Millikan: Misura della carica e dell'elettrone.
 		 Interazioni delle particelle cariche nella materia.
 	   Urti contro elettroni e nuclei. Perdita di energia per ionizzazione per le particelle cariche.
-	   Calcolo classico dell'energia persa per ionizzazione.
+	   Calcolo classico di Bohr dell'energia persa per ionizzazione.
   	 (Torrenova cap 3, Das-Ferbel cap 6; Longo-Dionisi cap 4; Jackson, Classical Electrodynamics cap 13.1)
 		 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-03-31-lezione-10.pdf" target=blank_>lavagna</a>)
 	 </li>
 
+	 <hr>
 	 <li>
 	   Lec 11, 1/4:
+		 Calcolo classico di Bohr dell'energia persa per ionizzazione.
   	 Perdita di energia per ionizzazione: formula di Bethe-Bloch.
 	   Identificazione di particelle con dE/dx.
-	   Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
 	   (Torrenova cap 3, Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson, Classical Electrodynamics cap 13.1,
 	    <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="https://pdg.lbl.gov/2024/reviews/rpp2024-rev-passage-particles-matter.pdf" target=blank_>cap 34</a>)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-01-lezione-11.pdf" target=blank_></a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-01-lezione-11.pdf" target=blank_>lavagna</a>)
 	 </li>
 
+	 <hr>
 	 <li>
-	  Esercitazione 06, 2/4 (1h): esercizi.
-	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_02.pdf" target=blank_></a>)
+	  Esercitazione 06, 2/4 (1h): esercizi di cinematica. energia di soglia. trasformazioni di Lorentz.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_02.pdf" target=blank_>pdf</a>)
    </li>
+
+	 <hr>
+	 <li>
+	   Lec 12, 7/4:
+	   Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
+		 Perdita di energia per elettroni e positroni.
+		 Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
+		 Energia critica e lunghezza di radiazione.
+	   (Torrenova cap 3, Das-Ferbel cap 6; Longo-Dionisi cap 4,
+	    <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="https://pdg.lbl.gov/2024/reviews/rpp2024-rev-passage-particles-matter.pdf" target=blank_>cap 34</a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-07-lezione-12.pdf" target=blank_></a>)
+	 </li>
+
+	 <hr>
+	 <li>
+	  Esercitazione 07, 8/4 (2h): esercizi sugli urti.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_08.pdf" target=blank_></a>)
+   </li>
+
+   <hr>
+	 <li>
+	 Lec 13, 9/4 (1h):
+	 Traiettoria delle particelle cariche nel campo magnetico.
+	 Tracciatori e la misura dell'impulso. Scoperta del positrone.
+	 (Torrenova cap 3, Cahn-Goldhaber cap 1)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-09-lezione-13.pdf" target=blank_></a>)
+	 </li>
 
 
 <?php /*
 
 
 
-
- <li>
- Lec 07, 17/3:
-  Calcolo della sezione d'urto:
- esempio della sfera rigida.
- (Dionisi-Longo: cap 3, Griffiths: cap 6)
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-17.pdf" target=blank_>lavagna</a>)
- </li>
-
- <li>
- Lec 08, 19/3: Esercizi di cinematica: Decadimenti, Sistemi di riferimento, e Massa invariante.
- (dispense relativita`)
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-19.pdf" target=blank_>pdf</a>)
- </li>
-
- <li>
- Lec 09, 24/3:
- Particelle alfa: origine e caratteristiche cinematiche.
- Diffusione di Rutherford e scoperta del nucleo. Calcolo classico sezione d'urto
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Rutherford.pdf" target=blank_>pdf</a>)
- (Landau e Lifsits, Meccanica, cap 3.14, 4.18, 4.19. Dionisi-Longo cap 3. Cahn-Goldhaber cap 1.)
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-24.pdf" target=blank_>lavagna</a>)
+<li>
+Lec 23, 30/4:
+Traiettoria delle particelle cariche nel campo magnetico.
+Tracciatori e la misura dell'impulso.
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-30.pdf" target=blank_>pdf</a>)
 </li>
 
- <li>
- Lec 10, 26/3:
- 12:15: prova in itinere. II ora: esercizio di esonero.
- Urti ed Energia di Soglia di reazione: produzione di anti-protone.
- (dispense relativita`, Griffiths: cap 3, Dionisi-Longo: cap 3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-03-26.pdf" target=blank_>pdf</a>)
- </li>
-
- <li>
- Lec 11, 31/3:
- Scoperta del protone e del neutrone. Scoperta dell'elettrone. Esperimenti di Rutherford, Chadwick, Thompson, e Millikan.
- (Dionisi-Longo cap 1,2,3)
- (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-03-31.pdf" target=blank_>lavagna</a>)
+<li>
+Lec 24, 5/5:
+Diffusione coulombiana multipla nella materia.
+Effetto Cerenkov. Identificazione delle particelle.
+(Das-Ferbel cap 6.2; Longo-Dionisi cap 4,
+<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-05.pdf" target=blank_>lavagna</a>)
 </li>
+
+<li>
+Lec 25, 6/5:
+
+Interazione dei fotoni nella materia. Sciami elettromagnetici.
+(Das-Ferbel cap 6.3; Longo-Dionisi cap 4,
+<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-06.pdf" target=blank_>lavagna</a>)
+</li>
+
+<li>
+Lec 26, 7/5:
+esercizi sull'interazione nella materia.
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-05-07.pdf" target=blank_>pdf</a>)
+</li>
+
+<li>
+Lec 27, 12/5:
+Lunghezza di attenuazione dei fotoni.
+Caratteristiche degli sciami elettromagnetici. Cenni agli sciami adronici.
+Rivelatori di particlle. Tracciatori. Calorimetri.
+(Das-Ferbel cap 7; Longo-Dionisi cap 4,
+<a href="http://pdg.lbl.gov/2019/AtomicNuclearProperties/index.html" target="blank_">Atomic &amp; Nuclear properties</a>)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-12.pdf" target=blank_>lavagna</a>)
+</li>
+
+<li>
+Lec 28, 13/5:
+Acceleratori di particelle. Differenze tra acceleratori lineari
+e circolari. Ciclotrone e sincrotrone.
+Decadimento &beta;. Regola d'oro di Fermi. Teoria di Fermi per l'interazione debole.
+(Das-Ferbel cap8, Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
+(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-13.pdf" target=blank_>lavagna</a>)
+</li>
+
+
 
 <li>
 Lec 12, 7/4:
@@ -282,76 +341,6 @@ II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 )
 </li>
 
-<li>
-Lec 21, 28/4: Interazioni delle particelle nella materia.
-Urti contro elettroni e nuclei. Perdita di energia per ionizzazione per le particelle cariche.
-Calcolo di Bohr dell'energia persa per ionizzazione.
-(Das-Ferbel cap 6; Longo-Dionisi cap 4, Jackson cap 13.1,
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-28.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 22, 29/4:
-Perdita di energia per ionizzazione: formula di Bethe-Bloch.
-Identificazione di particelle con dE/dx.
-Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
-(Das-Ferbel cap 6.2; Longo-Dionisi cap 4, Jackson cap 13.1,
-<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-29.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 23, 30/4:
-Esercizi sull'interazione nella materia. Calcolo di dE/dx.
-Traiettoria delle particelle cariche nel campo magnetico.
-Tracciatori e la misura dell'impulso.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-30.pdf" target=blank_>pdf</a>)
-</li>
-
-<li>
-Lec 24, 5/5:
-Diffusione coulombiana multipla nella materia.
-Effetto Cerenkov. Identificazione delle particelle.
-(Das-Ferbel cap 6.2; Longo-Dionisi cap 4,
-<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-05.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 25, 6/5:
-Perdita di energia per elettroni e positroni.
-Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
-Energia critica e lunghezza di radiazione.
-Interazione dei fotoni nella materia. Sciami elettromagnetici.
-(Das-Ferbel cap 6.3; Longo-Dionisi cap 4,
-<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-06.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 26, 7/5:
-esercizi sull'interazione nella materia.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-05-07.pdf" target=blank_>pdf</a>)
-</li>
-
-<li>
-Lec 27, 12/5:
-Lunghezza di attenuazione dei fotoni.
-Caratteristiche degli sciami elettromagnetici. Cenni agli sciami adronici.
-Rivelatori di particlle. Tracciatori. Calorimetri.
-(Das-Ferbel cap 7; Longo-Dionisi cap 4,
-<a href="http://pdg.lbl.gov/2019/AtomicNuclearProperties/index.html" target="blank_">Atomic &amp; Nuclear properties</a>)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-12.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 28, 13/5:
-Acceleratori di particelle. Differenze tra acceleratori lineari
-e circolari. Ciclotrone e sincrotrone.
-Decadimento &beta;. Regola d'oro di Fermi. Teoria di Fermi per l'interazione debole.
-(Das-Ferbel cap8, Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-13.pdf" target=blank_>lavagna</a>)
-</li>
 
 <li>
 Lec 29, 14/5:
