@@ -183,11 +183,10 @@
 	   Lec 12, 7/4:
 	   Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
 		 Perdita di energia per elettroni e positroni.
-		 Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung.
-		 Energia critica e lunghezza di radiazione.
+		 Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung. lunghezza di radiazione.
 	   (Torrenova cap 3, Das-Ferbel cap 6; Longo-Dionisi cap 4,
 	    <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="https://pdg.lbl.gov/2024/reviews/rpp2024-rev-passage-particles-matter.pdf" target=blank_>cap 34</a>)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-07-lezione-12.pdf" target=blank_></a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-07-lezione-12.pdf" target=blank_>lavagna</a>)
 	 </li>
 
 	 <hr>
@@ -196,9 +195,14 @@
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_08.pdf" target=blank_></a>)
    </li>
 
+
+<?php /*
+
+
    <hr>
 	 <li>
 	 Lec 13, 9/4 (1h):
+	 Energia critica e lunghezza di radiazione.
 	 Traiettoria delle particelle cariche nel campo magnetico.
 	 Tracciatori e la misura dell'impulso. Scoperta del positrone.
 	 (Torrenova cap 3, Cahn-Goldhaber cap 1)
@@ -206,8 +210,16 @@
 	 </li>
 
 
-<?php /*
-
+	 <hr>
+	 <li>
+	 Lec 14, 14/4 (1h):
+	 Energia critica e lunghezza di radiazione.
+	 Diffusione coulombiana multipla nella materia.
+	 Traiettoria delle particelle cariche nel campo magnetico.
+	 Tracciatori e la misura dell'impulso. Scoperta del positrone.
+	 (Torrenova cap 3, Cahn-Goldhaber cap 1)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-09-lezione-13.pdf" target=blank_></a>)
+	 </li>
 
 
 <li>
@@ -219,7 +231,7 @@ Tracciatori e la misura dell'impulso.
 
 <li>
 Lec 24, 5/5:
-Diffusione coulombiana multipla nella materia.
+
 Effetto Cerenkov. Identificazione delle particelle.
 (Das-Ferbel cap 6.2; Longo-Dionisi cap 4,
 <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
