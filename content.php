@@ -180,11 +180,11 @@
 
 	 <hr>
 	 <li>
-	   Lec 12, 7/4:
+	   Lec 12, 7/4 (2h):
 	   Percorso residuo nel mezzo. Picco di Bragg e applicazioni.
 		 Perdita di energia per elettroni e positroni.
 		 Formula di Larmor 	e la potenza di irraggiamento. Bremsstrahlung. lunghezza di radiazione.
-	   (Torrenova cap 3, Das-Ferbel cap 6; Longo-Dionisi cap 4,
+	   (Torrenova cap 3, Das-Ferbel cap 6, Longo-Dionisi cap 4,
 	    <a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="https://pdg.lbl.gov/2024/reviews/rpp2024-rev-passage-particles-matter.pdf" target=blank_>cap 34</a>)
 	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-07-lezione-12.pdf" target=blank_>lavagna</a>)
 	 </li>
@@ -195,63 +195,90 @@
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_08.pdf" target=blank_></a>)
    </li>
 
+	 <hr>
+	 <li>
+	 Lec 13, 9/4 (1h):
+	 Traiettoria delle particelle cariche nel campo magnetico.
+	 Tracciatori e la misura dell'impulso. Scoperta del positrone.
+	 (Torrenova cap 3, Das-Ferbel cap 6, Longo-Dionisi cap 4)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-13-lezione-13.pdf" target=blank_></a>)
+	 </li>
+
+	 <hr>
+	 <li>
+	 Lec 14, 14/4 (2h):
+	 Energia critica e lunghezza di radiazione per gli elettroni.
+	 Diffusione coulombiana multipla nella materia.
+	 Effetto Cerenkov. Identificazione delle particelle.
+	 (Torrenova cap 3, Das-Ferbel cap 6, Longo-Dionisi cap 4)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-14-lezione-13.pdf" target=blank_></a>)
+	 </li>
+
+	 <hr>
+	 <li>
+	  Esercitazione 08, 15/4 (2h): esercizi sull'interazione nella materia.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_15.pdf" target=blank_></a>)
+   </li>
+
+	 <hr>
+	 <li>
+	  Esercitazione 09, 16/4 (1h): esercizi sull'interazione nella materia.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_16.pdf" target=blank_></a>)
+   </li>
+
+  <!--  Vacanze di Pasqua -->
+
+	 <hr>
+	 <li>
+	 Lec 15, 28/4 (2h):
+   Interazione dei fotoni nella materia. Sciami elettromagnetici.
+	 Lunghezza di attenuazione dei fotoni.
+	 Caratteristiche degli sciami elettromagnetici. Cenni agli sciami adronici.
+	 Rivelatori di particlle. Tracciatori. Calorimetri.
+	 (Torrenova cap 3, Das-Ferbel cap 6, Longo-Dionisi cap 4)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-28-lezione-15.pdf" target=blank_></a>)
+	 </li>
+
+	 <hr>
+	 <li>
+	 Lec 15, 29/4 (2h):
+	 Rivelatori di particlle. Tracciatori. Calorimetri.
+	 Acceleratori di particelle. Differenze tra acceleratori lineari
+	 e circolari. Ciclotrone e sincrotrone.
+	 (Torrenova cap 3, Das-Ferbel cap 6 e 8, Longo-Dionisi cap 4)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-21-lezione-13.pdf" target=blank_></a>)
+   </li>
+
+	 <hr>
+	 <li>
+	  Esercitazione 10, 30/4 (1h): esercizi sull'interazione nella materia.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_30.pdf" target=blank_></a>)
+   </li>
+
+	 <hr>
+	 <li>
+	  Esercitazione 11, 5/5 (2h): esercizi sull'interazione nella materia.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_05.pdf" target=blank_></a>)
+   </li>
+
+	 <hr>
+	 <li>
+	  Esercitazione 12, 6/5 (2h): esercizi sull'interazione nella materia.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_05.pdf" target=blank_></a>)
+   </li>
+
+	 <hr>
+	 <li>
+	  Esercitazione 13, 7/5 (1h): esercizi sull'interazione nella materia.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_05.pdf" target=blank_></a>)
+   </li>
+
 
 <?php /*
 
 
-   <hr>
-	 <li>
-	 Lec 13, 9/4 (1h):
-	 Energia critica e lunghezza di radiazione.
-	 Traiettoria delle particelle cariche nel campo magnetico.
-	 Tracciatori e la misura dell'impulso. Scoperta del positrone.
-	 (Torrenova cap 3, Cahn-Goldhaber cap 1)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-09-lezione-13.pdf" target=blank_></a>)
-	 </li>
 
 
-	 <hr>
-	 <li>
-	 Lec 14, 14/4 (1h):
-	 Energia critica e lunghezza di radiazione.
-	 Diffusione coulombiana multipla nella materia.
-	 Traiettoria delle particelle cariche nel campo magnetico.
-	 Tracciatori e la misura dell'impulso. Scoperta del positrone.
-	 (Torrenova cap 3, Cahn-Goldhaber cap 1)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-09-lezione-13.pdf" target=blank_></a>)
-	 </li>
-
-
-<li>
-Lec 23, 30/4:
-Traiettoria delle particelle cariche nel campo magnetico.
-Tracciatori e la misura dell'impulso.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-04-30.pdf" target=blank_>pdf</a>)
-</li>
-
-<li>
-Lec 24, 5/5:
-
-Effetto Cerenkov. Identificazione delle particelle.
-(Das-Ferbel cap 6.2; Longo-Dionisi cap 4,
-<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-05.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 25, 6/5:
-
-Interazione dei fotoni nella materia. Sciami elettromagnetici.
-(Das-Ferbel cap 6.3; Longo-Dionisi cap 4,
-<a href="http://pdg.lbl.gov/" target=blank_>PDG</a> <a href="http://pdg.lbl.gov/2019/reviews/rpp2019-rev-passage-particles-matter.pdf" target=blank_>cap 33</a>, Jackson 14.2, 14.3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-06.pdf" target=blank_>lavagna</a>)
-</li>
-
-<li>
-Lec 26, 7/5:
-esercizi sull'interazione nella materia.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/esercitazione-2021-05-07.pdf" target=blank_>pdf</a>)
-</li>
 
 <li>
 Lec 27, 12/5:
@@ -265,8 +292,7 @@ Rivelatori di particlle. Tracciatori. Calorimetri.
 
 <li>
 Lec 28, 13/5:
-Acceleratori di particelle. Differenze tra acceleratori lineari
-e circolari. Ciclotrone e sincrotrone.
+
 Decadimento &beta;. Regola d'oro di Fermi. Teoria di Fermi per l'interazione debole.
 (Das-Ferbel cap8, Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-13.pdf" target=blank_>lavagna</a>)
