@@ -191,7 +191,7 @@
 
 	 <hr>
 	 <li>
-	  Esercitazione 07, 8/4 (2h): esercizi sugli urti.
+	  Esercitazione 07, 8/4 (2h): esercizi sugli urti, l'assorbimento e la sezione d'urto.
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_08.pdf" target=blank_></a>)
    </li>
 
@@ -227,6 +227,11 @@
    </li>
 
   <!--  Vacanze di Pasqua -->
+	<hr>
+	<li>
+	 <b>Pausa di Pasqua: dal 17 al 25 aprile</b>
+	</li>
+
 
 	 <hr>
 	 <li>
@@ -241,7 +246,7 @@
 
 	 <hr>
 	 <li>
-	 Lec 15, 29/4 (2h):
+	 Lec 16, 29/4 (2h):
 	 Rivelatori di particlle. Tracciatori. Calorimetri.
 	 Acceleratori di particelle. Differenze tra acceleratori lineari
 	 e circolari. Ciclotrone e sincrotrone.
