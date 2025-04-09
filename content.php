@@ -199,9 +199,9 @@
 	 <li>
 	 Lec 13, 9/4 (1h):
 	 Traiettoria delle particelle cariche nel campo magnetico.
-	 Tracciatori e la misura dell'impulso. Scoperta del positrone.
+	 Tracciatori e la misura dell'impulso. Esempi ed esercizi.
 	 (Torrenova cap 3, Das-Ferbel cap 6, Longo-Dionisi cap 4)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-13-lezione-13.pdf" target=blank_></a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_09.pdf" target=blank_>pdf</a>)
 	 </li>
 
 	 <hr>
@@ -216,7 +216,7 @@
 
 	 <hr>
 	 <li>
-	  Esercitazione 08, 15/4 (2h): esercizi sull'interazione nella materia.
+	  Esercitazione 08, 15/4 (2h): Scoperta del positrone. esercizi su dE/dx.
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_15.pdf" target=blank_></a>)
    </li>
 
