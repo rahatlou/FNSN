@@ -209,9 +209,9 @@
 	 Lec 14, 14/4 (2h):
 	 Energia critica e lunghezza di radiazione per gli elettroni.
 	 Diffusione coulombiana multipla nella materia.
-	 Effetto Cerenkov. Identificazione delle particelle.
+	 Effetto Cerenkov. Identificazione delle particelle tramite l'angolo di Cerenkov.
 	 (Torrenova cap 3, Das-Ferbel cap 6, Longo-Dionisi cap 4)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-14-lezione-13.pdf" target=blank_></a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-14-lezione-13.pdf" target=blank_>lavagna</a>)
 	 </li>
 
 	 <hr>
@@ -282,18 +282,6 @@
 <?php /*
 
 
-
-
-
-<li>
-Lec 27, 12/5:
-Lunghezza di attenuazione dei fotoni.
-Caratteristiche degli sciami elettromagnetici. Cenni agli sciami adronici.
-Rivelatori di particlle. Tracciatori. Calorimetri.
-(Das-Ferbel cap 7; Longo-Dionisi cap 4,
-<a href="http://pdg.lbl.gov/2019/AtomicNuclearProperties/index.html" target="blank_">Atomic &amp; Nuclear properties</a>)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-12.pdf" target=blank_>lavagna</a>)
-</li>
 
 <li>
 Lec 28, 13/5:
