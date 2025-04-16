@@ -216,13 +216,13 @@
 
 	 <hr>
 	 <li>
-	  Esercitazione 08, 15/4 (2h): Scoperta del positrone. esercizi su dE/dx.
-	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_15.pdf" target=blank_></a>)
+	  Esercitazione 08, 15/4 (2h): esercizi sull'interazione nella materia.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_15.pdf" target=blank_>pdf</a>)
    </li>
 
 	 <hr>
 	 <li>
-	  Esercitazione 09, 16/4 (1h): esercizi sull'interazione nella materia.
+	  Esercitazione 09, 16/4 (1h): Scoperta del positrone. esercizi sull'interazione nella materia.
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_16.pdf" target=blank_></a>)
    </li>
 
