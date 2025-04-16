@@ -222,7 +222,7 @@
 
 	 <hr>
 	 <li>
-	  Esercitazione 09, 16/4 (1h): Scoperta del positrone. esercizi sull'interazione nella materia.
+	  Esercitazione 09, 16/4 (1h): la scoperta del positrone. esercizi sull'interazione nella materia.
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_16.pdf" target=blank_></a>)
    </li>
 
