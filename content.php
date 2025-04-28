@@ -223,13 +223,13 @@
 	 <hr>
 	 <li>
 	  Esercitazione 09, 16/4 (1h): la scoperta del positrone. esercizi sull'interazione nella materia.
-	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_16.pdf" target=blank_></a>)
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_16.pdf" target=blank_>pdf</a>)
    </li>
 
   <!--  Vacanze di Pasqua -->
 	<hr>
 	<li>
-	 <b>Pausa di Pasqua: dal 17 al 25 aprile</b>
+	 <b>Pausa di Pasqua: dal 17 al 24 aprile</b>
 	</li>
 
 
@@ -238,44 +238,45 @@
 	 Lec 15, 28/4 (2h):
    Interazione dei fotoni nella materia. Sciami elettromagnetici.
 	 Lunghezza di attenuazione dei fotoni.
-	 Caratteristiche degli sciami elettromagnetici. Cenni agli sciami adronici.
-	 Rivelatori di particlle. Tracciatori. Calorimetri.
 	 (Torrenova cap 3, Das-Ferbel cap 6, Longo-Dionisi cap 4)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-28-lezione-15.pdf" target=blank_></a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-28-lezione-15.pdf" target=blank_>lavagna</a>)
 	 </li>
 
 	 <hr>
 	 <li>
 	 Lec 16, 29/4 (2h):
+	 Caratteristiche degli sciami elettromagnetici. Cenni agli sciami adronici.
 	 Rivelatori di particlle. Tracciatori. Calorimetri.
-	 Acceleratori di particelle. Differenze tra acceleratori lineari
-	 e circolari. Ciclotrone e sincrotrone.
 	 (Torrenova cap 3, Das-Ferbel cap 6 e 8, Longo-Dionisi cap 4)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-21-lezione-13.pdf" target=blank_></a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-29-lezione-16.pdf" target=blank_></a>)
    </li>
 
 	 <hr>
 	 <li>
-	  Esercitazione 10, 30/4 (1h): esercizi sull'interazione nella materia.
-	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_04_30.pdf" target=blank_></a>)
+		 Lec 17, 30/4 (1h):
+		 Acceleratori di particelle. Differenze tra acceleratori lineari
+		 e circolari. Ciclotrone e sincrotrone.
+		 (Torrenova cap 3, Das-Ferbel cap 6 e 8, Longo-Dionisi cap 4)
+		 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-30-lezione-17.pdf" target=blank_></a>)
+
    </li>
 
 	 <hr>
 	 <li>
-	  Esercitazione 11, 5/5 (2h): esercizi sull'interazione nella materia.
+	  Esercitazione 10, 5/5 (2h): esercizi sull'interazione nella materia.
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_05.pdf" target=blank_></a>)
    </li>
 
 	 <hr>
 	 <li>
-	  Esercitazione 12, 6/5 (2h): esercizi sull'interazione nella materia.
-	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_05.pdf" target=blank_></a>)
+	  Esercitazione 11, 6/5 (2h): esercizi sull'interazione nella materia.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_06.pdf" target=blank_></a>)
    </li>
 
 	 <hr>
 	 <li>
-	  Esercitazione 13, 7/5 (1h): esercizi sull'interazione nella materia.
-	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_05.pdf" target=blank_></a>)
+	  Esercitazione 12, 7/5 (1h): esercizi sull'interazione nella materia.
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_07.pdf" target=blank_></a>)
    </li>
 
 
