@@ -246,18 +246,16 @@
 	 <li>
 	 Lec 16, 29/4 (2h):
 	 Caratteristiche degli sciami elettromagnetici. Cenni agli sciami adronici.
-	 Rivelatori di particlle. Tracciatori. Calorimetri.
 	 (Torrenova cap 3, Das-Ferbel cap 6 e 8, Longo-Dionisi cap 4)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-29-lezione-16.pdf" target=blank_></a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-29-lezione-16.pdf" target=blank_>lavagna</a>)
    </li>
 
 	 <hr>
 	 <li>
 		 Lec 17, 30/4 (1h):
-		 Acceleratori di particelle. Differenze tra acceleratori lineari
-		 e circolari. Ciclotrone e sincrotrone.
+		 Rivelatori di particlle. Tracciatori. Esempi di rivelatori multi-purpose CMS e ATLAS.
 		 (Torrenova cap 3, Das-Ferbel cap 6 e 8, Longo-Dionisi cap 4)
-		 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-30-lezione-17.pdf" target=blank_></a>)
+		 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-04-30-lezione-17.pdf" target=blank_>lavagna</a>)
 
    </li>
 
