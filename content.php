@@ -277,6 +277,15 @@
 	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_07.pdf" target=blank_></a>)
    </li>
 
+ <hr>
+ <li>
+	 Lec 18, 12/5:
+	 Introduzione a Fisica  nucleare. Nuclidi e proprieta` dei nuclei. Energia di legame nucleare.
+	 Stabilita` dei nuclei e carta di Segre`. Decadimenti ed &alpha;, &beta; e &gamma;. Q-value nelle reazioni.
+	 (Bertulani cap 4, Dionisi-Longo cap 8)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-05-12-lezione-18.pdf" target=blank_></a>)
+	 </li>
+
 
 <?php /*
 
