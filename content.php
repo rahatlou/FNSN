@@ -268,7 +268,7 @@
 	 <hr>
 	 <li>
 	  Esercitazione 11, 6/5 (2h): esercizi sull'interazione nella materia.
-	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_06.pdf" target=blank_></a>)
+	  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_05_06.pdf" target=blank_>pdf</a>)
    </li>
 
 	 <hr>
