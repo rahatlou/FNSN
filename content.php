@@ -283,7 +283,7 @@
 	 Introduzione a Fisica  nucleare. Nuclidi e proprieta` dei nuclei. Energia di legame nucleare.
 	 Stabilita` dei nuclei e carta di Segre`. Decadimenti ed &alpha;, &beta; e &gamma;. Q-value nelle reazioni.
 	 (Bertulani cap 4, Dionisi-Longo cap 8)
-	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-05-12-lezione-18.pdf" target=blank_></a>)
+	 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-05-12-lezione-18.pdf" target=blank_>lavagna</a>)
 	 </li>
 
 
