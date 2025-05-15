@@ -313,42 +313,36 @@
 			prova in itinere
 	  </li>
 
+		<hr>
+		<li>
+		  Lec 21, 19/5:
+		  Forza nucleare e la buca di potenziale. Impulso di Fermi dei nucleoni(Bertulani 5.3, <a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/impulso-di-fermi.pdf"  target=blank_>pdf</a>).
+		  Stima dell'energia di legame nucleare con il modello a goccia.
+			Formula di Bethe-Weizsacker per la massa dei nuclidi.
+		  (Bertulani cap 4 e 5; Dionisi-Longo cap 8)
+  		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-05-19-lezione-21.pdf" target=blank_></a>)
+		</li>
+
+		<hr>
+		<li>
+		  Lec 22, 20/5:
+			Decadimento &alpha;.
+		  Cinematica del decadimento e soglia di instabilita`. Modello di Gamow.
+		  Legge di Geiger-Nuttal.
+			Reazioni nucleari. Reazioni esotermiche ed endotermiche.
+		  (Bertulani cap 5 e 7)
+  		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-05-19-lezione-21.pdf" target=blank_></a>)
+		</li>
+
 
 
 <?php /*
 
 
 
-<li>
-Lec 28, 13/5:
-
-Decadimento &beta;. Regola d'oro di Fermi. Teoria di Fermi per l'interazione debole.
-(Das-Ferbel cap8, Bertulani cap 6.9, 8.3, Longo-Dionisi cap 6,5)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-13.pdf" target=blank_>lavagna</a>)
-</li>
 
 
 
-
-<li>
-Lec 14, 9/4:
-Buca di potenziale e il potenziale nucleare. Impulso di Fermi dei nucleoni(Bertulani 5.3, <a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/impulso-di-fermi.pdf"  target=blank_>pdf</a>).
-Stima dell'energia di legame con il modello a goccia.
-(Bertulani cap 4 e 5, Dionisi-Longo cap 8)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-09.pdf" target=blank_>lavagna</a>)
-</li>
-
-
-
-
-<li>
-Lec 16, 15/4:
-Formula di Bethe-Weizsacker per la massa. Decadimento &alpha;.
-Cinematica del decadimento e soglia di instabilita`. Modello di Gamow.
-Legge di Geiger-Nuttal.
-(Bertulani cap 5 e 7)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-15.pdf" target=blank_>lavagna</a>)
-</li>
 
 <li>
 Lec 17, 16/4:
@@ -385,16 +379,7 @@ II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
 </li>
 
 
-<li>
-Lec 31, 26/5:
-Larghezza di decadimento e distribuzione di Breit-Wigner.
-Diffusione del neutrino sul protone.
-Calcolo della sezione d'urto con la regola d'oro di Fermi.
-La scoperta del neutrino. Esperimento di Reines-Cowan.
-(Dionisi-Longo cap 5; Perkins cap 7.3, 7.4)
 
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-26.pdf" target=blank_>lavagna</a>)
-</li>
 
 <li>
 Lec 32, 28/5:
@@ -405,11 +390,7 @@ Sezioni d'urto di nucleoni e l'impatto di isospin
 (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-28.pdf" target=blank_>lavagna</a>)
 </li>
 
-<li>
-Lec 33, 4/6: Esercitazione sui fotoni nella materia.
-Esperimento di Wu e la violazione della parita`.
-(Dionisi-Longo cap 6,7; Griffiths cap 4.4.1, Perkins cap 3, 7.5)
-</li>
+
 
 <li>
 Lec 34, 9/6 ore <b>10-12 (NB orario insolito)</b>:
