@@ -342,7 +342,6 @@
 		Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi stellare.
 		(Bertulani cap 10.1, 10.2,  11.5, 11.7, 12)
 		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-05-26-lezione-23.pdf" target=blank_></a>)
-		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-23.pdf" target=blank_>lavagna</a>)
 		(<a href="https://www.ptable.com" target=blank_>Tavola periodica interattiva</a>)
 		(Articoli da <a href="https://www.asimmetrie.it" target=blank_>asimmetrie.it</a>:
 		<a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
