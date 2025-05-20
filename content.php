@@ -328,7 +328,8 @@
 		  Lec 22, 20/5:
 			Decadimento &alpha;.
 		  Cinematica del decadimento e soglia di instabilita`. Modello di Gamow.
-		  Legge di Geiger-Nuttal.
+		  Legge di Geiger-Nuttal. Calcolo completo del modello Gamow del Prof. Contino
+			(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/alpha-decay-contino.pdf">pdf</a>)
 			Reazioni nucleari. Reazioni esotermiche ed endotermiche. Fissione indotta e spontanea.
 		  (Bertulani cap 7, 10.1, 10.2, 10.3)
   		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-05-20-lezione-22.pdf" target=blank_>lavagna</a>)
