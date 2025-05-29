@@ -350,8 +350,9 @@
 		<li>
 		Lec 24, 27/5:
 		Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi stellare.
-		(Bertulani cap 10.1, 10.2,  11.5, 11.7, 12)
-		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-05-27-lezione-24.pdf" target=blank_></a>)
+		(Bertulani cap 12) Adroni e leptoni. Quarks, mesoni e barioni. (Perkins Cap 1)
+		(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-05-27-lezione-24.pdf" target=blank_>lavagna</a>)
+
 		(<a href="https://www.ptable.com" target=blank_>Tavola periodica interattiva</a>)
 		(Articoli da <a href="https://www.asimmetrie.it" target=blank_>asimmetrie.it</a>:
 		<a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
@@ -361,6 +362,45 @@
 		<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf" target=blank_>nascita delle stelle</a>)
 		</li>
 
+		<hr>
+  	<li>
+	  	Lec 25, 28/5:
+		  Simmetrie continue e discrete. Leggi di conservazione. Cenni a Isospin.
+		  (Dionisi-Longo cap 7; Griffiths cap 4; Perkins cap 3)
+		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-05-28-lezione-25.pdf" target=blank_>lavagna</a>)
+		</li>
+
+		<hr>
+  	<li>
+	  	Lec 26, 3/6:
+		  Violazione della parità nelle interazioni deboli. Conservazione del numero barionico e la scoperta dell'antiprotone.
+		  (Cahn-Goldhaber cap 6 e 4; Dionisi-Longo cap 7; Griffiths cap 4; Perkins cap 3)
+		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/.pdf" target=blank_></a>)
+		</li>
+
+		<hr>
+		<li>
+	  	Lec 27, 4/6 12-14:
+		  Evidenze sperimentali di Isospin. Conservazione del numero barionico e leptonico. Mediatori massivi della forza debole.
+		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/.pdf" target=blank_></a>)
+		</li>
+
+		<hr>
+		<li>
+	  	Lec 28, 10/6:
+		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/.pdf" target=blank_></a>)
+		</li>
+
+		<hr>
+		<li>
+	  	Esercitazione di ripasso, 11/6 12-14:
+		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/.pdf" target=blank_></a>)
+		</li>
+
+
+
+
+
 
 <?php /*
 
@@ -368,43 +408,6 @@
 
 
 
-
-
-
-<li>
-Lec 19, 22/4:
-Fissione indotta e spontanea. Termalizzazione di neutroni tramite urti.
-Fissione dell'uranio. Cenni a reattori nucleari.
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-22.pdf" target=blank_>lavagna</a>)
-(Bertulani cap 10.1, 10.2,  11.5, 11.7)
-</li>
-
-<li>
-Lec 20, 23/4: 12:15: prova in itinere.
-II ora: Fusione. Cicli primari di fusione nel sole. cenni a nucleosintesi.
-(Bertulani cap 12)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-04-23.pdf" target=blank_>lavagna</a>)
-(<a href="https://www.ptable.com" target=blank_>Tavola periodica interattiva</a>)
-(Articoli da <a href="https://www.asimmetrie.it" target=blank_>asimmetrie.it</a>:
-<a href="https://www.asimmetrie.it/pdf/infografiche/as26/as26_PRINCIPALE_tavola_periodica_elementi©Asimmetrie-Infn.pdf">tavola periodica</a>,
-<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-02.pdf" target=blank_>elementi leggeri</a>,
-<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-03.pdf" target=blank_>elementi pesanti</a>,
-<a href="https://www.asimmetrie.it/images/26/pdf/asimmetrie-26-04.pdf" target=blank_>reazioni nucleari nel sole</a>,
-<a href="https://www.asimmetrie.it/images/24/pdf/asimmetrie-24-05.pdf" target=blank_>nascita delle stelle</a>
-)
-</li>
-
-
-
-
-<li>
-Lec 32, 28/5:
-Simmetrie discrete. Isospin: dalla ipotesi teorica alle misure sperimentali.
-Sezioni d'urto di nucleoni e l'impatto di isospin
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/diffusione-pione-nucleone.pdf" target=blank_>pdf</a>).
-(Dionisi-Longo cap 6,7; Griffiths cap 4, Perkins cap 3)
-(<a href="https://github.com/rahatlou/FNSN/blob/FNSN2021/materiale/Videolezione-2021-05-28.pdf" target=blank_>lavagna</a>)
-</li>
 
 
 
