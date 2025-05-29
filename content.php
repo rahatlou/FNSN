@@ -373,8 +373,8 @@
 		<hr>
   	<li>
 	  	Lec 26, 3/6:
-		  Violazione della parità nelle interazioni deboli. Conservazione del numero barionico e la scoperta dell'antiprotone.
-		  (Cahn-Goldhaber cap 6 e 4; Dionisi-Longo cap 7; Griffiths cap 4; Perkins cap 3)
+		  Violazione della parità nelle interazioni deboli. Mesoni K e la violazione della stranezza nelle interazioni deboli.
+		  (Cahn-Goldhaber cap 6; Dionisi-Longo cap 7; Griffiths cap 4; Perkins cap 3)
 		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/.pdf" target=blank_></a>)
 		</li>
 
@@ -387,7 +387,8 @@
 
 		<hr>
 		<li>
-	  	Lec 28, 10/6:
+	  	Lec 28, 10/6: Conservazione del numero barionico e la scoperta dell'antiprotone.
+			(Cahn-Goldhaber cap 4)
 		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/.pdf" target=blank_></a>)
 		</li>
 
