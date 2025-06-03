@@ -375,13 +375,13 @@
 	  	Lec 26, 3/6:
 		  Violazione della parità nelle interazioni deboli. Mesoni K e la violazione della stranezza nelle interazioni deboli.
 		  (Cahn-Goldhaber cap 6; Dionisi-Longo cap 7; Griffiths cap 4; Perkins cap 3)
-		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/.pdf" target=blank_></a>)
+		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/esercitazione_2025_06_03.pdf" target=blank_>pdf</a>)
 		</li>
 
 		<hr>
 		<li>
 	  	Lec 27, 4/6 12-14:
-		  Evidenze sperimentali di Isospin. Legame tra l'isospin e la carica elettrica. Formula di Gellman-Nishijima. Conservazione del numero barionico e leptonico. 
+		  Evidenze sperimentali di Isospin. Legame tra l'isospin e la carica elettrica. Formula di Gell-man--Nishijima. Conservazione del numero barionico e leptonico.
 		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/.pdf" target=blank_></a>)
 		</li>
 
