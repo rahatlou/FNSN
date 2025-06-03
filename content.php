@@ -381,7 +381,7 @@
 		<hr>
 		<li>
 	  	Lec 27, 4/6 12-14:
-		  Evidenze sperimentali di Isospin. Conservazione del numero barionico e leptonico. Mediatori massivi della forza debole.
+		  Evidenze sperimentali di Isospin. Legame tra l'isospin e la carica elettrica. Formula di Gellman-Nishijima. Conservazione del numero barionico e leptonico. 
 		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/.pdf" target=blank_></a>)
 		</li>
 
