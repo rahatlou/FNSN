@@ -381,8 +381,8 @@
 		<hr>
 		<li>
 	  	Lec 27, 4/6 12-14:
-		  Evidenze sperimentali di Isospin. Legame tra l'isospin e la carica elettrica. Formula di Gell-man--Nishijima. Conservazione del numero barionico e leptonico.
-		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/.pdf" target=blank_></a>)
+		  Evidenze sperimentali di Isospin. Legame tra l'isospin e la carica elettrica. Formula di Gell-man--Nishijima. Conservazione del numero barionico.
+		  (<a href="https://github.com/rahatlou/FNSN/blob/FNSN2025/materiale/2025-06-04-lezione-27.pdf" target=blank_>lavagna</a>)
 		</li>
 
 		<hr>
