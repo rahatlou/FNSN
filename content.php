@@ -23,6 +23,26 @@
 	È necessario registrarsi con le credenziali istituzionali uniroma1 per ricevere avvisi e materiale aggiuntivo relativo al corso.
  </div>
 
+ <h2  class="title">Appello di Febbraio</h2>
+ <div class="entry">
+
+	<p>La prova scritta dell’appello di Febbraio si svolge secondo il calendario accademico disponibile sul sito del dipartimento il giorno martedì 10 febbraio.
+
+<p>La prova scritta si svolge in Aula 3 dell’edficio Fermi (CU033).
+
+<p>L’appello dei presenti sara` alle 8:45 con l'inizio della prova scritta alle 9:00.
+
+<p>Come sempre avrete bisogno solo della penna e della calcolarice. Non sara` possibile consultare libri o appunti.
+
+ <p>Date le difficolta` con il sistema informatico negli ultimi giorni, coloro che intendono partecipare devono riempire il modulo
+	  <a href="https://forms.gle/v7j179ya85J1d6cR7">modulo prenotazione</a> entro le ore 19:00 di venerdi 6 febbraio (non servono credinziali uniroma1).
+
+<p>Le prove orali saranno nel giorno venerdi` 20 febbraio.  Nel caso il numero di prove orali fosse maggiore di 16, alcune prove
+	si svolgeranno il giorno 23 febbraio.
+
+</div>
+
+
 	<h2 class="title">Lezioni</h2>
 	<div class="entry">
 
