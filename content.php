@@ -23,7 +23,7 @@
 	È necessario registrarsi con le credenziali istituzionali uniroma1 per ricevere avvisi e materiale aggiuntivo relativo al corso.
  </div>
 
- <h2  class="title">Appello di Febbraio</h2>
+ <h2  class="title">Appello di Febbraio 2026</h2>
  <div class="entry">
 
 	<p>La prova scritta dell’appello di Febbraio si svolge secondo il calendario accademico disponibile sul sito del dipartimento il giorno martedì 10 febbraio.
